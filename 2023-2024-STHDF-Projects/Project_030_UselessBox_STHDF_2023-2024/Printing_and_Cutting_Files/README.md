@@ -1,0 +1,3 @@
+# Folder containing files used for printing and cutting 
+Folder with files for printing contains 2 .stl files we used to 3D print the head and paw of the cat inside the box. These files were inserted into the PrusaSlicer and printed using Prusa Mini filled with PLA. Printing times were 35 minutes for the Paw and 57 minutes for the Head.
+The cutting folder contains single file we used to create the box itself. The box was created using online website for box creation. We also had to manually create the top of the box because of its functionality. We then used laser cutter to cut the box out of 3mm wood.

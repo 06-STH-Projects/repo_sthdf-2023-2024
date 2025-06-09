@@ -1,0 +1,1 @@
+These photos were taken during the creation of the useless box, in different stages of completion

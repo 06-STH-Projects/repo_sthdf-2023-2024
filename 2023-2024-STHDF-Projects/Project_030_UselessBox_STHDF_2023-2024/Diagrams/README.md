@@ -1,0 +1,1 @@
+Contains all diagrams used in origin README file.

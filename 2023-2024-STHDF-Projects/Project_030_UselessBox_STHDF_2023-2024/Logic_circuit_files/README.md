@@ -1,0 +1,3 @@
+# Folder containing all files important for the logic circuit creation
+The list of the parts is contained in .csv file. Circuit scheme shows the correct way of how to connect all these parts. Servo 1 represents the servo opening and closing the box, while the servo 2 operates the Paw for the switch.
+The slideswitch represents the On/On toggle switch implemented in the project, but connected in only one position creating On/Off switch. The last file contains the code used by Micro:bit to run the whole project. The code is directly imported to micro:bit without any required changes.

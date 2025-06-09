@@ -1,0 +1,4 @@
+TENTO FOLDER OBSAHUJE 2 subory:
+1. Prazdny model
+2.Model ktory obsahuje celu historiu triedy od roku 2021.
+ Tento model bude aj pre rok 2023-2024
