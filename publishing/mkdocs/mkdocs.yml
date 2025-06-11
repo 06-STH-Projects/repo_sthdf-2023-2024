@@ -1,0 +1,7 @@
+site_name: Class 2023–2024 – System Thinking
+theme:
+  name: readthedocs
+nav:
+  - Úvod: index.md
+  - Syllabus: Syllabus-2023-2024.md
+  - Projekty: projects.md
