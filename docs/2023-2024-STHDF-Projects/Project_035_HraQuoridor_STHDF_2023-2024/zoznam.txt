@@ -1,0 +1,85 @@
+total 16
+123435011 drwxr-xr-x@  9 romankazicka  staff   288 Jun 11 20:31 .
+123434091 drwxr-xr-x@ 28 romankazicka  staff   896 Jun 11 20:28 ..
+123435012 drwxr-xr-x@  4 romankazicka  staff   128 Jun 11 16:01 About Us
+123435036 drwxr-xr-x@ 28 romankazicka  staff   896 Jun 11 16:01 Figures
+123435035 -rw-r--r--@  1 romankazicka  staff  1278 Jun 11 19:37 index.md
+123435015 drwxr-xr-x@  5 romankazicka  staff   160 Jun 11 16:01 Knowledge Contribution
+123435024 drwxr-xr-x@  8 romankazicka  staff   256 Jun 11 16:01 Project
+123435023 -rw-r--r--@  1 romankazicka  staff  1278 Jun 11 16:01 README.md
+123526122 -rw-r--r--@  1 romankazicka  staff     0 Jun 11 20:32 zoznam.txt
+
+./About Us:
+total 16
+123435012 drwxr-xr-x@ 4 romankazicka  staff   128 Jun 11 16:01 .
+123435011 drwxr-xr-x@ 9 romankazicka  staff   288 Jun 11 20:31 ..
+123435013 -rw-r--r--@ 1 romankazicka  staff  3350 Jun 11 16:01 About Me S-035.md
+123435014 -rw-r--r--@ 1 romankazicka  staff  1738 Jun 11 16:01 About Me S-038-1.md
+
+./Figures:
+total 19440
+123435036 drwxr-xr-x@ 28 romankazicka  staff      896 Jun 11 16:01 .
+123435011 drwxr-xr-x@  9 romankazicka  staff      288 Jun 11 20:31 ..
+123435055 -rw-r--r--@  1 romankazicka  staff    65336 Jun 11 16:01 comp-art.png
+123435052 -rw-r--r--@  1 romankazicka  staff    99966 Jun 11 16:01 curing.png
+123435058 -rw-r--r--@  1 romankazicka  staff   574196 Jun 11 16:01 Figure-BL1.png
+123435059 -rw-r--r--@  1 romankazicka  staff   251249 Jun 11 16:01 Figure-BL2.jpg
+123435061 -rw-r--r--@  1 romankazicka  staff   672374 Jun 11 16:01 Figure-Blender.png
+123435041 -rw-r--r--@  1 romankazicka  staff    18079 Jun 11 16:01 Figure-Quoridor-Compartments.png
+123435057 -rw-r--r--@  1 romankazicka  staff   216032 Jun 11 16:01 Figure-Quoridor-Original.jpg
+123435060 -rw-r--r--@  1 romankazicka  staff    18950 Jun 11 16:01 Figure-Quoridor-Our-Design-Sketch-Lid-Up.png
+123435048 -rw-r--r--@  1 romankazicka  staff     8830 Jun 11 16:01 Figure-Quoridor-Our-Design-Top-Down-Opening-Mechanism.png
+123435045 -rw-r--r--@  1 romankazicka  staff    12367 Jun 11 16:01 Figure-Quoridor-Our-Design-Top-Down.png
+123435050 -rw-r--r--@  1 romankazicka  staff    12765 Jun 11 16:01 Figure-SL1.png
+123435049 -rw-r--r--@  1 romankazicka  staff    47396 Jun 11 16:01 Figure-SL2.png
+123435056 -rw-r--r--@  1 romankazicka  staff   123866 Jun 11 16:01 model-blender.png
+123435039 -rw-r--r--@  1 romankazicka  staff   125158 Jun 11 16:01 model1.png
+123435042 -rw-r--r--@  1 romankazicka  staff    29702 Jun 11 16:01 model2.png
+123435040 -rw-r--r--@  1 romankazicka  staff   211402 Jun 11 16:01 model3.png
+123435047 -rw-r--r--@  1 romankazicka  staff  1025247 Jun 11 16:01 OUT-1.png
+123435044 -rw-r--r--@  1 romankazicka  staff   828141 Jun 11 16:01 OUT-2.png
+123435043 -rw-r--r--@  1 romankazicka  staff   624997 Jun 11 16:01 OUT-3.png
+123435038 -rw-r--r--@  1 romankazicka  staff  1929391 Jun 11 16:01 OUT-4.png
+123435037 -rw-r--r--@  1 romankazicka  staff  1887739 Jun 11 16:01 OUT-5.jpg
+123435046 -rw-r--r--@  1 romankazicka  staff    84821 Jun 11 16:01 print-digram.png
+123435054 -rw-r--r--@  1 romankazicka  staff   126621 Jun 11 16:01 print-set.png
+123435062 -rw-r--r--@  1 romankazicka  staff    92282 Jun 11 16:01 printer.png
+123435053 -rw-r--r--@  1 romankazicka  staff   647659 Jun 11 16:01 printers-comparision.png
+123435051 -rw-r--r--@  1 romankazicka  staff   157070 Jun 11 16:01 slicer.png
+
+./Knowledge Contribution:
+total 24
+123435015 drwxr-xr-x@ 5 romankazicka  staff   160 Jun 11 16:01 .
+123435011 drwxr-xr-x@ 9 romankazicka  staff   288 Jun 11 20:31 ..
+123435018 drwxr-xr-x@ 6 romankazicka  staff   192 Jun 11 16:01 Assets
+123435016 -rw-r--r--@ 1 romankazicka  staff  1726 Jun 11 16:01 Knowledge Contribution S-035.md
+123435017 -rw-r--r--@ 1 romankazicka  staff  7105 Jun 11 16:01 Knowledge Contribution S-038-1.md
+
+./Knowledge Contribution/Assets:
+total 576
+123435018 drwxr-xr-x@ 6 romankazicka  staff     192 Jun 11 16:01 .
+123435015 drwxr-xr-x@ 5 romankazicka  staff     160 Jun 11 16:01 ..
+123435020 -rw-r--r--@ 1 romankazicka  staff   25916 Jun 11 16:01 Adult-Kenyan-sand-boa.jpg
+123435019 -rw-r--r--@ 1 romankazicka  staff    4542 Jun 11 16:01 africa-locality.jpg
+123435021 -rw-r--r--@ 1 romankazicka  staff   30981 Jun 11 16:01 PR-53-Jak-vybrat-infrazarice-04-750x488.jpg
+123435022 -rw-r--r--@ 1 romankazicka  staff  223836 Jun 11 16:01 teraria.png
+
+./Project:
+total 56
+123435024 drwxr-xr-x@ 8 romankazicka  staff   256 Jun 11 16:01 .
+123435011 drwxr-xr-x@ 9 romankazicka  staff   288 Jun 11 20:31 ..
+123435033 -rw-r--r--@ 1 romankazicka  staff  6035 Jun 11 16:01 Business_Layer.md
+123435026 drwxr-xr-x@ 6 romankazicka  staff   192 Jun 11 16:01 Models
+123435031 -rw-r--r--@ 1 romankazicka  staff  3000 Jun 11 16:01 Outcomes_and_Results.md
+123435032 -rw-r--r--@ 1 romankazicka  staff   207 Jun 11 16:01 Project- Summary.md
+123435025 -rw-r--r--@ 1 romankazicka  staff  2731 Jun 11 16:01 System_Layer.md
+123435034 -rw-r--r--@ 1 romankazicka  staff  7465 Jun 11 16:01 Technology_Layer.md
+
+./Project/Models:
+total 6160
+123435026 drwxr-xr-x@ 6 romankazicka  staff      192 Jun 11 16:01 .
+123435024 drwxr-xr-x@ 8 romankazicka  staff      256 Jun 11 16:01 ..
+123435027 -rw-r--r--@ 1 romankazicka  staff   119884 Jun 11 16:01 Base.stl
+123435029 -rw-r--r--@ 1 romankazicka  staff   130884 Jun 11 16:01 Pawn.stl
+123435030 -rw-r--r--@ 1 romankazicka  staff  2864384 Jun 11 16:01 Top_Plate.stl
+123435028 -rw-r--r--@ 1 romankazicka  staff    30284 Jun 11 16:01 Wall.stl

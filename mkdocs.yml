@@ -1,0 +1,43 @@
+site_name: Class 2023–2024 – System Thinking
+theme:
+  #name: readthedocs
+  # name: material
+  # name: mkdocs # super horne menu pre projekty a bocna navigacia
+  # name: windmile
+  name: cinder 
+  # name: doxy
+nav:
+  - Introduction: index.md
+
+  - General Info About Class:
+      - Syllabus: Syllabus-2023-2024.md
+      # - Grades: Grades.md           # ← priprav si Grades.md
+      # - Expectations: Expectations.md  # ← ak ešte neexistuje, stačí vytvoriť prázdny
+
+  - Projects:
+      - 001 Bed Occupancy STHDF 2023 2024: 2023-2024-STHDF-Projects/Project_001_Bed_Occupancy_STHDF_2023-2024/index.md
+      - 002 Plants Watering Machine STHDF 2023 2024: 2023-2024-STHDF-Projects/Project_002_PlantsWateringMachine_STHDF_2023-2024/index.md
+      - 003 Sensor CO2 STHDF 2023 2024: 2023-2024-STHDF-Projects/Project_003_SensorCO2_STHDF_2023-2024/index.md
+      - 004 Car Charm STHDF 2023 2024: 2023-2024-STHDF-Projects/Project_004_CarCharm_STHDF_2023-2024/index.md
+      - 005 Spin Fork STHDF 2023 2024: 2023-2024-STHDF-Projects/Project_005_SpinFork_STHDF_2023-2024/index.md
+      - 006 Automated Blinds Control STHDF 2023 2024: 2023-2024-STHDF-Projects/Project_006_AutomatedBlindsControl_STHDF_2023-2024/index.md
+      - 007 Kamerový Systém STHDF 2023 2024: 2023-2024-STHDF-Projects/Project_007_KamerovýSystém_STHDF_2023-2024/index.md
+      - 008 Automated Pet Feeder STHDF 2023 2024: 2023-2024-STHDF-Projects/Project_008_AutomatedPetFeeder_STHDF_2023-2024/index.md
+      - 009 Solar Tracker STHDF 2023 2024: 2023-2024-STHDF-Projects/Project_009_SolarTracker_STHDF_2023-2024/index.md
+      - 010 Mouse Mover STHDF 2023 2024: 2023-2024-STHDF-Projects/Project_010_MouseMover_STHDF_2023-2024/index.md
+      - 011 Sit Straight STHDF 2023 2024: 2023-2024-STHDF-Projects/Project_011_SitStraight_STHDF_2023-2024/index.md
+      - 012 Music Visualiser STHDF 2023 2024: 2023-2024-STHDF-Projects/Project_012_MusicVisualiser_STHDF_2023-2024/index.md
+      - 013 Multifunctional Feeder STHDF 2023 2024: 2023-2024-STHDF-Projects/Project_013_MultifunctionalFeeder_STHDF_2023-2024/index.md
+      - 014 My Project Name STHDF 2023 2024: Project_014_MyProjectName_STHDF_2023-2024/index.md
+      - 015 Krabicka Na Lieky STHDF 2023 2024: 2023-2024-STHDF-Projects/Project_015_KrabickaNaLieky_STHDF_2023-2024/index.md
+      - 018 DrumStick Holder : 2023-2024-STHDF-Projects/Project_018_MyProjectName_STHDF_2023-2024/index.md
+      - 020 Water Planter: 2023-2024-STHDF-Projects/Project_022_WaterPlanter_STHDF_2023-2024/index.md
+      - 025 Dogfit : 2023-2024-STHDF-Projects/Project_025_MyProjectName_STHDF_2023-2024/index.md
+      - 027 Alcohol tester: 2023-2024-STHDF-Projects/Project_027_AlcoholMeter_STHDF_2023-2024/project_outcomes.md
+      - 030 Useless Cat Box: 2023-2024-STHDF-Projects/Project_030_UselessBox_STHDF_2023-2024/index.md
+      - 035 Hra Quoridor:
+        - Prehľad: 2023-2024-STHDF-Projects/Project_035_HraQuoridor_STHDF_2023-2024/index.md
+        - O nás: 2023-2024-STHDF-Projects/Project_035_HraQuoridor_STHDF_2023-2024/AboutUs/About_Me_S-035.md
+        - Knowledge Contribution: 2023-2024-STHDF-Projects/Project_035_HraQuoridor_STHDF_2023-2024/KnowledgeContribution/KnowledgeContributionS-038-1.md
+        - Project Outcomes: 2023-2024-STHDF-Projects/Project_035_HraQuoridor_STHDF_2023-2024/Project/index.md
+      - 042 Self watering planter: 2023-2024-STHDF-Projects//Project_042_Self_watering_planter_STHDF_2023-2024/ondovcikova_skalican.md
