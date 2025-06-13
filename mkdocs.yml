@@ -1,11 +1,37 @@
-site_name: Class 2023–2024 – System Thinking
+site_name: Class 2023–2024 – System Thinking 
+site_url: ""
+site_author: Roman Kazička
+
+
 theme:
   #name: readthedocs
   # name: material
   # name: mkdocs # super horne menu pre projekty a bocna navigacia
   # name: windmile
-  name: cinder 
+  # name: cinder 
   # name: doxy
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.sections
+    - toc.integrate
+    - content.code.annotate
+    - content.tabs.link
+    - search.highlight
+    - search.share
+  palette:
+    - scheme: default
+      primary: blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: blue
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
 nav:
   - Introduction: index.md
 
@@ -15,6 +41,8 @@ nav:
       # - Expectations: Expectations.md  # ← ak ešte neexistuje, stačí vytvoriť prázdny
 
   - Projects:
+
+      - 000 ------------------:  ./index.md
       - 001 Bed Occupancy STHDF 2023 2024: 2023-2024-STHDF-Projects/Project_001_Bed_Occupancy_STHDF_2023-2024/index.md
       - 002 Plants Watering Machine STHDF 2023 2024: 2023-2024-STHDF-Projects/Project_002_PlantsWateringMachine_STHDF_2023-2024/index.md
       - 003 Sensor CO2 STHDF 2023 2024: 2023-2024-STHDF-Projects/Project_003_SensorCO2_STHDF_2023-2024/index.md
@@ -41,3 +69,22 @@ nav:
         - Knowledge Contribution: 2023-2024-STHDF-Projects/Project_035_HraQuoridor_STHDF_2023-2024/KnowledgeContribution/KnowledgeContributionS-038-1.md
         - Project Outcomes: 2023-2024-STHDF-Projects/Project_035_HraQuoridor_STHDF_2023-2024/Project/index.md
       - 042 Self watering planter: 2023-2024-STHDF-Projects//Project_042_Self_watering_planter_STHDF_2023-2024/ondovcikova_skalican.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - codehilite
+  - footnotes
+  - tables
+  - def_list
+  - abbr
+  - attr_list
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+plugins:
+  - search

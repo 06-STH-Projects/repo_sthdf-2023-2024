@@ -6,4 +6,4 @@ Welcome to the System Thinking in IT and Digital Fabrication class Wiki.
 
 ### Important Links
 - [Syllabus](./Syllabus-2023-2024.md)
-- [Projects](./Projects.mdProjects.md)
+- [Projects](./Projects.md)
