@@ -1,0 +1,1348 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+        <meta name="author" content="Roman Kazička">
+      
+      
+      
+        <link rel="prev" href="../../Project_025_MyProjectName_STHDF_2023-2024/">
+      
+      
+        <link rel="next" href="../../Project_030_UselessBox_STHDF_2023-2024/">
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.14">
+    
+    
+      
+        <title>027 Alcohol tester - Class 2023–2024 – System Thinking</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.342714a4.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#headlines-short-description" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Class 2023–2024 – System Thinking" class="md-header__button md-logo" aria-label="Class 2023–2024 – System Thinking" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Class 2023–2024 – System Thinking
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              027 Alcohol tester
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="blue" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Share" aria-label="Share" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91s2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Introduction
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../Syllabus-2023-2024/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  General Info About Class
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../../.." class="md-tabs__link">
+          
+  
+  
+    
+  
+  Projects
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Class 2023–2024 – System Thinking" class="md-nav__button md-logo" aria-label="Class 2023–2024 – System Thinking" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Class 2023–2024 – System Thinking
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Introduction
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    General Info About Class
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            General Info About Class
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Syllabus-2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Syllabus
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../.." class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Projects
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3" id="__nav_3_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Projects
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Project_001_Bed_Occupancy_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    001 Bed Occupancy STHDF 2023 2024
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Project_002_PlantsWateringMachine_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    002 Plants Watering Machine STHDF 2023 2024
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Project_003_SensorCO2_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    003 Sensor CO2 STHDF 2023 2024
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Project_004_CarCharm_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    004 Car Charm STHDF 2023 2024
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Project_005_SpinFork_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    005 Spin Fork STHDF 2023 2024
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Project_006_AutomatedBlindsControl_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    006 Automated Blinds Control STHDF 2023 2024
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Project_007_Kamerov%C3%BDSyst%C3%A9m_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    007 Kamerový Systém STHDF 2023 2024
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Project_008_AutomatedPetFeeder_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    008 Automated Pet Feeder STHDF 2023 2024
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Project_009_SolarTracker_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    009 Solar Tracker STHDF 2023 2024
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Project_010_MouseMover_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    010 Mouse Mover STHDF 2023 2024
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Project_011_SitStraight_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    011 Sit Straight STHDF 2023 2024
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Project_012_MusicVisualiser_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    012 Music Visualiser STHDF 2023 2024
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Project_013_MultifunctionalFeeder_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    013 Multifunctional Feeder STHDF 2023 2024
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Project_014_MyProjectName_STHDF_2023-2024/index.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    014 My Project Name STHDF 2023 2024
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Project_015_KrabickaNaLieky_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    015 Krabicka Na Lieky STHDF 2023 2024
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Project_018_MyProjectName_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    018 DrumStick Holder
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Project_022_WaterPlanter_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    020 Water Planter
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Project_025_MyProjectName_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    025 Dogfit
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    027 Alcohol tester
+    
+  </span>
+  
+
+      </a>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Project_030_UselessBox_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    030 Useless Cat Box
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_22" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../Project_035_HraQuoridor_STHDF_2023-2024/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    035 Hra Quoridor
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_22" id="__nav_3_22_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_22_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_22">
+            <span class="md-nav__icon md-icon"></span>
+            035 Hra Quoridor
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Project_035_HraQuoridor_STHDF_2023-2024/AboutUs/About_Me_S-035/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    O nás
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Project_035_HraQuoridor_STHDF_2023-2024/KnowledgeContribution/KnowledgeContributionS-038-1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Knowledge Contribution
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Project_035_HraQuoridor_STHDF_2023-2024/Project/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Project Outcomes
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Project_042_Self_watering_planter_STHDF_2023-2024/ondovcikova_skalican/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    042 Self watering planter
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="headlines-short-description">Headlines - Short Description<a class="headerlink" href="#headlines-short-description" title="Permanent link">&para;</a></h1>
+<p>More and more deaths are every year caused by drunk drivers. Not only that, but one-time-use alcohol testers are expensive and in some countries mandatory car equipment. We wish to motivate drivers to enhance the use of reusable alcohol testers. This can save them costs which in turn can also save the environment from pollution generated by gasses released during the production of one-time-use alcohol testers.  Another clear benefit is the amount of lives that the introduction of this project will save. The project should be offered in 2 possible options: built in 3D printed case (Can be used right away) and a DIY alternative where buyers get to build it themselves (With assistance from our documentation). Users will also get an option of battery or battery-less implementation.</p>
+<p><img alt="Untitled drawio" src="https://gist.github.com/assets/55763425/2a20d172-78e8-46f1-94a1-0af9bbcf1a65" /></p>
+<h1 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h1>
+<p>In recent years, the alarming increase in fatalities resulting from drunk driving incidents has become a cause for serious concern. As the number of such tragic events continues to rise annually, there is a growing need for effective measures to address this issue and mitigate its impact on society. One potential solution that not only promotes road safety but also contributes to environmental conservation involves the widespread adoption of reusable alcohol testers.</p>
+<p>The current landscape presents an additional challenge: the high cost associated with one-time-use alcohol testers. In some countries, these devices are not only expensive but also mandatory car equipment. This financial burden on drivers is a considerable factor, and addressing it could potentially lead to more widespread compliance with alcohol testing regulations. Our initiative aims to motivate drivers to transition to reusable alcohol testers, offering both economic and environmental benefits.</p>
+<p>One of the primary advantages of embracing reusable testers is the potential for significant cost savings. By opting for a reusable device, drivers can avoid the recurring expenses associated with purchasing one-time-use testers. This, in turn, not only eases the financial strain on individuals but also promotes responsible behaviour by encouraging regular alcohol testing without the fear of added expenses.</p>
+<p>Moreover, the environmental impact of one-time-use alcohol testers is often overlooked. The production and disposal of these single-use devices contribute to pollution, primarily through the release of gases during manufacturing processes. By choosing reusable testers, individuals can actively contribute to reducing their carbon footprint and promoting a more sustainable approach to personal safety.</p>
+<p>To ensure the seamless integration of this initiative, we propose offering the reusable alcohol testers in two convenient options. The first option involves a built-in 3D printed case, providing users with a ready-to-use solution that requires minimal effort for implementation. This user-friendly approach aims to make the transition to reusable testers as straightforward as possible, catering to a broad spectrum of drivers.</p>
+<p>For those who prefer a more hands-on experience, we introduce a DIY alternative where buyers can assemble the alcohol tester themselves. Accompanied by comprehensive documentation, this option allows users to actively participate in the creation of their safety equipment while also gaining a deeper understanding of its functionality. This educational component enhances the overall user experience and promotes a sense of ownership and responsibility.</p>
+<p>Additionally, recognizing the diverse preferences and concerns of users, our initiative offers a choice between battery-powered and battery-less implementations. This flexibility ensures that the reusable alcohol testers can cater to a wide range of user needs and preferences, fostering inclusivity in the adoption of this life-saving technology.</p>
+<p>In conclusion, the introduction of reusable alcohol testers presents a multifaceted solution to the pressing issues of drunk driving fatalities, financial strain on drivers, and environmental pollution. By providing options that prioritize convenience, affordability, and sustainability, our initiative strives to make a meaningful impact on road safety while promoting responsible and eco-friendly practices among drivers worldwide.</p>
+<p>The AI-generated image on how one-time-use alcohol testers pollute the environment:</p>
+<p><img alt="afb8b3c2-77ab-40b3-bb77-ea482b520f3d" src="https://gist.github.com/assets/55763425/e7d7d41e-4750-49f7-a026-83ec0cdf0e73" /></p>
+<h1 id="analysis">Analysis<a class="headerlink" href="#analysis" title="Permanent link">&para;</a></h1>
+<p>Before we begin with the implementation and design phase we first had to do some analysis of how this product will affect the market, what components will be necessary and how much will this tester cost. This involved building a Business analysis, Activity diagram, Use case diagram, Component diagram and Cost analysis.</p>
+<h2 id="business-and-cost-analysis">Business and cost analysis<a class="headerlink" href="#business-and-cost-analysis" title="Permanent link">&para;</a></h2>
+<p>Cost analysis of DIY alcohol tester (Cheapest possible version):</p>
+<p>Arduino Nano clone - 4.5eur on average</p>
+<p>3.3V → 5V PSU - 0.75eur on average</p>
+<p>Case - Free (Up to 2eur if 3D Printed)</p>
+<p>Oled Display - 4.5eur on average</p>
+<p>MQ3 sensor - 2.5eur on average</p>
+<p>The total cost of the cheapest project Alcohol tester is 12.25eur.</p>
+<h2 id="the-are-multiple-options-for-alcohol-testers">The are multiple options for alcohol testers:<a class="headerlink" href="#the-are-multiple-options-for-alcohol-testers" title="Permanent link">&para;</a></h2>
+<p>One-time use - 3eur on average</p>
+<p>Multiple use - 25eur on average </p>
+<p>Disposable - 5.5eur on average</p>
+<p>Our proposed DIY alcohol tester 12.25eur</p>
+<p>If we compare a DIY alcohol tester to a Multiple-use tester, our solution is more than 50% cheaper and offers much better scalability. The downside is, that the project has to be assembled manually so its target group are mainly tech enthusiast drivers which is a very niche category. On the other hand, a person only needs to buy a one-time-use alcohol tester 4 times to even out the costs of DIY alcohol testers and only 2 times to even out the costs of DIY alcohol testers if they bought disposable alcohol tester. This can save lots of money per year in counties that have alcohol testers mandatory in vehicles. Another added benefit is that the product is very eco-friendly and due to the scalability of Arduino, it does not have to become waste once it becomes obsolete and can be turned into another product or geek idea compared to other testers which cannot be modified and do not reduce environmental impact.</p>
+<h2 id="system-diagram">System diagram<a class="headerlink" href="#system-diagram" title="Permanent link">&para;</a></h2>
+<p><img alt="flowo drawio" src="https://gist.github.com/assets/55763425/02f11778-18a7-4766-8f5e-99545053d4a6" /></p>
+<p>As we can see, the system universally consists of 5 components, microprocessor, ethanol sensor, switch, display and battery if opted. Every of these components can vary and different variations can yield different outcome benefits. For example, choosing a microprocessor board with wifi can help us create a custom application for breathalysing.  Choosing a larger battery can make the device last longer or fitting a larger display can let us print much more data as output. Using better-grade ethanol sensors can make results even more precise. For now, the main application point is to be used as mandatory equipment in cars. Components will be picked according to that.</p>
+<h2 id="activity-diagram">Activity diagram<a class="headerlink" href="#activity-diagram" title="Permanent link">&para;</a></h2>
+<p>There are two situations that require a decision. The first situation evaluates if the MQ3 sensor is able to heat up. If it cannot heat up user is presented with the error MQ3 Failure. On the other hand, if the sensor heats up properly, the user is presented with either a Sober or Drunk status message based on input ethanol levels detected by the sensor.</p>
+<p><img alt="f036f6d0-e652-424e-81bb-70291b78d010" src="https://gist.github.com/assets/55763425/eacee3ae-7f86-494d-be98-b6ae979792b1" /></p>
+<h2 id="use-case-diagram">Use case diagram<a class="headerlink" href="#use-case-diagram" title="Permanent link">&para;</a></h2>
+<p>As it is easy to deduct from the name of the project (Alcohol tester) what this product will allow the user to do/test, the use case diagram is straightforward in this case.</p>
+<p><img alt="fcf3ed59-9b2e-4ff1-8d49-ef29530e866f" src="https://gist.github.com/assets/55763425/ed9311e0-55e0-4e5f-a873-8d032e04f3c0" /></p>
+<h2 id="component-diagram">Component diagram<a class="headerlink" href="#component-diagram" title="Permanent link">&para;</a></h2>
+<p>The following diagram shows components that are necessary in order to accomplish our project. Two components are marked as optional because these are only required if the user wishes to create a battery-powered version of the alcohol tester.</p>
+<p><img alt="55bf99b5-7d6d-4f56-ae47-8edd1c6e7cd6" src="https://gist.github.com/assets/55763425/262b9178-a3a7-466d-a867-32b021af5f91" /></p>
+<h1 id="design">Design<a class="headerlink" href="#design" title="Permanent link">&para;</a></h1>
+<p>During the design period, we studied possible solutions, that are reliable, cost-effective, not supply bound and as intuitive to build for the end user as possible. The design outcome is, that there are 4 different DIY alternatives for Alcohol testers:</p>
+<ul>
+<li>
+<p>Arduino Uno version</p>
+</li>
+<li>
+<p>Arduino Uno version powered by Battery</p>
+</li>
+<li>
+<p>Arduino Nano version</p>
+</li>
+<li>
+<p>Arduino Nano version powered by Battery</p>
+</li>
+</ul>
+<p>Circuit diagram of the Arduino Uno version of Alcohol Tester:</p>
+<p><img width="606" alt="dfc64595-4e08-4963-a7e2-d130b1700a48" src="https://gist.github.com/assets/55763425/17785446-0091-4ae8-84fe-83ba4f50610b"></p>
+<p>We decided, that users should be able to choose whether they wish to use the Battery version of Alcohol Tester or not. Thus we designed a battery version also.</p>
+<p><img width="760" alt="ca45c480-fba3-4033-8c1e-fc9a6f176afb" src="https://gist.github.com/assets/55763425/633c057a-8fae-46eb-a3c8-c383fc173f12"></p>
+<p>As we already mentioned, there is also an Arduino Nano alternative for more DIY-oriented experts (Because it can be built in more compact cases), its diagram can be observed below:</p>
+<p><img width="50" alt="22d2dc63-c851-44e0-a8c9-47866b5d0808" src="https://gist.github.com/assets/55763425/dff9831d-6a6a-4fe0-9a51-b57751766154"></p>
+<p>As Arduino Uno had a Battery alternative, Arduino Nano is also offered with a Battery alternative. Its schematics can be seen below:</p>
+<p><img width="50" alt="b061a7dd-5c8d-4935-bcc4-200128801107" src="https://gist.github.com/assets/55763425/48d65bd2-3df4-4054-b856-963a0a20dc68"></p>
+<h1 id="implementation">Implementation<a class="headerlink" href="#implementation" title="Permanent link">&para;</a></h1>
+<p>The code was produced using the <a href="https://www.arduino.cc/en/software">Arduino IDE</a> programming framework. It allows for direct and quick code upload into Arduino. The schematics were produced with <a href="https://www.circuito.io/">circuito</a>. As both components require 5V power output we had two options: </p>
+<p>Use Arduino Nano (Cheaper, fits smaller space)</p>
+<p>Use Arduino Uno and be a plug-and-play (Offers more scalability for future circuitry updates)</p>
+<p>We think, that both options are interesting and could offer another level of DIY difficulty for enthusiasts.</p>
+<p>For demonstration purposes, we chose the second option to use Arduino Uno without Battery power.</p>
+<p>Total components that are required for this build:</p>
+<ul>
+<li>
+<p>Arduino (Nano/Uno)</p>
+</li>
+<li>
+<p>Battery (Optional, it is recommended to use Lithium batteries for maximal reliability and battery health)</p>
+</li>
+<li>
+<p>Oled Display (Optional)</p>
+</li>
+<li>
+<p>MQ3 Ethanol sensor</p>
+</li>
+<li>
+<p>External power supply 3.3V-&gt;5V (Mandatory with Nano)</p>
+</li>
+<li>
+<p>Case (Optional, but recommended for better transfer abilities)</p>
+</li>
+</ul>
+<h2 id="prototype-number-1">Prototype number 1<a class="headerlink" href="#prototype-number-1" title="Permanent link">&para;</a></h2>
+<p>The display is meant to be behind the plexiglass, the Arduino on top and the MQ3 sensor in the back. This design turned out to be hard to use as the sensor is on the opposite side from the display. This limits users from seeing the status right away.</p>
+<p><img alt="1908ac3b-3712-40b7-ae8f-e3ce90494e14" src="https://gist.github.com/assets/55763425/4f09c875-7110-4351-9561-45ecbde8bb2b" />
+<img alt="56d9fcc9-d3ae-4b5d-9ab7-a30006a53f11" src="https://gist.github.com/assets/55763425/e73a405d-b416-4e3b-a089-32b8b5c77fa3" />
+<img alt="e67be065-6060-4b2d-a9be-39054195c254" src="https://gist.github.com/assets/55763425/f1f90125-5e4d-4eff-a692-1ad0cf4c08c0" />
+<img alt="43328f7c-9d23-4615-9b36-3f8db822891a" src="https://gist.github.com/assets/55763425/ad1f15e2-9ad6-4a4f-b644-185bce501f30" /></p>
+<h2 id="second-prototype">Second prototype<a class="headerlink" href="#second-prototype" title="Permanent link">&para;</a></h2>
+<p>In the second prototype, everything is connected and works as intended. The display and sensor are on the same side and Arduino is on top. After turning the device on the user needs to wait 20 seconds for the sensor to warm up. After that, users can begin to measure ethanol in their breath. This measurement is updated every second to provide accurate results. Based on the value that the MQ3 sensor outputs, users get notified if they are either sober or drunk.</p>
+<p><img alt="4b9c2340-c4a1-4458-be1c-b4a9931e4dbd" src="https://gist.github.com/assets/55763425/38919f2b-5770-4185-9e60-833fd9515722" />
+<img alt="cdcf3792-5435-4bb2-99a9-decb92b2c441" src="https://gist.github.com/assets/55763425/6332b12c-f828-4423-9692-ea1cba1b24a5" />
+<img alt="b6475ba7-bf91-4954-a035-45e33af95c54" src="https://gist.github.com/assets/55763425/b1c33eb4-c4ed-4219-90d4-48c39160a3cb" />
+<img alt="2847715b-478b-43ab-9654-087c0c2d111d" src="https://gist.github.com/assets/55763425/d598f04a-e4d3-4156-8264-e6310524ed2e" /></p>
+<h1 id="validation-verification">Validation, Verification<a class="headerlink" href="#validation-verification" title="Permanent link">&para;</a></h1>
+<p>Our solution was evaluated with a basic test where we put a sensor towards a liquid containing alcohol. The solution acted as expected, displaying a Drunk message on display after it was exposed to ethanol.</p>
+<p>As expected, the solution shows a “Sober” message when nothing is present in front of the sensor.</p>
+<p><img alt="36f786e7-2f87-4ad6-855d-ae265f494495" src="https://gist.github.com/assets/55763425/d4030833-d396-43ad-be27-ef3ab8ff0a55" /></p>
+<p>Once we present the sensor with something that contains ethanol, the sensor immediately senses it and informs us with the message “Drunk”.</p>
+<p><img alt="14151d52-a5cf-4c40-85c0-7b8482d41682" src="https://gist.github.com/assets/55763425/5bc00d08-78b9-4bd5-9c37-1a12229874f0" /></p>
+<h1 id="lessons-learned">Lessons Learned<a class="headerlink" href="#lessons-learned" title="Permanent link">&para;</a></h1>
+<p>We found out, that the placement of components is important. Everything should be laid out to be convenient and easily accessible for users. We also gained experience working with Arduino and various components as well as experience in working with diagrams (Component, Use case and  Activity).</p>
+<h2 id="the-following-diagram-is-deemed-an-ideal-eco-friendly-alcohol-tester-product-by-ai">The following diagram is deemed an ideal eco-friendly Alcohol tester product by AI:<a class="headerlink" href="#the-following-diagram-is-deemed-an-ideal-eco-friendly-alcohol-tester-product-by-ai" title="Permanent link">&para;</a></h2>
+<p><img alt="cc8abe1b-bea9-4bd2-820b-59d38d9f301a" src="https://gist.github.com/assets/55763425/10698ad0-1b24-4c3e-8806-e58114b0d9a5" /></p>
+<p>Perhaps this gives us the direction the project can head towards in the future.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.tabs", "navigation.indexes", "navigation.sections", "toc.integrate", "content.code.annotate", "content.tabs.link", "search.highlight", "search.share"], "search": "../../../assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.13a4f30d.min.js"></script>
+      
+    
+  </body>
+</html>
