@@ -1,0 +1,1545 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+        <meta name="author" content="Patrik Heglas">
+      
+      
+      
+        <link rel="prev" href="../Project_008_AutomatedPetFeeder_STHDF_2023-2024/">
+      
+      
+        <link rel="next" href="../Project_010_MouseMover_STHDF_2023-2024/">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.14">
+    
+    
+      
+        <title>009 Solar Tracker STHDF 2023 2024 - Class 2023–2024 – System Thinking</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.342714a4.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#motivation" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Class 2023–2024 – System Thinking" class="md-header__button md-logo" aria-label="Class 2023–2024 – System Thinking" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Class 2023–2024 – System Thinking
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              009 Solar Tracker STHDF 2023 2024
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="blue" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Share" aria-label="Share" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91s2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Introduction
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Syllabus-2023-2024/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  General Info About Class
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../.." class="md-tabs__link">
+          
+  
+  
+    
+  
+  Projects
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Class 2023–2024 – System Thinking" class="md-nav__button md-logo" aria-label="Class 2023–2024 – System Thinking" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Class 2023–2024 – System Thinking
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Introduction
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    General Info About Class
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            General Info About Class
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Syllabus-2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Syllabus
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../.." class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Projects
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3" id="__nav_3_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Projects
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Project_001_Bed_Occupancy_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    001 Bed Occupancy STHDF 2023 2024
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Project_002_PlantsWateringMachine_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    002 Plants Watering Machine STHDF 2023 2024
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Project_003_SensorCO2_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    003 Sensor CO2 STHDF 2023 2024
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Project_004_CarCharm_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    004 Car Charm STHDF 2023 2024
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Project_005_SpinFork_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    005 Spin Fork STHDF 2023 2024
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Project_006_AutomatedBlindsControl_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    006 Automated Blinds Control STHDF 2023 2024
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Project_007_Kamerov%C3%BDSyst%C3%A9m_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    007 Kamerový Systém STHDF 2023 2024
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Project_008_AutomatedPetFeeder_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    008 Automated Pet Feeder STHDF 2023 2024
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    009 Solar Tracker STHDF 2023 2024
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    009 Solar Tracker STHDF 2023 2024
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#motivation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Motivation
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#overall-goal" class="md-nav__link">
+    <span class="md-ellipsis">
+      Overall goal
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#value-proposition" class="md-nav__link">
+    <span class="md-ellipsis">
+      Value proposition
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resources" class="md-nav__link">
+    <span class="md-ellipsis">
+      Resources
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#stakeholders" class="md-nav__link">
+    <span class="md-ellipsis">
+      Stakeholders
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#basic-procedure" class="md-nav__link">
+    <span class="md-ellipsis">
+      Basic procedure
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#system-components" class="md-nav__link">
+    <span class="md-ellipsis">
+      System components
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#design-stages" class="md-nav__link">
+    <span class="md-ellipsis">
+      Design stages
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Design stages">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#firs-system-sketch" class="md-nav__link">
+    <span class="md-ellipsis">
+      Firs system sketch
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#web-interface-wireframe" class="md-nav__link">
+    <span class="md-ellipsis">
+      Web interface wireframe
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#assembly-with-photoresistors" class="md-nav__link">
+    <span class="md-ellipsis">
+      Assembly with photoresistors
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#second-and-final-prototype" class="md-nav__link">
+    <span class="md-ellipsis">
+      Second and final prototype
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#implementation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Implementation
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Implementation">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#web-interface" class="md-nav__link">
+    <span class="md-ellipsis">
+      Web interface
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#angle-calculation-visualization" class="md-nav__link">
+    <span class="md-ellipsis">
+      Angle calculation visualization
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#used-tools" class="md-nav__link">
+    <span class="md-ellipsis">
+      Used tools
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lessons-learned" class="md-nav__link">
+    <span class="md-ellipsis">
+      Lessons learned
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Project_010_MouseMover_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    010 Mouse Mover STHDF 2023 2024
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Project_011_SitStraight_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    011 Sit Straight STHDF 2023 2024
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Project_012_MusicVisualiser_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    012 Music Visualiser STHDF 2023 2024
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Project_013_MultifunctionalFeeder_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    013 Multifunctional Feeder STHDF 2023 2024
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Project_014_MyProjectName_STHDF_2023-2024/index.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    014 My Project Name STHDF 2023 2024
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Project_015_KrabickaNaLieky_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    015 Krabicka Na Lieky STHDF 2023 2024
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Project_018_MyProjectName_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    018 DrumStick Holder
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Project_022_WaterPlanter_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    020 Water Planter
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Project_025_MyProjectName_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    025 Dogfit
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Project_027_AlcoholMeter_STHDF_2023-2024/project_outcomes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    027 Alcohol tester
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Project_030_UselessBox_STHDF_2023-2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    030 Useless Cat Box
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_22" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../Project_035_HraQuoridor_STHDF_2023-2024/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    035 Hra Quoridor
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_22" id="__nav_3_22_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_22_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_22">
+            <span class="md-nav__icon md-icon"></span>
+            035 Hra Quoridor
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Project_035_HraQuoridor_STHDF_2023-2024/AboutUs/About_Me_S-035/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    O nás
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Project_035_HraQuoridor_STHDF_2023-2024/KnowledgeContribution/KnowledgeContributionS-038-1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Knowledge Contribution
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Project_035_HraQuoridor_STHDF_2023-2024/Project/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Project Outcomes
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Project_042_Self_watering_planter_STHDF_2023-2024/ondovcikova_skalican/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    042 Self watering planter
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+  <h1>009 Solar Tracker STHDF 2023 2024</h1>
+
+<p><img alt="title" src="assets/title.jpeg" /></p>
+<h2 id="motivation">Motivation<a class="headerlink" href="#motivation" title="Permanent link">&para;</a></h2>
+<p>IoT (Internet of Things) domain is getting bigger day by day and it brings many obstacles to overcome. One of which is energy consumption. IoT devices often need external source of power which can be quickly depleted if a device is not operating efficiently. In our case, this can be achieved by optimized recharging. E.g. IoT sensors may be placed in hard to reach places. If we want to avoid changing battery too often, we may incorporate solution to recharge battery. One of which is solar recharging.</p>
+<p>Motivation for this project was my diploma thesis which also aims for efficient IoT solution. The goal of this project is to provide solution for efficient power management.</p>
+<ul>
+<li>
+<p>solar farms: land optimization, eco friendliness, cost efficiency, charge efficiency</p>
+</li>
+<li>
+<p>regular user: low maintenance, increase charge efficiency</p>
+</li>
+</ul>
+<p><img alt="business diagram" src="assets/business_diag.png" /></p>
+<h2 id="overall-goal">Overall goal<a class="headerlink" href="#overall-goal" title="Permanent link">&para;</a></h2>
+<blockquote>
+<p>Create simple solution to enhance solar recharging capabilities.</p>
+</blockquote>
+<h2 id="value-proposition">Value proposition<a class="headerlink" href="#value-proposition" title="Permanent link">&para;</a></h2>
+<ul>
+<li>
+<p>energy efficiency</p>
+</li>
+<li>
+<p>cost saving</p>
+</li>
+<li>
+<p>sustainability</p>
+</li>
+</ul>
+<h2 id="resources">Resources<a class="headerlink" href="#resources" title="Permanent link">&para;</a></h2>
+<p>solar panels, sun position tracking system, energy storage management<em>, data analytics tools</em>, positional system</p>
+<h2 id="stakeholders">Stakeholders<a class="headerlink" href="#stakeholders" title="Permanent link">&para;</a></h2>
+<p>utility companies, solar farms, government authorities, research teams</p>
+<h2 id="basic-procedure">Basic procedure<a class="headerlink" href="#basic-procedure" title="Permanent link">&para;</a></h2>
+<p>During the final stages of business analysis a basic solar tracking procedure was established. Separate steps are represented in the list below:</p>
+<ol>
+<li>
+<p>Customer buys the system.</p>
+</li>
+<li>
+<p>Customer starts the tracker.</p>
+</li>
+<li>
+<p>Customer sets-up tracker (geolocation) by provided interface.</p>
+</li>
+<li>
+<p>Customer connects battery to charge (or other appliance)</p>
+</li>
+</ol>
+<h2 id="system-components">System components<a class="headerlink" href="#system-components" title="Permanent link">&para;</a></h2>
+<p>This part represents all system components used to build final product. It consist of two servos providing two-axis rotation capabilities and controller handling movements and user interactions. Solution also provides web interface to configure the position of tracker.</p>
+<p>ESP32 WROOM - microcontroller responsible for calculations and servo handling. It is also capable of running web server which is used as user interface.</p>
+<p><img alt="esp32" src="assets/comp_esp32.png" /></p>
+<p>Servo - system consist of two servos providing two-axis rotation capability. The first servo rotates whole platform in 360 degrees and the second is connected to the platform, providing 180 deg. tilt.</p>
+<p><img alt="servo" src="assets/comp_servo.png" /></p>
+<p>Platform - component is a part of the assembly and holds attached solar panel</p>
+<p><img alt="platform" src="assets/comp_platform.jpeg" /></p>
+<p>Web interface - web interface component provides easy to use way to setup tracker based on desired geolocation.</p>
+<p><img alt="interface" src="assets/comp_interface.png" /></p>
+<p>Architecture diagram below shows system components. On the left side we can find whole assembly which is rotated by two servos (two-axis). On the right side you can find the core of the tracker. ESP32 controller is responsible for position calculations and provides web interface for user to use.</p>
+<p><img alt="architecture diagram" src="assets/architecture_diagram.png" /></p>
+<h2 id="design-stages">Design stages<a class="headerlink" href="#design-stages" title="Permanent link">&para;</a></h2>
+<p>In the first stages we were looking for the most suitable solution. It all started with system sketches.</p>
+<h3 id="firs-system-sketch">Firs system sketch<a class="headerlink" href="#firs-system-sketch" title="Permanent link">&para;</a></h3>
+<p><img alt="proto1" src="assets/design_proto1.jpeg" /></p>
+<h3 id="web-interface-wireframe">Web interface wireframe<a class="headerlink" href="#web-interface-wireframe" title="Permanent link">&para;</a></h3>
+<p><img alt="wireframe" src="assets/des_wireframe.jpeg" /></p>
+<h2 id="assembly-with-photoresistors">Assembly with photoresistors<a class="headerlink" href="#assembly-with-photoresistors" title="Permanent link">&para;</a></h2>
+<p><img alt="proto2" src="./assets/proto2.jpegla" /></p>
+<p>The second prototype considered only software computation to guide platform rotation. This solution required less components than previous one and was easier and cheaper to implement. As for the structure itself, the model was available online. We just applied small scaling changes to save on material.</p>
+<p>The construction consist of the bottom base, top base, arm and platform. Bottom base holds 180 deg. servo that rotates top base according to an azimuth calculated by computational unit. Arm is attached to the top base and provide declination.</p>
+<h2 id="second-and-final-prototype">Second and final prototype<a class="headerlink" href="#second-and-final-prototype" title="Permanent link">&para;</a></h2>
+<p><img alt="last prototype" src="assets/last_proto.jpeg" /></p>
+<h2 id="implementation">Implementation<a class="headerlink" href="#implementation" title="Permanent link">&para;</a></h2>
+<p>There are already many existing open source solutions. In our case we found the most suitable one and changed it a bit to suit our use case. </p>
+<p>Model was imported to Prusa slicer where we can arrange all components to be printed in one run on Prusa i3 MK3S+ printer.</p>
+<p><img alt="3d model" src="assets/implementation_model.png" /></p>
+<p>The second part of implementation was to code the logic. We programmed the angle calculations based on formulas. https://www.pveducation.org/pvcdrom/properties-of-sunlight/the-suns-position </p>
+<h3 id="web-interface">Web interface<a class="headerlink" href="#web-interface" title="Permanent link">&para;</a></h3>
+<p><img alt="web" src="assets/implementation_web.png" /></p>
+<h3 id="angle-calculation-visualization">Angle calculation visualization<a class="headerlink" href="#angle-calculation-visualization" title="Permanent link">&para;</a></h3>
+<p><img alt="output" src="assets/implementation_debug.png" /></p>
+<p>After coding phase we moved to building the system rotational platform.</p>
+<p><img alt="scheme" src="assets/imp_scheme.png" /></p>
+<p>Hardvare wiring schema</p>
+<p><img alt="platfomr" src="assets/imp_platform.jpeg" /></p>
+<p>Platform assembly</p>
+<p>The diagram below shows used technologies throughout the project. In consist of controller, servos and the rotating platform. </p>
+<p><img alt="technical diagram" src="assets/technical_diagram.png" /></p>
+<h2 id="used-tools">Used tools<a class="headerlink" href="#used-tools" title="Permanent link">&para;</a></h2>
+<p>During the work on the project i came across many tools first of which is Prusa slicer. This tool even helped me to edit stencils.</p>
+<p><img alt="prusa slicer" src="assets/used_tools_prusa.png" /></p>
+<p>The next set of tools is bitbucket, soruce tree and git. I use git regularly so the command line interface was no news for me.</p>
+<p><img alt="prusa slicer" src="assets/used_tools_git.png" /></p>
+<p>Very helpful graphical tool, even for everyday use, is Drawio.</p>
+<p><img alt="prusa slicer" src="assets/used_tools_drawio.png" /></p>
+<p>And last but not least, Confluence.  :)</p>
+<h2 id="lessons-learned">Lessons learned<a class="headerlink" href="#lessons-learned" title="Permanent link">&para;</a></h2>
+<ul>
+<li>
+<p>3D printing</p>
+</li>
+<li>
+<p>Bitbucket</p>
+</li>
+<li>
+<p>Programming servos</p>
+</li>
+<li>
+<p>Sun position calculations  </p>
+</li>
+<li>
+<p>many more valuable lessons</p>
+</li>
+</ul>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.tabs", "navigation.indexes", "navigation.sections", "toc.integrate", "content.code.annotate", "content.tabs.link", "search.highlight", "search.share"], "search": "../../assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.13a4f30d.min.js"></script>
+      
+    
+  </body>
+</html>

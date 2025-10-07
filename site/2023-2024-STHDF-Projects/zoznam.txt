@@ -1,0 +1,2331 @@
+total 0
+123434091 drwxr-xr-x@ 29 romankazicka  staff  928 Jun 11 21:22 .
+123423209 drwxr-xr-x@ 20 romankazicka  staff  640 Jun 11 19:47 ..
+123371902 drwxr-xr-x@  5 romankazicka  staff  160 Jun 11 16:01 2023-2024-P025-DogFit
+123434551 drwxr-xr-x@  6 romankazicka  staff  192 Jun 11 19:37 Project_001_Bed_Occupancy_STHDF_2023-2024
+123434339 drwxr-xr-x@ 14 romankazicka  staff  448 Jun 11 19:37 Project_002_PlantsWateringMachine_STHDF_2023-2024
+123435063 drwxr-xr-x@  7 romankazicka  staff  224 Jun 11 19:37 Project_003_SensorCO2_STHDF_2023-2024
+123434098 drwxr-xr-x@  9 romankazicka  staff  288 Jun 11 19:37 Project_004_CarCharm_STHDF_2023-2024
+123434403 drwxr-xr-x@ 11 romankazicka  staff  352 Jun 11 19:37 Project_005_SpinFork_STHDF_2023-2024
+123435120 drwxr-xr-x@ 12 romankazicka  staff  384 Jun 11 19:37 Project_006_AutomatedBlindsControl_STHDF_2023-2024
+123435181 drwxr-xr-x@  7 romankazicka  staff  224 Jun 11 19:37 Project_007_KamerovýSystém_STHDF_2023-2024
+123434498 drwxr-xr-x@  5 romankazicka  staff  160 Jun 11 19:37 Project_008_AutomatedPetFeeder_STHDF_2023-2024
+123434370 drwxr-xr-x@  7 romankazicka  staff  224 Jun 11 19:37 Project_009_SolarTracker_STHDF_2023-2024
+123434306 drwxr-xr-x@  8 romankazicka  staff  256 Jun 11 19:37 Project_010_MouseMover_STHDF_2023-2024
+123434204 drwxr-xr-x@  9 romankazicka  staff  288 Jun 11 19:37 Project_011_SitStraight_STHDF_2023-2024
+123434576 drwxr-xr-x@  5 romankazicka  staff  160 Jun 11 19:37 Project_012_MusicVisualiser_STHDF_2023-2024
+123435096 drwxr-xr-x@  6 romankazicka  staff  192 Jun 11 19:37 Project_013_MultifunctionalFeeder_STHDF_2023-2024
+123435159 drwxr-xr-x@  4 romankazicka  staff  128 Jun 11 19:37 Project_014_MyProjectName_STHDF_2023-2024
+123435162 drwxr-xr-x@ 17 romankazicka  staff  544 Jun 11 19:37 Project_015_KrabickaNaLieky_STHDF_2023-2024
+123434156 drwxr-xr-x@  5 romankazicka  staff  160 Jun 11 19:37 Project_018_MyProjectName_STHDF_2023-2024
+123434516 drwxr-xr-x@  8 romankazicka  staff  256 Jun 11 19:37 Project_022_WaterPlanter_STHDF_2023-2024
+123434301 drwxr-xr-x@  5 romankazicka  staff  160 Jun 11 20:17 Project_025_MyProjectName_STHDF_2023-2024
+123434169 drwxr-xr-x@  6 romankazicka  staff  192 Jun 11 20:25 Project_027_AlcoholMeter_STHDF_2023-2024
+123435190 drwxr-xr-x@  9 romankazicka  staff  288 Jun 11 19:37 Project_030_UselessBox_STHDF_2023-2024
+123435011 drwxr-xr-x@  9 romankazicka  staff  288 Jun 11 21:06 Project_035_HraQuoridor_STHDF_2023-2024
+123435237 drwxr-xr-x@  4 romankazicka  staff  128 Jun 11 19:37 Project_036_MyProjectName_STHDF_2023-2024
+123434573 drwxr-xr-x@  4 romankazicka  staff  128 Jun 11 19:37 Project_037_MyProjectName_STHDF_2023-2024
+123434174 drwxr-xr-x@  5 romankazicka  staff  160 Jun 11 16:01 Project_042_Self_watering_planter_STHDF_2023-2024
+123434367 drwxr-xr-x@  4 romankazicka  staff  128 Jun 11 19:37 Project_045_Cajnmik_STHDF_2023-2024
+123557998 -rw-r--r--@  1 romankazicka  staff    0 Jun 11 21:22 zoznam.txt
+
+./2023-2024-P025-DogFit:
+total 28992
+123371902 drwxr-xr-x@  5 romankazicka  staff       160 Jun 11 16:01 .
+123434091 drwxr-xr-x@ 29 romankazicka  staff       928 Jun 11 21:22 ..
+123371903 -rw-r--r--@  1 romankazicka  staff  14819328 Jun 11 16:01 DogFit.eapx
+123371905 drwxr-xr-x@ 72 romankazicka  staff      2304 Jun 11 16:01 fotky
+123371904 -rw-r--r--@  1 romankazicka  staff     23589 Jun 11 16:01 README.md
+
+./2023-2024-P025-DogFit/fotky:
+total 110384
+123371905 drwxr-xr-x@ 72 romankazicka  staff     2304 Jun 11 16:01 .
+123371902 drwxr-xr-x@  5 romankazicka  staff      160 Jun 11 16:01 ..
+123371906 -rw-r--r--@  1 romankazicka  staff   272321 Jun 11 16:01 BPV.png
+123371907 -rw-r--r--@  1 romankazicka  staff   279303 Jun 11 16:01 BSCV.png
+123371916 -rw-r--r--@  1 romankazicka  staff    80518 Jun 11 16:01 components.png
+123371917 -rw-r--r--@  1 romankazicka  staff   323640 Jun 11 16:01 connection.png
+123371908 -rw-r--r--@  1 romankazicka  staff   102286 Jun 11 16:01 DeploymentDiagram.png
+123371918 -rw-r--r--@  1 romankazicka  staff   124075 Jun 11 16:01 image-20240126-144056.png
+123371919 -rw-r--r--@  1 romankazicka  staff   805775 Jun 11 16:01 image-20240126-144155.png
+123371920 -rw-r--r--@  1 romankazicka  staff   634215 Jun 11 16:01 image-20240126-144240.png
+123371921 -rw-r--r--@  1 romankazicka  staff   109783 Jun 11 16:01 image-20240126-184954.png
+123371922 -rw-r--r--@  1 romankazicka  staff   742845 Jun 11 16:01 image-20240126-185130.png
+123371923 -rw-r--r--@  1 romankazicka  staff   744950 Jun 11 16:01 image-20240127-222611.png
+123371924 -rw-r--r--@  1 romankazicka  staff    92881 Jun 11 16:01 image-20240127-222647.png
+123371925 -rw-r--r--@  1 romankazicka  staff   357220 Jun 11 16:01 image-20240127-222707.png
+123371926 -rw-r--r--@  1 romankazicka  staff  1177212 Jun 11 16:01 image-20240127-223526.png
+123371927 -rw-r--r--@  1 romankazicka  staff   241506 Jun 11 16:01 image-20240128-093924.png
+123371928 -rw-r--r--@  1 romankazicka  staff  1289470 Jun 11 16:01 image-20240128-094707.png
+123371929 -rw-r--r--@  1 romankazicka  staff  2008796 Jun 11 16:01 image-20240128-094828.png
+123371930 -rw-r--r--@  1 romankazicka  staff   321274 Jun 11 16:01 image-20240128-094913.png
+123371931 -rw-r--r--@  1 romankazicka  staff    32673 Jun 11 16:01 image-20240128-143346.png
+123371932 -rw-r--r--@  1 romankazicka  staff    79855 Jun 11 16:01 image-20240128-143505.png
+123371933 -rw-r--r--@  1 romankazicka  staff    59610 Jun 11 16:01 image-20240128-144429.png
+123371934 -rw-r--r--@  1 romankazicka  staff  1724357 Jun 11 16:01 image-20240129-002303.png
+123371935 -rw-r--r--@  1 romankazicka  staff  1194728 Jun 11 16:01 image-20240129-002400.png
+123371936 -rw-r--r--@  1 romankazicka  staff   943824 Jun 11 16:01 image-20240129-003415.png
+123371937 -rw-r--r--@  1 romankazicka  staff  1166282 Jun 11 16:01 image-20240129-003436.png
+123371938 -rw-r--r--@  1 romankazicka  staff   294089 Jun 11 16:01 image-20240129-004006.png
+123371939 -rw-r--r--@  1 romankazicka  staff  1795363 Jun 11 16:01 image-20240129-004133.png
+123371940 -rw-r--r--@  1 romankazicka  staff   624358 Jun 11 16:01 image-20240129-004302.png
+123371941 -rw-r--r--@  1 romankazicka  staff  1220386 Jun 11 16:01 image-20240129-004356.png
+123371942 -rw-r--r--@  1 romankazicka  staff  2034086 Jun 11 16:01 image-20240129-004502.png
+123371943 -rw-r--r--@  1 romankazicka  staff   526048 Jun 11 16:01 image-20240129-004559.png
+123371944 -rw-r--r--@  1 romankazicka  staff   997676 Jun 11 16:01 image-20240129-004648.png
+123371945 -rw-r--r--@  1 romankazicka  staff   793669 Jun 11 16:01 image-20240129-005209.png
+123371946 -rw-r--r--@  1 romankazicka  staff   600675 Jun 11 16:01 image-20240129-005349.png
+123371947 -rw-r--r--@  1 romankazicka  staff  1293715 Jun 11 16:01 image-20240129-005516.png
+123371948 -rw-r--r--@  1 romankazicka  staff  1394395 Jun 11 16:01 image-20240129-005632.png
+123371949 -rw-r--r--@  1 romankazicka  staff  1233014 Jun 11 16:01 image-20240129-005728.png
+123371950 -rw-r--r--@  1 romankazicka  staff  1386707 Jun 11 16:01 image-20240129-005755.png
+123371951 -rw-r--r--@  1 romankazicka  staff   657207 Jun 11 16:01 image-20240129-010237.png
+123371952 -rw-r--r--@  1 romankazicka  staff   629581 Jun 11 16:01 image-20240129-010334.png
+123371953 -rw-r--r--@  1 romankazicka  staff   343522 Jun 11 16:01 image-20240129-010508.png
+123371954 -rw-r--r--@  1 romankazicka  staff  1051701 Jun 11 16:01 image-20240129-010712.png
+123371955 -rw-r--r--@  1 romankazicka  staff   748924 Jun 11 16:01 image-20240129-010815.png
+123371956 -rw-r--r--@  1 romankazicka  staff   499453 Jun 11 16:01 image-20240129-011104.png
+123371957 -rw-r--r--@  1 romankazicka  staff   915461 Jun 11 16:01 image-20240129-011105.png
+123371958 -rw-r--r--@  1 romankazicka  staff  1153115 Jun 11 16:01 image-20240129-011106.png
+123371959 -rw-r--r--@  1 romankazicka  staff   465678 Jun 11 16:01 image-20240129-011107.png
+123371960 -rw-r--r--@  1 romankazicka  staff   677669 Jun 11 16:01 image-20240129-011851.png
+123371961 -rw-r--r--@  1 romankazicka  staff  1469739 Jun 11 16:01 image-20240129-012121.png
+123371962 -rw-r--r--@  1 romankazicka  staff  1584206 Jun 11 16:01 image-20240129-012232.png
+123371963 -rw-r--r--@  1 romankazicka  staff  2025529 Jun 11 16:01 image-20240129-012328.png
+123371964 -rw-r--r--@  1 romankazicka  staff  1384356 Jun 11 16:01 image-20240129-012521.png
+123371965 -rw-r--r--@  1 romankazicka  staff   843580 Jun 11 16:01 image-20240129-013551.png
+123371966 -rw-r--r--@  1 romankazicka  staff   442459 Jun 11 16:01 image-20240129-013622.png
+123371967 -rw-r--r--@  1 romankazicka  staff   601208 Jun 11 16:01 image-20240129-013727.png
+123371968 -rw-r--r--@  1 romankazicka  staff  2030258 Jun 11 16:01 image-20240129-013903.png
+123371969 -rw-r--r--@  1 romankazicka  staff  1929919 Jun 11 16:01 image-20240129-013916.png
+123371970 -rw-r--r--@  1 romankazicka  staff  2185786 Jun 11 16:01 image-20240129-013931.png
+123371971 -rw-r--r--@  1 romankazicka  staff  2150441 Jun 11 16:01 image-20240129-014102.png
+123371909 -rw-r--r--@  1 romankazicka  staff    93992 Jun 11 16:01 InstanceModel.png
+123371972 -rw-r--r--@  1 romankazicka  staff   147414 Jun 11 16:01 lemontree.png
+123371973 -rw-r--r--@  1 romankazicka  staff    56023 Jun 11 16:01 lemontree2.png
+123371974 -rw-r--r--@  1 romankazicka  staff   865462 Jun 11 16:01 navrh.png
+123371910 -rw-r--r--@  1 romankazicka  staff   170575 Jun 11 16:01 ReferenceModel.png
+123371911 -rw-r--r--@  1 romankazicka  staff   137567 Jun 11 16:01 SourceTree.png
+123371912 -rw-r--r--@  1 romankazicka  staff   279395 Jun 11 16:01 Title-Dog.jpg
+123371913 -rw-r--r--@  1 romankazicka  staff   155426 Jun 11 16:01 Trh1.png
+123371914 -rw-r--r--@  1 romankazicka  staff   166913 Jun 11 16:01 Trh2.png
+123371975 -rw-r--r--@  1 romankazicka  staff  1330554 Jun 11 16:01 umiestnenie.png
+123371915 -rw-r--r--@  1 romankazicka  staff   106868 Jun 11 16:01 UseCases.png
+
+./Project_001_Bed_Occupancy_STHDF_2023-2024:
+total 5552
+123434551 drwxr-xr-x@  6 romankazicka  staff      192 Jun 11 19:37 .
+123434091 drwxr-xr-x@ 29 romankazicka  staff      928 Jun 11 21:22 ..
+123434555 drwxr-xr-x@ 16 romankazicka  staff      512 Jun 11 16:01 assets
+123434554 -rw-r--r--@  1 romankazicka  staff     5724 Jun 11 19:37 index.md
+123434553 -rw-r--r--@  1 romankazicka  staff     5724 Jun 11 16:01 README.md
+123434552 -rw-r--r--@  1 romankazicka  staff  2825306 Jun 11 16:01 STHOutcomes-Project Outcome (P001)-140124-193853.pdf
+
+./Project_001_Bed_Occupancy_STHDF_2023-2024/assets:
+total 1128
+123434555 drwxr-xr-x@ 16 romankazicka  staff     512 Jun 11 16:01 .
+123434551 drwxr-xr-x@  6 romankazicka  staff     192 Jun 11 19:37 ..
+123434569 -rw-r--r--@  1 romankazicka  staff   12804 Jun 11 16:01 architecture_activity.webp
+123434566 -rw-r--r--@  1 romankazicka  staff   17301 Jun 11 16:01 auto.jpeg
+123434561 -rw-r--r--@  1 romankazicka  staff   19124 Jun 11 16:01 biznis_activity.webp
+123434565 -rw-r--r--@  1 romankazicka  staff   12026 Jun 11 16:01 biznis.webp
+123434568 -rw-r--r--@  1 romankazicka  staff   18988 Jun 11 16:01 breadboard.webp
+123434560 -rw-r--r--@  1 romankazicka  staff   15150 Jun 11 16:01 component.webp
+123434557 -rw-r--r--@  1 romankazicka  staff   35786 Jun 11 16:01 hx711.webp
+123434562 -rw-r--r--@  1 romankazicka  staff  210224 Jun 11 16:01 logs.webp
+123434564 -rw-r--r--@  1 romankazicka  staff   67416 Jun 11 16:01 prints.webp
+123434559 -rw-r--r--@  1 romankazicka  staff   11034 Jun 11 16:01 schema.webp
+123434567 -rw-r--r--@  1 romankazicka  staff   13104 Jun 11 16:01 sensor.webp
+123434563 -rw-r--r--@  1 romankazicka  staff   53604 Jun 11 16:01 smarthome.webp
+123434558 -rw-r--r--@  1 romankazicka  staff   15990 Jun 11 16:01 tinker.webp
+123434556 -rw-r--r--@  1 romankazicka  staff   46594 Jun 11 16:01 wroom.webp
+
+./Project_002_PlantsWateringMachine_STHDF_2023-2024:
+total 6032
+123434339 drwxr-xr-x@ 14 romankazicka  staff      448 Jun 11 19:37 .
+123434091 drwxr-xr-x@ 29 romankazicka  staff      928 Jun 11 21:22 ..
+123434342 -rw-r--r--@  1 romankazicka  staff     2623 Jun 11 16:01 01. Project overview (2023-2024-S013-S038).md
+123434357 -rw-r--r--@  1 romankazicka  staff     1297 Jun 11 16:01 02. Business layer (2023-2024-S013-S038).md
+123434356 -rw-r--r--@  1 romankazicka  staff     1441 Jun 11 16:01 03. System Layer (2023-2024-S013-S038).md
+123434359 -rw-r--r--@  1 romankazicka  staff     5460 Jun 11 16:01 04. Technical documentation (2023-2024-S013-S038).md
+123434358 -rw-r--r--@  1 romankazicka  staff    36977 Jun 11 16:01 Circuit.png
+123434341 -rw-r--r--@  1 romankazicka  staff     1855 Jun 11 16:01 Custom_watering_bell.scad
+123434363 -rw-r--r--@  1 romankazicka  staff  1432883 Jun 11 16:01 draft.png
+123434362 -rw-r--r--@  1 romankazicka  staff      653 Jun 11 16:01 Holder.scad
+123434343 drwxr-xr-x@ 14 romankazicka  staff      448 Jun 11 16:01 images
+123434361 -rw-r--r--@  1 romankazicka  staff     1971 Jun 11 19:37 index.md
+123434360 -rw-r--r--@  1 romankazicka  staff     1971 Jun 11 16:01 README.md
+123434340 -rw-r--r--@  1 romankazicka  staff  1576960 Jun 11 16:01 waterplant.qea
+
+./Project_002_PlantsWateringMachine_STHDF_2023-2024/images:
+total 2416
+123434343 drwxr-xr-x@ 14 romankazicka  staff     448 Jun 11 16:01 .
+123434339 drwxr-xr-x@ 14 romankazicka  staff     448 Jun 11 19:37 ..
+123434348 -rw-r--r--@  1 romankazicka  staff  140588 Jun 11 16:01 circuit.png
+123434351 -rw-r--r--@  1 romankazicka  staff  125181 Jun 11 16:01 early_draft.png
+123434346 -rw-r--r--@  1 romankazicka  staff   13239 Jun 11 16:01 holder.png
+123434349 -rw-r--r--@  1 romankazicka  staff   51385 Jun 11 16:01 list_of_comp.png
+123434344 -rw-r--r--@  1 romankazicka  staff   48414 Jun 11 16:01 P002_Activity_Diagram.png
+123434350 -rw-r--r--@  1 romankazicka  staff   36251 Jun 11 16:01 P002_Business_Process.png
+123434345 -rw-r--r--@  1 romankazicka  staff   17658 Jun 11 16:01 P002_Component_Diagram.png
+123434352 -rw-r--r--@  1 romankazicka  staff   63579 Jun 11 16:01 P002_Requirements.png
+123434353 -rw-r--r--@  1 romankazicka  staff   29557 Jun 11 16:01 P002_Use_Case_Model.png
+123434354 -rw-r--r--@  1 romankazicka  staff   71317 Jun 11 16:01 schema.png
+123434355 -rw-r--r--@  1 romankazicka  staff  550984 Jun 11 16:01 vacation.png
+123434347 -rw-r--r--@  1 romankazicka  staff   64649 Jun 11 16:01 watering_bell.png
+
+./Project_003_SensorCO2_STHDF_2023-2024:
+total 18328
+123435063 drwxr-xr-x@  7 romankazicka  staff      224 Jun 11 19:37 .
+123434091 drwxr-xr-x@ 29 romankazicka  staff      928 Jun 11 21:22 ..
+123435067 drwxr-xr-x@  5 romankazicka  staff      160 Jun 11 16:01 assets
+123435064 -rw-r--r--@  1 romankazicka  staff   202658 Jun 11 16:01 CO2sensor_presentation.pdf
+123435095 -rw-r--r--@  1 romankazicka  staff  9162752 Jun 11 16:01 CO2sensor_project.qea
+123435066 -rw-r--r--@  1 romankazicka  staff     5280 Jun 11 19:37 index.md
+123435065 -rw-r--r--@  1 romankazicka  staff     5280 Jun 11 16:01 README.md
+
+./Project_003_SensorCO2_STHDF_2023-2024/assets:
+total 0
+123435067 drwxr-xr-x@  5 romankazicka  staff  160 Jun 11 16:01 .
+123435063 drwxr-xr-x@  7 romankazicka  staff  224 Jun 11 19:37 ..
+123435068 drwxr-xr-x@  6 romankazicka  staff  192 Jun 11 16:01 3d_models
+123435073 drwxr-xr-x@ 16 romankazicka  staff  512 Jun 11 16:01 img
+123435088 drwxr-xr-x@  8 romankazicka  staff  256 Jun 11 16:01 pdfs
+
+./Project_003_SensorCO2_STHDF_2023-2024/assets/3d_models:
+total 320
+123435068 drwxr-xr-x@ 6 romankazicka  staff    192 Jun 11 16:01 .
+123435067 drwxr-xr-x@ 5 romankazicka  staff    160 Jun 11 16:01 ..
+123435072 -rw-r--r--@ 1 romankazicka  staff  43296 Jun 11 16:01 Sensor_frame_v1.3mf
+123435069 -rw-r--r--@ 1 romankazicka  staff  19684 Jun 11 16:01 Sensor_frame_v1.stl
+123435071 -rw-r--r--@ 1 romankazicka  staff  42633 Jun 11 16:01 Sensor_frame_v2.3mf
+123435070 -rw-r--r--@ 1 romankazicka  staff  49284 Jun 11 16:01 Sensor_frame_v2.stl
+
+./Project_003_SensorCO2_STHDF_2023-2024/assets/img:
+total 2480
+123435073 drwxr-xr-x@ 16 romankazicka  staff     512 Jun 11 16:01 .
+123435067 drwxr-xr-x@  5 romankazicka  staff     160 Jun 11 16:01 ..
+123435082 -rw-r--r--@  1 romankazicka  staff   92823 Jun 11 16:01 image (1).jpg
+123435075 -rw-r--r--@  1 romankazicka  staff   27130 Jun 11 16:01 image (10).jpg
+123435078 -rw-r--r--@  1 romankazicka  staff   39489 Jun 11 16:01 image (11).jpg
+123435084 -rw-r--r--@  1 romankazicka  staff  333756 Jun 11 16:01 image (12).png
+123435085 -rw-r--r--@  1 romankazicka  staff  351739 Jun 11 16:01 image (13).png
+123435081 -rw-r--r--@  1 romankazicka  staff   55721 Jun 11 16:01 image (2).jpg
+123435080 -rw-r--r--@  1 romankazicka  staff   60920 Jun 11 16:01 image (3).jpg
+123435079 -rw-r--r--@  1 romankazicka  staff   26428 Jun 11 16:01 image (4).jpg
+123435074 -rw-r--r--@  1 romankazicka  staff   70818 Jun 11 16:01 image (5).jpg
+123435087 -rw-r--r--@  1 romankazicka  staff   28969 Jun 11 16:01 image (6).jpg
+123435083 -rw-r--r--@  1 romankazicka  staff   54629 Jun 11 16:01 image (7).jpg
+123435077 -rw-r--r--@  1 romankazicka  staff   26561 Jun 11 16:01 image (8).jpg
+123435076 -rw-r--r--@  1 romankazicka  staff   14230 Jun 11 16:01 image (9).jpg
+123435086 -rw-r--r--@  1 romankazicka  staff   60175 Jun 11 16:01 image.jpg
+
+./Project_003_SensorCO2_STHDF_2023-2024/assets/pdfs:
+total 7448
+123435088 drwxr-xr-x@ 8 romankazicka  staff      256 Jun 11 16:01 .
+123435067 drwxr-xr-x@ 5 romankazicka  staff      160 Jun 11 16:01 ..
+123435092 -rw-r--r--@ 1 romankazicka  staff  1741009 Jun 11 16:01 STHOutcomes-003.P003-2023-2024-SensorCO2_S019_S020_S021-300124-202643.pdf
+123435090 -rw-r--r--@ 1 romankazicka  staff   109685 Jun 11 16:01 STHOutcomes-01.Project summary (2023-2024-S019-S020-S021)-300124-202729.pdf
+123435091 -rw-r--r--@ 1 romankazicka  staff   663984 Jun 11 16:01 STHOutcomes-02.Knowledge contribution (2023-2024-S019-S020-S021)-300124-202817.pdf
+123435093 -rw-r--r--@ 1 romankazicka  staff   272439 Jun 11 16:01 STHOutcomes-03.Business layer (2023-2024-S019-S020-S021)-300124-202824.pdf
+123435094 -rw-r--r--@ 1 romankazicka  staff   142553 Jun 11 16:01 STHOutcomes-04.System Layer (2023-2024-S019-S020-S021)-300124-202828.pdf
+123435089 -rw-r--r--@ 1 romankazicka  staff   870557 Jun 11 16:01 STHOutcomes-05.Technical documentation (2023-2024-S019-S020-S021)-300124-202830.pdf
+
+./Project_004_CarCharm_STHDF_2023-2024:
+total 31952
+123434098 drwxr-xr-x@  9 romankazicka  staff       288 Jun 11 19:37 .
+123434091 drwxr-xr-x@ 29 romankazicka  staff       928 Jun 11 21:22 ..
+123434111 drwxr-xr-x@ 24 romankazicka  staff       768 Jun 11 16:01 assets
+123434100 drwxr-xr-x@  6 romankazicka  staff       192 Jun 11 16:01 code
+123434108 drwxr-xr-x@  4 romankazicka  staff       128 Jun 11 16:01 construction
+123434099 -rw-r--r--@  1 romankazicka  staff  16302080 Jun 11 16:01 diagrams.qea
+123434107 -rw-r--r--@  1 romankazicka  staff     18252 Jun 11 19:37 index.md
+123434105 -rw-r--r--@  1 romankazicka  staff     12702 Jun 11 16:01 ProjectSummary.md
+123434106 -rw-r--r--@  1 romankazicka  staff     18252 Jun 11 16:01 README.md
+
+./Project_004_CarCharm_STHDF_2023-2024/assets:
+total 17544
+123434111 drwxr-xr-x@ 24 romankazicka  staff      768 Jun 11 16:01 .
+123434098 drwxr-xr-x@  9 romankazicka  staff      288 Jun 11 19:37 ..
+123434113 drwxr-xr-x@  5 romankazicka  staff      160 Jun 11 16:01 analysis
+123434148 -rw-r--r--@  1 romankazicka  staff   683953 Jun 11 16:01 auticko1.jpg
+123434144 -rw-r--r--@  1 romankazicka  staff   805686 Jun 11 16:01 auticko2.jpg
+123434145 -rw-r--r--@  1 romankazicka  staff  2040391 Jun 11 16:01 auticko3.jpg
+123434112 -rw-r--r--@  1 romankazicka  staff   836434 Jun 11 16:01 bitbucket-usage.png
+123434132 -rw-r--r--@  1 romankazicka  staff  1455837 Jun 11 16:01 carcharmer.png
+123434139 -rw-r--r--@  1 romankazicka  staff    80356 Jun 11 16:01 construction-keyring.jpg
+123434119 -rw-r--r--@  1 romankazicka  staff   128372 Jun 11 16:01 construction-mbot2.jpg
+123434118 -rw-r--r--@  1 romankazicka  staff    14346 Jun 11 16:01 construction-recorder.png
+123434121 drwxr-xr-x@ 12 romankazicka  staff      384 Jun 11 16:01 diagrams
+123434140 -rw-r--r--@  1 romankazicka  staff    26903 Jun 11 16:01 future-work.png
+123434149 -rw-r--r--@  1 romankazicka  staff   865496 Jun 11 16:01 kid.png
+123434142 -rw-r--r--@  1 romankazicka  staff   152830 Jun 11 16:01 learning_by_play.png
+123434133 drwxr-xr-x@  7 romankazicka  staff      224 Jun 11 16:01 lemontree
+123434117 -rw-r--r--@  1 romankazicka  staff   671821 Jun 11 16:01 lemontree.png
+123434147 -rw-r--r--@  1 romankazicka  staff    85681 Jun 11 16:01 makeblock-python.png
+123434120 -rw-r--r--@  1 romankazicka  staff   142386 Jun 11 16:01 makeblock.png
+123434150 drwxr-xr-x@  6 romankazicka  staff      192 Jun 11 16:01 snake
+123434143 -rw-r--r--@  1 romankazicka  staff   461388 Jun 11 16:01 tm-1.png
+123434141 -rw-r--r--@  1 romankazicka  staff   395970 Jun 11 16:01 tm-2.png
+123434155 -rw-r--r--@  1 romankazicka  staff    75276 Jun 11 16:01 um-output.png
+123434146 -rw-r--r--@  1 romankazicka  staff    23519 Jun 11 16:01 um-terminal.png
+
+./Project_004_CarCharm_STHDF_2023-2024/assets/analysis:
+total 472
+123434113 drwxr-xr-x@  5 romankazicka  staff     160 Jun 11 16:01 .
+123434111 drwxr-xr-x@ 24 romankazicka  staff     768 Jun 11 16:01 ..
+123434114 -rw-r--r--@  1 romankazicka  staff   94108 Jun 11 16:01 analysis-app-browse.jpg
+123434116 -rw-r--r--@  1 romankazicka  staff   40688 Jun 11 16:01 analysis-app-vc.jpg
+123434115 -rw-r--r--@  1 romankazicka  staff  106180 Jun 11 16:01 analysis-mblock.png
+
+./Project_004_CarCharm_STHDF_2023-2024/assets/diagrams:
+total 14840
+123434121 drwxr-xr-x@ 12 romankazicka  staff      384 Jun 11 16:01 .
+123434111 drwxr-xr-x@ 24 romankazicka  staff      768 Jun 11 16:01 ..
+123434129 -rw-r--r--@  1 romankazicka  staff    97638 Jun 11 16:01 diagram-activity.png
+123434126 -rw-r--r--@  1 romankazicka  staff   181411 Jun 11 16:01 diagram-arch-cyberpi.png
+123434128 -rw-r--r--@  1 romankazicka  staff  2105035 Jun 11 16:01 diagram-arch-mbot2.png
+123434131 -rw-r--r--@  1 romankazicka  staff   153575 Jun 11 16:01 diagram-arch-shield.png
+123434127 -rw-r--r--@  1 romankazicka  staff  2659946 Jun 11 16:01 diagram-business.png
+123434123 -rw-r--r--@  1 romankazicka  staff    39350 Jun 11 16:01 diagram-class-business.png
+123434124 -rw-r--r--@  1 romankazicka  staff   105886 Jun 11 16:01 diagram-digital_twin.png
+123434122 -rw-r--r--@  1 romankazicka  staff  1691145 Jun 11 16:01 diagram-tech.png
+123434130 -rw-r--r--@  1 romankazicka  staff   502169 Jun 11 16:01 model-arch.png
+123434125 -rw-r--r--@  1 romankazicka  staff    45660 Jun 11 16:01 model-layers.png
+
+./Project_004_CarCharm_STHDF_2023-2024/assets/lemontree:
+total 1880
+123434133 drwxr-xr-x@  7 romankazicka  staff     224 Jun 11 16:01 .
+123434111 drwxr-xr-x@ 24 romankazicka  staff     768 Jun 11 16:01 ..
+123434134 -rw-r--r--@  1 romankazicka  staff  211398 Jun 11 16:01 lt-1.png
+123434135 -rw-r--r--@  1 romankazicka  staff  248102 Jun 11 16:01 lt-2.png
+123434136 -rw-r--r--@  1 romankazicka  staff  160156 Jun 11 16:01 lt-3.png
+123434137 -rw-r--r--@  1 romankazicka  staff  127581 Jun 11 16:01 lt-4.png
+123434138 -rw-r--r--@  1 romankazicka  staff  203562 Jun 11 16:01 lt-5.png
+
+./Project_004_CarCharm_STHDF_2023-2024/assets/snake:
+total 11392
+123434150 drwxr-xr-x@  6 romankazicka  staff      192 Jun 11 16:01 .
+123434111 drwxr-xr-x@ 24 romankazicka  staff      768 Jun 11 16:01 ..
+123434151 -rw-r--r--@  1 romankazicka  staff  2671993 Jun 11 16:01 snake-blender.png
+123434152 -rw-r--r--@  1 romankazicka  staff   364192 Jun 11 16:01 snake-model.png
+123434154 -rw-r--r--@  1 romankazicka  staff  1384931 Jun 11 16:01 snake-printing.jpg
+123434153 -rw-r--r--@  1 romankazicka  staff  1403763 Jun 11 16:01 snake-prusa.png
+
+./Project_004_CarCharm_STHDF_2023-2024/code:
+total 11320
+123434100 drwxr-xr-x@ 6 romankazicka  staff      192 Jun 11 16:01 .
+123434098 drwxr-xr-x@ 9 romankazicka  staff      288 Jun 11 19:37 ..
+123434101 -rw-r--r--@ 1 romankazicka  staff     2500 Jun 11 16:01 controller.py
+123434103 -rw-r--r--@ 1 romankazicka  staff       39 Jun 11 16:01 labels.txt
+123434104 -rw-r--r--@ 1 romankazicka  staff  5782745 Jun 11 16:01 model.tflite
+123434102 -rw-r--r--@ 1 romankazicka  staff       76 Jun 11 16:01 requirements.txt
+
+./Project_004_CarCharm_STHDF_2023-2024/construction:
+total 15008
+123434108 drwxr-xr-x@ 4 romankazicka  staff      128 Jun 11 16:01 .
+123434098 drwxr-xr-x@ 9 romankazicka  staff      288 Jun 11 19:37 ..
+123434109 -rw-r--r--@ 1 romankazicka  staff   997901 Jun 11 16:01 snake-tail.3mf
+123434110 -rw-r--r--@ 1 romankazicka  staff  6684448 Jun 11 16:01 snake-tail.blend
+
+./Project_005_SpinFork_STHDF_2023-2024:
+total 512
+123434403 drwxr-xr-x@ 11 romankazicka  staff     352 Jun 11 19:37 .
+123434091 drwxr-xr-x@ 29 romankazicka  staff     928 Jun 11 21:22 ..
+123434448 drwxr-xr-x@ 10 romankazicka  staff     320 Jun 11 16:01 3D_Print_Files
+123434481 drwxr-xr-x@  5 romankazicka  staff     160 Jun 11 16:01 diagramy
+123434407 drwxr-xr-x@ 40 romankazicka  staff    1280 Jun 11 16:01 dokumentacia
+123434457 -rw-r--r--@  1 romankazicka  staff   10698 Jun 11 19:37 index.md
+123434404 drwxr-xr-x@  4 romankazicka  staff     128 Jun 11 16:01 Model_Design_Fusion360
+123434458 drwxr-xr-x@ 24 romankazicka  staff     768 Jun 11 16:01 proces_vyroby
+123434447 -rw-r--r--@  1 romankazicka  staff   10698 Jun 11 16:01 README.md
+123434491 drwxr-xr-x@  8 romankazicka  staff     256 Jun 11 16:01 STL_Files
+123434446 -rw-r--r--@  1 romankazicka  staff  237493 Jun 11 16:01 Technical_Drawing_SpinFork.pdf
+
+./Project_005_SpinFork_STHDF_2023-2024/3D_Print_Files:
+total 56832
+123434448 drwxr-xr-x@ 10 romankazicka  staff      320 Jun 11 16:01 .
+123434403 drwxr-xr-x@ 11 romankazicka  staff      352 Jun 11 19:37 ..
+123434454 -rw-r--r--@  1 romankazicka  staff  1121446 Jun 11 16:01 PI3MK3M_Connector V1 90.gcode
+123434456 -rw-r--r--@  1 romankazicka  staff  1143430 Jun 11 16:01 PI3MK3M_Connector V1 95.gcode
+123434449 -rw-r--r--@  1 romankazicka  staff  1022707 Jun 11 16:01 PI3MK3M_Connector V2 90.gcode
+123434452 -rw-r--r--@  1 romankazicka  staff  1018409 Jun 11 16:01 PI3MK3M_Connector V2 95.gcode
+123434451 -rw-r--r--@  1 romankazicka  staff  5618319 Jun 11 16:01 PI3MK3M_Fork V1 Down.gcode
+123434450 -rw-r--r--@  1 romankazicka  staff  6739940 Jun 11 16:01 PI3MK3M_Fork V1.gcode
+123434455 -rw-r--r--@  1 romankazicka  staff  5642530 Jun 11 16:01 PI3MK3M_Fork V2 Down.gcode
+123434453 -rw-r--r--@  1 romankazicka  staff  6778769 Jun 11 16:01 PI3MK3M_Fork V2.gcode
+
+./Project_005_SpinFork_STHDF_2023-2024/diagramy:
+total 0
+123434481 drwxr-xr-x@  5 romankazicka  staff  160 Jun 11 16:01 .
+123434403 drwxr-xr-x@ 11 romankazicka  staff  352 Jun 11 19:37 ..
+123434482 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 biznis vrstva
+123434489 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 system vrstva
+123434484 drwxr-xr-x@  6 romankazicka  staff  192 Jun 11 16:01 technicka vrstva
+
+./Project_005_SpinFork_STHDF_2023-2024/diagramy/biznis vrstva:
+total 40
+123434482 drwxr-xr-x@ 3 romankazicka  staff     96 Jun 11 16:01 .
+123434481 drwxr-xr-x@ 5 romankazicka  staff    160 Jun 11 16:01 ..
+123434483 -rw-r--r--@ 1 romankazicka  staff  16705 Jun 11 16:01 spinfork-Business.png
+
+./Project_005_SpinFork_STHDF_2023-2024/diagramy/system vrstva:
+total 40
+123434489 drwxr-xr-x@ 3 romankazicka  staff     96 Jun 11 16:01 .
+123434481 drwxr-xr-x@ 5 romankazicka  staff    160 Jun 11 16:01 ..
+123434490 -rw-r--r--@ 1 romankazicka  staff  19297 Jun 11 16:01 spinfork-System layer.png
+
+./Project_005_SpinFork_STHDF_2023-2024/diagramy/technicka vrstva:
+total 744
+123434484 drwxr-xr-x@ 6 romankazicka  staff     192 Jun 11 16:01 .
+123434481 drwxr-xr-x@ 5 romankazicka  staff     160 Jun 11 16:01 ..
+123434487 -rw-r--r--@ 1 romankazicka  staff  125029 Jun 11 16:01 smartfork_-_obvod_-_tinkercad_model_v1.1.png
+123434486 -rw-r--r--@ 1 romankazicka  staff  176734 Jun 11 16:01 smartfork_-_obvod_-_tinkercad_model_vľ.png
+123434488 -rw-r--r--@ 1 romankazicka  staff   12561 Jun 11 16:01 spifork_obvod.png
+123434485 -rw-r--r--@ 1 romankazicka  staff   54148 Jun 11 16:01 spinfork-Technology_layer.png
+
+./Project_005_SpinFork_STHDF_2023-2024/dokumentacia:
+total 7736
+123434407 drwxr-xr-x@ 40 romankazicka  staff    1280 Jun 11 16:01 .
+123434403 drwxr-xr-x@ 11 romankazicka  staff     352 Jun 11 19:37 ..
+123434416 -rw-r--r--@  1 romankazicka  staff  180907 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.001.png
+123434411 -rw-r--r--@  1 romankazicka  staff   54243 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.002.png
+123434410 -rw-r--r--@  1 romankazicka  staff  172454 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.003.png
+123434420 -rw-r--r--@  1 romankazicka  staff   14724 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.004.png
+123434417 -rw-r--r--@  1 romankazicka  staff   38530 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.005.png
+123434423 -rw-r--r--@  1 romankazicka  staff   62872 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.006.png
+123434424 -rw-r--r--@  1 romankazicka  staff  142196 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.007.png
+123434433 -rw-r--r--@  1 romankazicka  staff  140961 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.008.png
+123434432 -rw-r--r--@  1 romankazicka  staff  113768 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.009.png
+123434419 -rw-r--r--@  1 romankazicka  staff  130472 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.010.png
+123434418 -rw-r--r--@  1 romankazicka  staff   66757 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.011.png
+123434422 -rw-r--r--@  1 romankazicka  staff   19788 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.012.png
+123434425 -rw-r--r--@  1 romankazicka  staff   46642 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.013.png
+123434414 -rw-r--r--@  1 romankazicka  staff   70095 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.014.png
+123434415 -rw-r--r--@  1 romankazicka  staff   99530 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.015.png
+123434412 -rw-r--r--@  1 romankazicka  staff  143453 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.016.png
+123434409 -rw-r--r--@  1 romankazicka  staff   55142 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.017.png
+123434436 -rw-r--r--@  1 romankazicka  staff   71156 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.018.png
+123434438 -rw-r--r--@  1 romankazicka  staff  293918 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.019.png
+123434435 -rw-r--r--@  1 romankazicka  staff   77190 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.020.png
+123434444 -rw-r--r--@  1 romankazicka  staff   23213 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.021.jpeg
+123434428 -rw-r--r--@  1 romankazicka  staff  164994 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.022.png
+123434429 -rw-r--r--@  1 romankazicka  staff  113525 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.023.png
+123434426 -rw-r--r--@  1 romankazicka  staff   36839 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.024.jpeg
+123434408 -rw-r--r--@  1 romankazicka  staff   38038 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.025.jpeg
+123434441 -rw-r--r--@  1 romankazicka  staff  334363 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.026.png
+123434430 -rw-r--r--@  1 romankazicka  staff   38961 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.027.jpeg
+123434421 -rw-r--r--@  1 romankazicka  staff   50043 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.028.jpeg
+123434413 -rw-r--r--@  1 romankazicka  staff   39546 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.029.jpeg
+123434440 -rw-r--r--@  1 romankazicka  staff   32501 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.030.jpeg
+123434437 -rw-r--r--@  1 romankazicka  staff   53894 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.031.png
+123434442 -rw-r--r--@  1 romankazicka  staff   49052 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.032.png
+123434439 -rw-r--r--@  1 romankazicka  staff   10453 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.033.png
+123434434 -rw-r--r--@  1 romankazicka  staff   82805 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.034.png
+123434431 -rw-r--r--@  1 romankazicka  staff   79416 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.035.png
+123434427 -rw-r--r--@  1 romankazicka  staff   93099 Jun 11 16:01 Aspose.Words.2d6e3911-b5fa-4530-a0ed-a8a418000f41.036.png
+123434445 -rw-r--r--@  1 romankazicka  staff   11557 Jun 11 16:01 project_outcome.md
+123434443 -rw-r--r--@  1 romankazicka  staff  637053 Jun 11 16:01 project_outcome.pdf
+
+./Project_005_SpinFork_STHDF_2023-2024/Model_Design_Fusion360:
+total 1032
+123434404 drwxr-xr-x@  4 romankazicka  staff     128 Jun 11 16:01 .
+123434403 drwxr-xr-x@ 11 romankazicka  staff     352 Jun 11 19:37 ..
+123434406 -rw-r--r--@  1 romankazicka  staff   66807 Jun 11 16:01 Connector Fusion360.f3d
+123434405 -rw-r--r--@  1 romankazicka  staff  454781 Jun 11 16:01 Fork V2 Fusion360.f3d
+
+./Project_005_SpinFork_STHDF_2023-2024/proces_vyroby:
+total 21032
+123434458 drwxr-xr-x@ 24 romankazicka  staff      768 Jun 11 16:01 .
+123434403 drwxr-xr-x@ 11 romankazicka  staff      352 Jun 11 19:37 ..
+123434471 -rw-r--r--@  1 romankazicka  staff  2082850 Jun 11 16:01 10_zrezana_stredova_os_motorceku.png
+123434461 -rw-r--r--@  1 romankazicka  staff    52650 Jun 11 16:01 11_navrhnuty_prepojovaci_valec_1.png
+123434468 -rw-r--r--@  1 romankazicka  staff   105594 Jun 11 16:01 12_navrhnuty_prepojovaci_valec_2.png
+123434475 -rw-r--r--@  1 romankazicka  staff  1000121 Jun 11 16:01 13_priprava_vidlicky.png
+123434478 -rw-r--r--@  1 romankazicka  staff   176734 Jun 11 16:01 14_spinFork_simulacia_obvodu.png
+123434465 -rw-r--r--@  1 romankazicka  staff   266378 Jun 11 16:01 16_spinFork_zapojenie_obvodu.jpg
+123434460 -rw-r--r--@  1 romankazicka  staff   485086 Jun 11 16:01 16_viacero_velkosti_spojovacich_valcov.png
+123434477 -rw-r--r--@  1 romankazicka  staff   473444 Jun 11 16:01 17_prvy_vytlaceny_spinFork_model_pred.jpg
+123434464 -rw-r--r--@  1 romankazicka  staff   465836 Jun 11 16:01 18_prvy_vytlaceny_spinFork_model_po.jpg
+123434473 -rw-r--r--@  1 romankazicka  staff   874715 Jun 11 16:01 19_druhy_vytlaceny_spinFork_model.jpg
+123434479 -rw-r--r--@  1 romankazicka  staff   813649 Jun 11 16:01 2_spinFork_slicing.png
+123434480 -rw-r--r--@  1 romankazicka  staff   564320 Jun 11 16:01 20_skladanie_spinFork_1.jpg
+123434472 -rw-r--r--@  1 romankazicka  staff   473297 Jun 11 16:01 21_skladanie_spinFork_2.jpg
+123434463 -rw-r--r--@  1 romankazicka  staff   748214 Jun 11 16:01 22_skladanie_spinFork_3.jpg
+123434467 -rw-r--r--@  1 romankazicka  staff   647089 Jun 11 16:01 23_skladanie_spinFork_4.jpg
+123434459 -rw-r--r--@  1 romankazicka  staff   196847 Jun 11 16:01 3_spinFork_komponent_motor.png
+123434469 -rw-r--r--@  1 romankazicka  staff   100833 Jun 11 16:01 4_modelovanie_spinFork_button.png
+123434470 -rw-r--r--@  1 romankazicka  staff   224273 Jun 11 16:01 5_modelovanie_spinFork_bateria.png
+123434466 -rw-r--r--@  1 romankazicka  staff   303411 Jun 11 16:01 6_modelovanie_spinFork_puzdro_na_bateriu.png
+123434474 -rw-r--r--@  1 romankazicka  staff   109145 Jun 11 16:01 7_spinFork_prvotny_navrh.png
+123434462 -rw-r--r--@  1 romankazicka  staff   295407 Jun 11 16:01 8_spinFork_navrh_rotacie.png
+123434476 -rw-r--r--@  1 romankazicka  staff   263030 Jun 11 16:01 9_schema_motorceku.png
+
+./Project_005_SpinFork_STHDF_2023-2024/STL_Files:
+total 2512
+123434491 drwxr-xr-x@  8 romankazicka  staff     256 Jun 11 16:01 .
+123434403 drwxr-xr-x@ 11 romankazicka  staff     352 Jun 11 19:37 ..
+123434497 -rw-r--r--@  1 romankazicka  staff   42084 Jun 11 16:01 Connector V1 90.stl
+123434496 -rw-r--r--@  1 romankazicka  staff   42584 Jun 11 16:01 Connector V1 95.stl
+123434494 -rw-r--r--@  1 romankazicka  staff   45784 Jun 11 16:01 Connector V2 90.stl
+123434495 -rw-r--r--@  1 romankazicka  staff   39284 Jun 11 16:01 Connector V2 95.stl
+123434493 -rw-r--r--@  1 romankazicka  staff  548684 Jun 11 16:01 Fork V1.stl
+123434492 -rw-r--r--@  1 romankazicka  staff  554984 Jun 11 16:01 Fork V2.stl
+
+./Project_006_AutomatedBlindsControl_STHDF_2023-2024:
+total 6216
+123435120 drwxr-xr-x@ 12 romankazicka  staff      384 Jun 11 19:37 .
+123434091 drwxr-xr-x@ 29 romankazicka  staff      928 Jun 11 21:22 ..
+123435155 -rw-r--r--@  1 romankazicka  staff   511170 Jun 11 16:01 006.Biznisová vrstva.pdf
+123435152 -rw-r--r--@  1 romankazicka  staff   499111 Jun 11 16:01 006.Návrh a prototypovanie.pdf
+123435143 -rw-r--r--@  1 romankazicka  staff   153226 Jun 11 16:01 006.Project Summary.pdf
+123435121 -rw-r--r--@  1 romankazicka  staff   422822 Jun 11 16:01 006.Systémová vrstva.pdf
+123435144 -rw-r--r--@  1 romankazicka  staff  1556414 Jun 11 16:01 006.Technologická vrstva.pdf
+123435153 drwxr-xr-x@  3 romankazicka  staff       96 Jun 11 16:01 EA
+123435122 drwxr-xr-x@ 22 romankazicka  staff      704 Jun 11 16:01 images
+123435151 -rw-r--r--@  1 romankazicka  staff    13770 Jun 11 19:37 index.md
+123435150 -rw-r--r--@  1 romankazicka  staff    13770 Jun 11 16:01 README.md
+123435145 drwxr-xr-x@  6 romankazicka  staff      192 Jun 11 16:01 stl
+
+./Project_006_AutomatedBlindsControl_STHDF_2023-2024/EA:
+total 38112
+123435153 drwxr-xr-x@  3 romankazicka  staff        96 Jun 11 16:01 .
+123435120 drwxr-xr-x@ 12 romankazicka  staff       384 Jun 11 19:37 ..
+123435154 -rw-r--r--@  1 romankazicka  staff  19513344 Jun 11 16:01 smvit.qea
+
+./Project_006_AutomatedBlindsControl_STHDF_2023-2024/images:
+total 15176
+123435122 drwxr-xr-x@ 22 romankazicka  staff      704 Jun 11 16:01 .
+123435120 drwxr-xr-x@ 12 romankazicka  staff      384 Jun 11 19:37 ..
+123435125 -rw-r--r--@  1 romankazicka  staff   161276 Jun 11 16:01 3d_print_image.jpg
+123435138 -rw-r--r--@  1 romankazicka  staff   130018 Jun 11 16:01 biznis_diagram1.png
+123435137 -rw-r--r--@  1 romankazicka  staff    89001 Jun 11 16:01 biznis_diagram2.png
+123435140 -rw-r--r--@  1 romankazicka  staff  2041728 Jun 11 16:01 biznis_image1.gif
+123435131 -rw-r--r--@  1 romankazicka  staff   374428 Jun 11 16:01 biznis_image2.png
+123435126 -rw-r--r--@  1 romankazicka  staff   818858 Jun 11 16:01 circuit_scheme_image.png
+123435134 -rw-r--r--@  1 romankazicka  staff   130162 Jun 11 16:01 krabicka.jpg
+123435142 -rw-r--r--@  1 romankazicka  staff   225110 Jun 11 16:01 kryt_krabicky.jpg
+123435133 -rw-r--r--@  1 romankazicka  staff   336532 Jun 11 16:01 navrh_architektury.jpg
+123435136 -rw-r--r--@  1 romankazicka  staff    77849 Jun 11 16:01 navrh_displeja_zariadenia.png
+123435123 -rw-r--r--@  1 romankazicka  staff   599972 Jun 11 16:01 navrh_riesenia_z_perspektivy_biznisu.jpg
+123435124 -rw-r--r--@  1 romankazicka  staff   178999 Jun 11 16:01 ozubene_koliesko.jpg
+123435141 -rw-r--r--@  1 romankazicka  staff   201145 Jun 11 16:01 prichytka.jpg
+123435135 -rw-r--r--@  1 romankazicka  staff   514892 Jun 11 16:01 prvotny_navrh_a_motivacia.jpg
+123435129 -rw-r--r--@  1 romankazicka  staff   156133 Jun 11 16:01 suciastky_v_celku.jpg
+123435127 -rw-r--r--@  1 romankazicka  staff   429197 Jun 11 16:01 system_diagram1.png
+123435130 -rw-r--r--@  1 romankazicka  staff    65746 Jun 11 16:01 system_diagram2.png
+123435139 -rw-r--r--@  1 romankazicka  staff   241294 Jun 11 16:01 technology_diagram1.png
+123435128 -rw-r--r--@  1 romankazicka  staff   614389 Jun 11 16:01 umiestnenie_na_okne1.jpg
+123435132 -rw-r--r--@  1 romankazicka  staff   346450 Jun 11 16:01 umiestnenie_na_okne2.jpg
+
+./Project_006_AutomatedBlindsControl_STHDF_2023-2024/stl:
+total 848
+123435145 drwxr-xr-x@  6 romankazicka  staff     192 Jun 11 16:01 .
+123435120 drwxr-xr-x@ 12 romankazicka  staff     384 Jun 11 19:37 ..
+123435147 -rw-r--r--@  1 romankazicka  staff  110784 Jun 11 16:01 abc_case_back.stl
+123435148 -rw-r--r--@  1 romankazicka  staff  171884 Jun 11 16:01 abc_case_front.stl
+123435149 -rw-r--r--@  1 romankazicka  staff   48984 Jun 11 16:01 abc_gear_cover.stl
+123435146 -rw-r--r--@  1 romankazicka  staff   96284 Jun 11 16:01 abc_gear.stl
+
+./Project_007_KamerovýSystém_STHDF_2023-2024:
+total 56
+123435181 drwxr-xr-x@  7 romankazicka  staff    224 Jun 11 19:37 .
+123434091 drwxr-xr-x@ 29 romankazicka  staff    928 Jun 11 21:22 ..
+123435184 -rw-r--r--@  1 romankazicka  staff   2622 Jun 11 19:37 index.md
+123435186 -rw-r--r--@  1 romankazicka  staff  10332 Jun 11 16:01 Kamerový Systém.md
+123435183 -rw-r--r--@  1 romankazicka  staff   2622 Jun 11 16:01 README.md
+123435182 -rw-r--r--@  1 romankazicka  staff   2233 Jun 11 16:01 Vida_Pinke_Camera.py
+123435185 -rw-r--r--@  1 romankazicka  staff   2546 Jun 11 16:01 Vida_Pinke_Motion_Detection.py
+
+./Project_008_AutomatedPetFeeder_STHDF_2023-2024:
+total 48
+123434498 drwxr-xr-x@  5 romankazicka  staff    160 Jun 11 19:37 .
+123434091 drwxr-xr-x@ 29 romankazicka  staff    928 Jun 11 21:22 ..
+123434501 drwxr-xr-x@ 10 romankazicka  staff    320 Jun 11 16:01 Assets
+123434500 -rw-r--r--@  1 romankazicka  staff  10072 Jun 11 19:37 index.md
+123434499 -rw-r--r--@  1 romankazicka  staff  10072 Jun 11 16:01 README.md
+
+./Project_008_AutomatedPetFeeder_STHDF_2023-2024/Assets:
+total 18824
+123434501 drwxr-xr-x@ 10 romankazicka  staff      320 Jun 11 16:01 .
+123434498 drwxr-xr-x@  5 romankazicka  staff      160 Jun 11 19:37 ..
+123434507 -rw-r--r--@  1 romankazicka  staff   109798 Jun 11 16:01 arduinouno.jpg
+123434503 -rw-r--r--@  1 romankazicka  staff    43644 Jun 11 16:01 businessdiagram.png
+123434508 -rw-r--r--@  1 romankazicka  staff   840335 Jun 11 16:01 hwsetup.png
+123434506 -rw-r--r--@  1 romankazicka  staff   176781 Jun 11 16:01 invoice.png
+123434504 -rw-r--r--@  1 romankazicka  staff     1596 Jun 11 16:01 PetFeeder.ino
+123434502 -rw-r--r--@  1 romankazicka  staff  7920921 Jun 11 16:01 prototype.jpg
+123434505 -rw-r--r--@  1 romankazicka  staff    51317 Jun 11 16:01 servomotor.jpg
+123434509 -rw-r--r--@  1 romankazicka  staff   475400 Jun 11 16:01 technologydiagram.png
+
+./Project_009_SolarTracker_STHDF_2023-2024:
+total 40
+123434370 drwxr-xr-x@  7 romankazicka  staff   224 Jun 11 19:37 .
+123434091 drwxr-xr-x@ 29 romankazicka  staff   928 Jun 11 21:22 ..
+123434374 drwxr-xr-x@ 28 romankazicka  staff   896 Jun 11 16:01 assets
+123434373 -rw-r--r--@  1 romankazicka  staff  1280 Jun 11 16:01 code_documentation.md
+123434372 -rw-r--r--@  1 romankazicka  staff  5731 Jun 11 19:37 index.md
+123434371 -rw-r--r--@  1 romankazicka  staff  5731 Jun 11 16:01 README.md
+123434401 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 solar_tracker
+
+./Project_009_SolarTracker_STHDF_2023-2024/assets:
+total 6736
+123434374 drwxr-xr-x@ 28 romankazicka  staff     896 Jun 11 16:01 .
+123434370 drwxr-xr-x@  7 romankazicka  staff     224 Jun 11 19:37 ..
+123434388 -rw-r--r--@  1 romankazicka  staff   75322 Jun 11 16:01 architecture_diagram.png
+123434387 -rw-r--r--@  1 romankazicka  staff   16840 Jun 11 16:01 business_diag.png
+123434390 -rw-r--r--@  1 romankazicka  staff  441873 Jun 11 16:01 businessdiag.drawio.png
+123434393 -rw-r--r--@  1 romankazicka  staff  177378 Jun 11 16:01 comp_esp32.png
+123434379 -rw-r--r--@  1 romankazicka  staff   19935 Jun 11 16:01 comp_interface.png
+123434382 -rw-r--r--@  1 romankazicka  staff   32345 Jun 11 16:01 comp_platform.jpeg
+123434385 -rw-r--r--@  1 romankazicka  staff  125994 Jun 11 16:01 comp_servo.png
+123434389 -rw-r--r--@  1 romankazicka  staff   42005 Jun 11 16:01 des_wireframe.jpeg
+123434375 -rw-r--r--@  1 romankazicka  staff   84734 Jun 11 16:01 design_proto1.jpeg
+123434397 -rw-r--r--@  1 romankazicka  staff   11310 Jun 11 16:01 esp.png
+123434376 -rw-r--r--@  1 romankazicka  staff  116852 Jun 11 16:01 imp_platform.jpeg
+123434395 -rw-r--r--@  1 romankazicka  staff  134188 Jun 11 16:01 imp_scheme.png
+123434378 -rw-r--r--@  1 romankazicka  staff   39083 Jun 11 16:01 implementation_debug.png
+123434377 -rw-r--r--@  1 romankazicka  staff  430257 Jun 11 16:01 implementation_model.png
+123434396 -rw-r--r--@  1 romankazicka  staff   19935 Jun 11 16:01 implementation_web.png
+123434383 -rw-r--r--@  1 romankazicka  staff   28538 Jun 11 16:01 interface.png
+123434394 -rw-r--r--@  1 romankazicka  staff  111833 Jun 11 16:01 last_proto.jpeg
+123434380 -rw-r--r--@  1 romankazicka  staff  299156 Jun 11 16:01 proto2.jpeg
+123434400 -rw-r--r--@  1 romankazicka  staff  118230 Jun 11 16:01 scheme.png
+123434381 -rw-r--r--@  1 romankazicka  staff   48057 Jun 11 16:01 serial.png
+123434398 -rw-r--r--@  1 romankazicka  staff  253419 Jun 11 16:01 SMVIT_model.3mf
+123434392 -rw-r--r--@  1 romankazicka  staff   74456 Jun 11 16:01 technical_diagram.png
+123434399 -rw-r--r--@  1 romankazicka  staff    5170 Jun 11 16:01 title.jpeg
+123434384 -rw-r--r--@  1 romankazicka  staff  300701 Jun 11 16:01 used_tools_drawio.png
+123434391 -rw-r--r--@  1 romankazicka  staff   52808 Jun 11 16:01 used_tools_git.png
+123434386 -rw-r--r--@  1 romankazicka  staff  342148 Jun 11 16:01 used_tools_prusa.png
+
+./Project_009_SolarTracker_STHDF_2023-2024/solar_tracker:
+total 16
+123434401 drwxr-xr-x@ 3 romankazicka  staff    96 Jun 11 16:01 .
+123434370 drwxr-xr-x@ 7 romankazicka  staff   224 Jun 11 19:37 ..
+123434402 -rw-r--r--@ 1 romankazicka  staff  5691 Jun 11 16:01 solar_tracker.ino
+
+./Project_010_MouseMover_STHDF_2023-2024:
+total 32
+123434306 drwxr-xr-x@  8 romankazicka  staff   256 Jun 11 19:37 .
+123434091 drwxr-xr-x@ 29 romankazicka  staff   928 Jun 11 21:22 ..
+123434324 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 code
+123434334 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 EA
+123434328 drwxr-xr-x@  7 romankazicka  staff   224 Jun 11 16:01 files
+123434307 drwxr-xr-x@ 14 romankazicka  staff   448 Jun 11 16:01 images
+123434327 -rw-r--r--@  1 romankazicka  staff  7364 Jun 11 19:37 index.md
+123434326 -rw-r--r--@  1 romankazicka  staff  7364 Jun 11 16:01 README.md
+
+./Project_010_MouseMover_STHDF_2023-2024/code:
+total 8
+123434324 drwxr-xr-x@ 3 romankazicka  staff   96 Jun 11 16:01 .
+123434306 drwxr-xr-x@ 8 romankazicka  staff  256 Jun 11 19:37 ..
+123434325 -rw-r--r--@ 1 romankazicka  staff  465 Jun 11 16:01 code.ino
+
+./Project_010_MouseMover_STHDF_2023-2024/EA:
+total 2984
+123434334 drwxr-xr-x@ 3 romankazicka  staff       96 Jun 11 16:01 .
+123434306 drwxr-xr-x@ 8 romankazicka  staff      256 Jun 11 19:37 ..
+123434335 -rw-r--r--@ 1 romankazicka  staff  1527808 Jun 11 16:01 STIIT.qea
+
+./Project_010_MouseMover_STHDF_2023-2024/files:
+total 5608
+123434328 drwxr-xr-x@ 7 romankazicka  staff      224 Jun 11 16:01 .
+123434306 drwxr-xr-x@ 8 romankazicka  staff      256 Jun 11 19:37 ..
+123434332 -rw-r--r--@ 1 romankazicka  staff   115605 Jun 11 16:01 STHOutcomes-01. Project overview (2023-2024-S015-S023)-310124-202410.pdf
+123434330 -rw-r--r--@ 1 romankazicka  staff   631767 Jun 11 16:01 STHOutcomes-02. Business layer (2023-2024-S015-S023)-310124-202453.pdf
+123434333 -rw-r--r--@ 1 romankazicka  staff    93474 Jun 11 16:01 STHOutcomes-03. System layer (2023-2024-S015-S023)-310124-202448.pdf
+123434329 -rw-r--r--@ 1 romankazicka  staff   293713 Jun 11 16:01 STHOutcomes-04. Technical documentation (2023-2024-S015-S023)-310124-202502.pdf
+123434331 -rw-r--r--@ 1 romankazicka  staff  1727381 Jun 11 16:01 STHOutcomes-05. Project outcomes (2023-2024-S015-S023)-310124-202505.pdf
+
+./Project_010_MouseMover_STHDF_2023-2024/images:
+total 3160
+123434307 drwxr-xr-x@ 14 romankazicka  staff     448 Jun 11 16:01 .
+123434306 drwxr-xr-x@  8 romankazicka  staff     256 Jun 11 19:37 ..
+123434323 -rw-r--r--@  1 romankazicka  staff   42194 Jun 11 16:01 1.png
+123434321 -rw-r--r--@  1 romankazicka  staff   68120 Jun 11 16:01 2.png
+123434309 -rw-r--r--@  1 romankazicka  staff   27184 Jun 11 16:01 946b1157-5bfa-4b34-964c-17e714208e17.png
+123434316 drwxr-xr-x@  6 romankazicka  staff     192 Jun 11 16:01 diagramy
+123434314 -rw-r--r--@  1 romankazicka  staff  310258 Jun 11 16:01 photo_2024-01-13_23-23-33.jpg
+123434312 -rw-r--r--@  1 romankazicka  staff  233284 Jun 11 16:01 photo_2024-01-13_23-23-38.jpg
+123434322 -rw-r--r--@  1 romankazicka  staff   90598 Jun 11 16:01 photo_2024-01-13_23-23-42.jpg
+123434311 -rw-r--r--@  1 romankazicka  staff  130797 Jun 11 16:01 photo_2024-01-14_20-54-47.jpg
+123434310 -rw-r--r--@  1 romankazicka  staff  193579 Jun 11 16:01 photo_2024-01-14_20-54-53.jpg
+123434315 -rw-r--r--@  1 romankazicka  staff  107851 Jun 11 16:01 schema.png
+123434313 -rw-r--r--@  1 romankazicka  staff  201310 Jun 11 16:01 Screenshot 2024-01-13 at 20.41.21.png
+123434308 -rw-r--r--@  1 romankazicka  staff  190783 Jun 11 16:01 Screenshot_2024-01-13_at_20.42.01-removebg-preview.png
+
+./Project_010_MouseMover_STHDF_2023-2024/images/diagramy:
+total 184
+123434316 drwxr-xr-x@  6 romankazicka  staff    192 Jun 11 16:01 .
+123434307 drwxr-xr-x@ 14 romankazicka  staff    448 Jun 11 16:01 ..
+123434320 -rw-r--r--@  1 romankazicka  staff  37940 Jun 11 16:01 photo_2024-01-31_21-17-38.jpg
+123434318 -rw-r--r--@  1 romankazicka  staff  13462 Jun 11 16:01 photo_2024-01-31_21-17-42.jpg
+123434317 -rw-r--r--@  1 romankazicka  staff  24056 Jun 11 16:01 photo_2024-01-31_21-17-45.jpg
+123434319 -rw-r--r--@  1 romankazicka  staff   9933 Jun 11 16:01 photo_2024-01-31_21-17-49.jpg
+
+./Project_011_SitStraight_STHDF_2023-2024:
+total 3696
+123434204 drwxr-xr-x@  9 romankazicka  staff      288 Jun 11 19:37 .
+123434091 drwxr-xr-x@ 29 romankazicka  staff      928 Jun 11 21:22 ..
+123434205 drwxr-xr-x@  3 romankazicka  staff       96 Jun 11 16:01 Arduino_Prototypes
+123434230 drwxr-xr-x@ 12 romankazicka  staff      384 Jun 11 16:01 Assets
+123434207 drwxr-xr-x@ 11 romankazicka  staff      352 Jun 11 16:01 Blender ProductBox
+123434220 drwxr-xr-x@ 11 romankazicka  staff      352 Jun 11 16:01 Documents
+123434219 -rw-r--r--@  1 romankazicka  staff      923 Jun 11 20:05 index.md
+123434217 -rw-r--r--@  1 romankazicka  staff      888 Jun 11 16:01 README.md
+123434218 -rw-r--r--@  1 romankazicka  staff  1884160 Jun 11 16:01 SitStraight.qea
+
+./Project_011_SitStraight_STHDF_2023-2024/Arduino_Prototypes:
+total 2360
+123434205 drwxr-xr-x@ 3 romankazicka  staff       96 Jun 11 16:01 .
+123434204 drwxr-xr-x@ 9 romankazicka  staff      288 Jun 11 19:37 ..
+123434206 -rw-r--r--@ 1 romankazicka  staff  1204278 Jun 11 16:01 protorype3_1.jpg
+
+./Project_011_SitStraight_STHDF_2023-2024/Assets:
+total 24728
+123434230 drwxr-xr-x@ 12 romankazicka  staff       384 Jun 11 16:01 .
+123434204 drwxr-xr-x@  9 romankazicka  staff       288 Jun 11 19:37 ..
+123434231 drwxr-xr-x@  4 romankazicka  staff       128 Jun 11 16:01 3d
+123434242 drwxr-xr-x@  4 romankazicka  staff       128 Jun 11 16:01 akcelerometer
+123434245 drwxr-xr-x@  5 romankazicka  staff       160 Jun 11 16:01 arduino
+123434238 drwxr-xr-x@  5 romankazicka  staff       160 Jun 11 16:01 business
+123434270 drwxr-xr-x@  7 romankazicka  staff       224 Jun 11 16:01 gyroskop
+123434249 drwxr-xr-x@ 18 romankazicka  staff       576 Jun 11 16:01 outcomes
+123434266 drwxr-xr-x@  5 romankazicka  staff       160 Jun 11 16:01 system
+123434276 -rw-r--r--@  1 romankazicka  staff  12659690 Jun 11 16:01 team_photo.png
+123434277 drwxr-xr-x@ 25 romankazicka  staff       800 Jun 11 16:01 technical
+123434234 drwxr-xr-x@  5 romankazicka  staff       160 Jun 11 16:01 technology
+
+./Project_011_SitStraight_STHDF_2023-2024/Assets/3d:
+total 1120
+123434231 drwxr-xr-x@  4 romankazicka  staff     128 Jun 11 16:01 .
+123434230 drwxr-xr-x@ 12 romankazicka  staff     384 Jun 11 16:01 ..
+123434233 -rw-r--r--@  1 romankazicka  staff   59324 Jun 11 16:01 image-20231205-221916.png
+123434232 -rw-r--r--@  1 romankazicka  staff  511967 Jun 11 16:01 image-20231205-222119.png
+
+./Project_011_SitStraight_STHDF_2023-2024/Assets/akcelerometer:
+total 6392
+123434242 drwxr-xr-x@  4 romankazicka  staff      128 Jun 11 16:01 .
+123434230 drwxr-xr-x@ 12 romankazicka  staff      384 Jun 11 16:01 ..
+123434244 -rw-r--r--@  1 romankazicka  staff    56078 Jun 11 16:01 image-20231103-143820.png
+123434243 -rw-r--r--@  1 romankazicka  staff  3214034 Jun 11 16:01 image-20231106-133227.png
+
+./Project_011_SitStraight_STHDF_2023-2024/Assets/arduino:
+total 2960
+123434245 drwxr-xr-x@  5 romankazicka  staff     160 Jun 11 16:01 .
+123434230 drwxr-xr-x@ 12 romankazicka  staff     384 Jun 11 16:01 ..
+123434248 -rw-r--r--@  1 romankazicka  staff  809892 Jun 11 16:01 image-20231105-181308.png
+123434246 -rw-r--r--@  1 romankazicka  staff  616707 Jun 11 16:01 image-20231105-183010.png
+123434247 -rw-r--r--@  1 romankazicka  staff   82227 Jun 11 16:01 image-20231105-183209.png
+
+./Project_011_SitStraight_STHDF_2023-2024/Assets/business:
+total 2192
+123434238 drwxr-xr-x@  5 romankazicka  staff     160 Jun 11 16:01 .
+123434230 drwxr-xr-x@ 12 romankazicka  staff     384 Jun 11 16:01 ..
+123434241 -rw-r--r--@  1 romankazicka  staff  798000 Jun 11 16:01 image-20231211-075537.png
+123434240 -rw-r--r--@  1 romankazicka  staff  166279 Jun 11 16:01 image-20231211-080103.png
+123434239 -rw-r--r--@  1 romankazicka  staff  152347 Jun 11 16:01 image-20231211-080128.png
+
+./Project_011_SitStraight_STHDF_2023-2024/Assets/gyroskop:
+total 760
+123434270 drwxr-xr-x@  7 romankazicka  staff     224 Jun 11 16:01 .
+123434230 drwxr-xr-x@ 12 romankazicka  staff     384 Jun 11 16:01 ..
+123434274 -rw-r--r--@  1 romankazicka  staff   44502 Jun 11 16:01 accelerometer-and-gyroscope-mpu6050-20231204-115658.webp
+123434275 -rw-r--r--@  1 romankazicka  staff  208061 Jun 11 16:01 image-20231204-084818.png
+123434273 -rw-r--r--@  1 romankazicka  staff   25628 Jun 11 16:01 micromachines-12-00902-g001-550-20231204-083731.webp
+123434271 -rw-r--r--@  1 romankazicka  staff   94378 Jun 11 16:01 Ring-laser-gyroscope-20231204-083803.webp
+123434272 -rw-r--r--@  1 romankazicka  staff    6858 Jun 11 16:01 Untitled-20231204-083529.jpg
+
+./Project_011_SitStraight_STHDF_2023-2024/Assets/outcomes:
+total 47760
+123434249 drwxr-xr-x@ 18 romankazicka  staff       576 Jun 11 16:01 .
+123434230 drwxr-xr-x@ 12 romankazicka  staff       384 Jun 11 16:01 ..
+123434253 -rw-r--r--@  1 romankazicka  staff      9160 Jun 11 16:01 02-archimate-core-framework-20231210-192835.png
+123434250 -rw-r--r--@  1 romankazicka  staff    266696 Jun 11 16:01 image-20231210-212629.png
+123434261 -rw-r--r--@  1 romankazicka  staff    506785 Jun 11 16:01 image-20231210-212642.png
+123434255 -rw-r--r--@  1 romankazicka  staff    344094 Jun 11 16:01 image-20231210-213408.png
+123434264 -rw-r--r--@  1 romankazicka  staff    656889 Jun 11 16:01 image-20231210-213503.png
+123434251 -rw-r--r--@  1 romankazicka  staff    710660 Jun 11 16:01 image-20231210-213646.png
+123434258 -rw-r--r--@  1 romankazicka  staff    869602 Jun 11 16:01 image-20231210-213743.png
+123434257 -rw-r--r--@  1 romankazicka  staff    843456 Jun 11 16:01 image-20231210-213757.png
+123434259 -rw-r--r--@  1 romankazicka  staff    596707 Jun 11 16:01 image-20231210-214951.png
+123434252 -rw-r--r--@  1 romankazicka  staff    550621 Jun 11 16:01 image-20231210-221542.png
+123434265 -rw-r--r--@  1 romankazicka  staff    344069 Jun 11 16:01 image-20231210-221628.png
+123434256 -rw-r--r--@  1 romankazicka  staff    325858 Jun 11 16:01 image-20231210-221652.png
+123434260 -rw-r--r--@  1 romankazicka  staff    546845 Jun 11 16:01 image-20231210-221855.png
+123434254 -rw-r--r--@  1 romankazicka  staff     84740 Jun 11 16:01 image-20231210-222158.png
+123434263 -rw-r--r--@  1 romankazicka  staff  17700170 Jun 11 16:01 image-20231211-110647.png
+123434262 -rw-r--r--@  1 romankazicka  staff     61082 Jun 11 16:01 image-20231211-112455.png
+
+./Project_011_SitStraight_STHDF_2023-2024/Assets/system:
+total 1384
+123434266 drwxr-xr-x@  5 romankazicka  staff     160 Jun 11 16:01 .
+123434230 drwxr-xr-x@ 12 romankazicka  staff     384 Jun 11 16:01 ..
+123434268 -rw-r--r--@  1 romankazicka  staff  182452 Jun 11 16:01 image-20231211-083010.png
+123434269 -rw-r--r--@  1 romankazicka  staff  100254 Jun 11 16:01 image-20231211-083114.png
+123434267 -rw-r--r--@  1 romankazicka  staff  418739 Jun 11 16:01 image-20231211-083242.png
+
+./Project_011_SitStraight_STHDF_2023-2024/Assets/technical:
+total 152616
+123434277 drwxr-xr-x@ 25 romankazicka  staff       800 Jun 11 16:01 .
+123434230 drwxr-xr-x@ 12 romankazicka  staff       384 Jun 11 16:01 ..
+123434283 -rw-r--r--@  1 romankazicka  staff   1263064 Jun 11 16:01 image-20231127-132405.png
+123434300 -rw-r--r--@  1 romankazicka  staff    238919 Jun 11 16:01 image-20231127-132418.png
+123434296 -rw-r--r--@  1 romankazicka  staff     42489 Jun 11 16:01 image-20231127-132451.png
+123434289 -rw-r--r--@  1 romankazicka  staff    100428 Jun 11 16:01 image-20231127-132523.png
+123434290 -rw-r--r--@  1 romankazicka  staff    414742 Jun 11 16:01 image-20231127-134026.png
+123434279 -rw-r--r--@  1 romankazicka  staff   6969720 Jun 11 16:01 image-20231127-134113.png
+123434299 -rw-r--r--@  1 romankazicka  staff     69481 Jun 11 16:01 image-20231127-134122.png
+123434278 -rw-r--r--@  1 romankazicka  staff  15690850 Jun 11 16:01 image-20231204-105739.png
+123434292 -rw-r--r--@  1 romankazicka  staff     91010 Jun 11 16:01 image-20231204-105803.png
+123434281 -rw-r--r--@  1 romankazicka  staff    132057 Jun 11 16:01 image-20231204-110440.png
+123434288 -rw-r--r--@  1 romankazicka  staff    359159 Jun 11 16:01 image-20231210-174215.png
+123434291 -rw-r--r--@  1 romankazicka  staff   7532960 Jun 11 16:01 image-20231210-184049.png
+123434280 -rw-r--r--@  1 romankazicka  staff  10309541 Jun 11 16:01 image-20231210-184223.png
+123434285 -rw-r--r--@  1 romankazicka  staff    182913 Jun 11 16:01 image-20231211-105652.png
+123434295 -rw-r--r--@  1 romankazicka  staff    512723 Jun 11 16:01 image-20231211-111401.png
+123434284 -rw-r--r--@  1 romankazicka  staff    469383 Jun 11 16:01 image-20231211-113346.png
+123434286 -rw-r--r--@  1 romankazicka  staff     65972 Jun 11 16:01 image-20231211-113435.png
+123434293 -rw-r--r--@  1 romankazicka  staff   5491427 Jun 11 16:01 IMG_20231210_140124.jpg
+123434298 -rw-r--r--@  1 romankazicka  staff   5358291 Jun 11 16:01 IMG_20231210_140135.jpg
+123434287 -rw-r--r--@  1 romankazicka  staff   7257529 Jun 11 16:01 IMG_20231210_140909.jpg
+123434297 -rw-r--r--@  1 romankazicka  staff   5503635 Jun 11 16:01 IMG_20231210_144019.jpg
+123434294 -rw-r--r--@  1 romankazicka  staff   4324548 Jun 11 16:01 IMG_20231210_162342.jpg
+123434282 -rw-r--r--@  1 romankazicka  staff   5710384 Jun 11 16:01 IMG_20231210_162704.jpg
+
+./Project_011_SitStraight_STHDF_2023-2024/Assets/technology:
+total 1224
+123434234 drwxr-xr-x@  5 romankazicka  staff     160 Jun 11 16:01 .
+123434230 drwxr-xr-x@ 12 romankazicka  staff     384 Jun 11 16:01 ..
+123434235 -rw-r--r--@  1 romankazicka  staff  319350 Jun 11 16:01 image-20231211-085354.png
+123434237 -rw-r--r--@  1 romankazicka  staff  173463 Jun 11 16:01 image-20231211-085611.png
+123434236 -rw-r--r--@  1 romankazicka  staff  128244 Jun 11 16:01 image-20231211-085615.png
+
+./Project_011_SitStraight_STHDF_2023-2024/Blender ProductBox:
+total 29032
+123434207 drwxr-xr-x@ 11 romankazicka  staff      352 Jun 11 16:01 .
+123434204 drwxr-xr-x@  9 romankazicka  staff      288 Jun 11 19:37 ..
+123434214 -rw-r--r--@  1 romankazicka  staff   678321 Jun 11 16:01 Box_attachmentSystem.png
+123434208 -rw-r--r--@  1 romankazicka  staff    98113 Jun 11 16:01 box_fixed.png
+123434216 -rw-r--r--@  1 romankazicka  staff   123725 Jun 11 16:01 box.png
+123434210 -rw-r--r--@  1 romankazicka  staff   139628 Jun 11 16:01 box2.png
+123434209 -rw-r--r--@  1 romankazicka  staff   128273 Jun 11 16:01 box3.png
+123434211 -rw-r--r--@  1 romankazicka  staff   505475 Jun 11 16:01 BoxConnectorHole.jpg
+123434213 -rw-r--r--@  1 romankazicka  staff    22741 Jun 11 16:01 BoxFix.jpg
+123434212 -rw-r--r--@  1 romankazicka  staff  6748852 Jun 11 16:01 smvit_krabickaZaklad
+123434215 -rw-r--r--@  1 romankazicka  staff  6399992 Jun 11 16:01 smvitUSBcUchyty.blend1
+
+./Project_011_SitStraight_STHDF_2023-2024/Documents:
+total 104
+123434220 drwxr-xr-x@ 11 romankazicka  staff   352 Jun 11 16:01 .
+123434204 drwxr-xr-x@  9 romankazicka  staff   288 Jun 11 19:37 ..
+123434224 -rw-r--r--@  1 romankazicka  staff  2715 Jun 11 16:01 3D_printing.md
+123434225 -rw-r--r--@  1 romankazicka  staff  3295 Jun 11 16:01 Akcelerometer.md
+123434223 -rw-r--r--@  1 romankazicka  staff  2383 Jun 11 16:01 Arduino.md
+123434228 -rw-r--r--@  1 romankazicka  staff  5005 Jun 11 16:01 Business_Layer.md
+123434222 -rw-r--r--@  1 romankazicka  staff  5152 Jun 11 16:01 Gyroskop.md
+123434226 -rw-r--r--@  1 romankazicka  staff  7196 Jun 11 16:01 Outcomes_and_Results.md
+123434221 -rw-r--r--@  1 romankazicka  staff  2866 Jun 11 16:01 System_Layer.md
+123434227 -rw-r--r--@  1 romankazicka  staff  5028 Jun 11 16:01 Technical_Documentation.md
+123434229 -rw-r--r--@  1 romankazicka  staff  3765 Jun 11 16:01 Technology_Layer.md
+
+./Project_012_MusicVisualiser_STHDF_2023-2024:
+total 16
+123434576 drwxr-xr-x@  5 romankazicka  staff  160 Jun 11 19:37 .
+123434091 drwxr-xr-x@ 29 romankazicka  staff  928 Jun 11 21:22 ..
+123434579 drwxr-xr-x@  9 romankazicka  staff  288 Jun 11 16:01 ColorMusic-master
+123434578 -rw-r--r--@  1 romankazicka  staff   96 Jun 11 19:37 index.md
+123434577 -rw-r--r--@  1 romankazicka  staff   96 Jun 11 16:01 README.md
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master:
+total 368
+123434579 drwxr-xr-x@ 9 romankazicka  staff     288 Jun 11 16:01 .
+123434576 drwxr-xr-x@ 5 romankazicka  staff     160 Jun 11 19:37 ..
+123435009 -rw-r--r--@ 1 romankazicka  staff      66 Jun 11 16:01 .gitattributes
+123434588 drwxr-xr-x@ 5 romankazicka  staff     160 Jun 11 16:01 firmware
+123434627 drwxr-xr-x@ 9 romankazicka  staff     288 Jun 11 16:01 libraries
+123434626 -rw-r--r--@ 1 romankazicka  staff    1066 Jun 11 16:01 LICENSE
+123435010 -rw-r--r--@ 1 romankazicka  staff  156124 Jun 11 16:01 proj_img.jpg
+123435008 -rw-r--r--@ 1 romankazicka  staff   18677 Jun 11 16:01 README.md
+123434580 drwxr-xr-x@ 9 romankazicka  staff     288 Jun 11 16:01 schemes
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/firmware:
+total 0
+123434588 drwxr-xr-x@  5 romankazicka  staff  160 Jun 11 16:01 .
+123434579 drwxr-xr-x@  9 romankazicka  staff  288 Jun 11 16:01 ..
+123434624 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 colorMusic_v2.10
+123434589 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 IRtest_2.0
+123434591 drwxr-xr-x@ 18 romankazicka  staff  576 Jun 11 16:01 Old versions
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/firmware/colorMusic_v2.10:
+total 88
+123434624 drwxr-xr-x@ 3 romankazicka  staff     96 Jun 11 16:01 .
+123434588 drwxr-xr-x@ 5 romankazicka  staff    160 Jun 11 16:01 ..
+123434625 -rw-r--r--@ 1 romankazicka  staff  42456 Jun 11 16:01 colorMusic_v2.10.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/firmware/IRtest_2.0:
+total 8
+123434589 drwxr-xr-x@ 3 romankazicka  staff   96 Jun 11 16:01 .
+123434588 drwxr-xr-x@ 5 romankazicka  staff  160 Jun 11 16:01 ..
+123434590 -rw-r--r--@ 1 romankazicka  staff  415 Jun 11 16:01 IRtest_2.0.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/firmware/Old versions:
+total 0
+123434591 drwxr-xr-x@ 18 romankazicka  staff  576 Jun 11 16:01 .
+123434588 drwxr-xr-x@  5 romankazicka  staff  160 Jun 11 16:01 ..
+123434618 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 colorMusic
+123434620 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 colorMusic_v1.1
+123434608 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 colorMusic_v2.3_KEYES
+123434594 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 colorMusic_v2.3_WAVGAT
+123434614 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 colorMusic_v2.4_KEYES
+123434616 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 colorMusic_v2.4_WAVGAT
+123434602 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 colorMusic_v2.5_KEYES
+123434598 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 colorMusic_v2.5_WAVGAT
+123434592 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 colorMusic_v2.6.1_KEYES
+123434612 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 colorMusic_v2.6.1_WAVGAT
+123434596 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 colorMusic_v2.6.2_KEYES
+123434600 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 colorMusic_v2.6.2_WAVGAT
+123434604 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 colorMusic_v2.7
+123434610 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 colorMusic_v2.8
+123434606 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 colorMusic_v2.9
+123434622 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 IR_test
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/firmware/Old versions/colorMusic:
+total 48
+123434618 drwxr-xr-x@  3 romankazicka  staff     96 Jun 11 16:01 .
+123434591 drwxr-xr-x@ 18 romankazicka  staff    576 Jun 11 16:01 ..
+123434619 -rw-r--r--@  1 romankazicka  staff  20829 Jun 11 16:01 colorMusic.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/firmware/Old versions/colorMusic_v1.1:
+total 48
+123434620 drwxr-xr-x@  3 romankazicka  staff     96 Jun 11 16:01 .
+123434591 drwxr-xr-x@ 18 romankazicka  staff    576 Jun 11 16:01 ..
+123434621 -rw-r--r--@  1 romankazicka  staff  21966 Jun 11 16:01 colorMusic_v1.1.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/firmware/Old versions/colorMusic_v2.3_KEYES:
+total 88
+123434608 drwxr-xr-x@  3 romankazicka  staff     96 Jun 11 16:01 .
+123434591 drwxr-xr-x@ 18 romankazicka  staff    576 Jun 11 16:01 ..
+123434609 -rw-r--r--@  1 romankazicka  staff  41224 Jun 11 16:01 colorMusic_v2.3_KEYES.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/firmware/Old versions/colorMusic_v2.3_WAVGAT:
+total 88
+123434594 drwxr-xr-x@  3 romankazicka  staff     96 Jun 11 16:01 .
+123434591 drwxr-xr-x@ 18 romankazicka  staff    576 Jun 11 16:01 ..
+123434595 -rw-r--r--@  1 romankazicka  staff  41207 Jun 11 16:01 colorMusic_v2.3_WAVGAT.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/firmware/Old versions/colorMusic_v2.4_KEYES:
+total 88
+123434614 drwxr-xr-x@  3 romankazicka  staff     96 Jun 11 16:01 .
+123434591 drwxr-xr-x@ 18 romankazicka  staff    576 Jun 11 16:01 ..
+123434615 -rw-r--r--@  1 romankazicka  staff  41505 Jun 11 16:01 colorMusic_v2.4_KEYES.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/firmware/Old versions/colorMusic_v2.4_WAVGAT:
+total 88
+123434616 drwxr-xr-x@  3 romankazicka  staff     96 Jun 11 16:01 .
+123434591 drwxr-xr-x@ 18 romankazicka  staff    576 Jun 11 16:01 ..
+123434617 -rw-r--r--@  1 romankazicka  staff  41488 Jun 11 16:01 colorMusic_v2.4_WAVGAT.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/firmware/Old versions/colorMusic_v2.5_KEYES:
+total 88
+123434602 drwxr-xr-x@  3 romankazicka  staff     96 Jun 11 16:01 .
+123434591 drwxr-xr-x@ 18 romankazicka  staff    576 Jun 11 16:01 ..
+123434603 -rw-r--r--@  1 romankazicka  staff  42821 Jun 11 16:01 colorMusic_v2.5_KEYES.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/firmware/Old versions/colorMusic_v2.5_WAVGAT:
+total 88
+123434598 drwxr-xr-x@  3 romankazicka  staff     96 Jun 11 16:01 .
+123434591 drwxr-xr-x@ 18 romankazicka  staff    576 Jun 11 16:01 ..
+123434599 -rw-r--r--@  1 romankazicka  staff  42822 Jun 11 16:01 colorMusic_v2.5_WAVGAT.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/firmware/Old versions/colorMusic_v2.6.1_KEYES:
+total 88
+123434592 drwxr-xr-x@  3 romankazicka  staff     96 Jun 11 16:01 .
+123434591 drwxr-xr-x@ 18 romankazicka  staff    576 Jun 11 16:01 ..
+123434593 -rw-r--r--@  1 romankazicka  staff  41491 Jun 11 16:01 colorMusic_v2.6.1_KEYES.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/firmware/Old versions/colorMusic_v2.6.1_WAVGAT:
+total 88
+123434612 drwxr-xr-x@  3 romankazicka  staff     96 Jun 11 16:01 .
+123434591 drwxr-xr-x@ 18 romankazicka  staff    576 Jun 11 16:01 ..
+123434613 -rw-r--r--@  1 romankazicka  staff  41493 Jun 11 16:01 colorMusic_v2.6.1_WAVGAT.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/firmware/Old versions/colorMusic_v2.6.2_KEYES:
+total 88
+123434596 drwxr-xr-x@  3 romankazicka  staff     96 Jun 11 16:01 .
+123434591 drwxr-xr-x@ 18 romankazicka  staff    576 Jun 11 16:01 ..
+123434597 -rw-r--r--@  1 romankazicka  staff  41819 Jun 11 16:01 colorMusic_v2.6.2_KEYES.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/firmware/Old versions/colorMusic_v2.6.2_WAVGAT:
+total 88
+123434600 drwxr-xr-x@  3 romankazicka  staff     96 Jun 11 16:01 .
+123434591 drwxr-xr-x@ 18 romankazicka  staff    576 Jun 11 16:01 ..
+123434601 -rw-r--r--@  1 romankazicka  staff  44176 Jun 11 16:01 colorMusic_v2.6.2_WAVGAT.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/firmware/Old versions/colorMusic_v2.7:
+total 88
+123434604 drwxr-xr-x@  3 romankazicka  staff     96 Jun 11 16:01 .
+123434591 drwxr-xr-x@ 18 romankazicka  staff    576 Jun 11 16:01 ..
+123434605 -rw-r--r--@  1 romankazicka  staff  44180 Jun 11 16:01 colorMusic_v2.7.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/firmware/Old versions/colorMusic_v2.8:
+total 80
+123434610 drwxr-xr-x@  3 romankazicka  staff     96 Jun 11 16:01 .
+123434591 drwxr-xr-x@ 18 romankazicka  staff    576 Jun 11 16:01 ..
+123434611 -rw-r--r--@  1 romankazicka  staff  40941 Jun 11 16:01 colorMusic_v2.8.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/firmware/Old versions/colorMusic_v2.9:
+total 88
+123434606 drwxr-xr-x@  3 romankazicka  staff     96 Jun 11 16:01 .
+123434591 drwxr-xr-x@ 18 romankazicka  staff    576 Jun 11 16:01 ..
+123434607 -rw-r--r--@  1 romankazicka  staff  42460 Jun 11 16:01 colorMusic_v2.9.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/firmware/Old versions/IR_test:
+total 8
+123434622 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 .
+123434591 drwxr-xr-x@ 18 romankazicka  staff  576 Jun 11 16:01 ..
+123434623 -rw-r--r--@  1 romankazicka  staff  545 Jun 11 16:01 IR_test.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries:
+total 0
+123434627 drwxr-xr-x@  9 romankazicka  staff   288 Jun 11 16:01 .
+123434579 drwxr-xr-x@  9 romankazicka  staff   288 Jun 11 16:01 ..
+123434696 drwxr-xr-x@ 12 romankazicka  staff   384 Jun 11 16:01 Adafruit_NeoPixel-master
+123434727 drwxr-xr-x@  5 romankazicka  staff   160 Jun 11 16:01 EEPROMex
+123434774 drwxr-xr-x@ 52 romankazicka  staff  1664 Jun 11 16:01 FastLED-master
+123434955 drwxr-xr-x@ 25 romankazicka  staff   800 Jun 11 16:01 FHT
+123434985 drwxr-xr-x@  6 romankazicka  staff   192 Jun 11 16:01 GyverButton
+123434731 drwxr-xr-x@ 10 romankazicka  staff   320 Jun 11 16:01 IRLremote-master
+123434628 drwxr-xr-x@ 38 romankazicka  staff  1216 Jun 11 16:01 IRremote
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/Adafruit_NeoPixel-master:
+total 256
+123434696 drwxr-xr-x@ 12 romankazicka  staff    384 Jun 11 16:01 .
+123434627 drwxr-xr-x@  9 romankazicka  staff    288 Jun 11 16:01 ..
+123434722 drwxr-xr-x@  4 romankazicka  staff    128 Jun 11 16:01 .github
+123434726 -rw-r--r--@  1 romankazicka  staff    273 Jun 11 16:01 .travis.yml
+123434697 -rw-r--r--@  1 romankazicka  staff  87933 Jun 11 16:01 Adafruit_NeoPixel.cpp
+123434701 -rw-r--r--@  1 romankazicka  staff   7640 Jun 11 16:01 Adafruit_NeoPixel.h
+123434702 -rw-r--r--@  1 romankazicka  staff   7651 Jun 11 16:01 COPYING
+123434700 -rw-r--r--@  1 romankazicka  staff   2417 Jun 11 16:01 esp8266.c
+123434703 drwxr-xr-x@  7 romankazicka  staff    224 Jun 11 16:01 examples
+123434698 -rw-r--r--@  1 romankazicka  staff    861 Jun 11 16:01 keywords.txt
+123434725 -rw-r--r--@  1 romankazicka  staff    339 Jun 11 16:01 library.properties
+123434699 -rw-r--r--@  1 romankazicka  staff   4850 Jun 11 16:01 README.md
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/Adafruit_NeoPixel-master/.github:
+total 16
+123434722 drwxr-xr-x@  4 romankazicka  staff   128 Jun 11 16:01 .
+123434696 drwxr-xr-x@ 12 romankazicka  staff   384 Jun 11 16:01 ..
+123434724 -rw-r--r--@  1 romankazicka  staff  2624 Jun 11 16:01 ISSUE_TEMPLATE.md
+123434723 -rw-r--r--@  1 romankazicka  staff  1415 Jun 11 16:01 PULL_REQUEST_TEMPLATE.md
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/Adafruit_NeoPixel-master/examples:
+total 0
+123434703 drwxr-xr-x@  7 romankazicka  staff  224 Jun 11 16:01 .
+123434696 drwxr-xr-x@ 12 romankazicka  staff  384 Jun 11 16:01 ..
+123434719 drwxr-xr-x@  4 romankazicka  staff  128 Jun 11 16:01 buttoncycler
+123434704 drwxr-xr-x@  5 romankazicka  staff  160 Jun 11 16:01 RGBWstrandtest
+123434716 drwxr-xr-x@  4 romankazicka  staff  128 Jun 11 16:01 simple
+123434708 drwxr-xr-x@  4 romankazicka  staff  128 Jun 11 16:01 strandtest
+123434711 drwxr-xr-x@  6 romankazicka  staff  192 Jun 11 16:01 StrandtestBLE
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/Adafruit_NeoPixel-master/examples/buttoncycler:
+total 16
+123434719 drwxr-xr-x@ 4 romankazicka  staff   128 Jun 11 16:01 .
+123434703 drwxr-xr-x@ 7 romankazicka  staff   224 Jun 11 16:01 ..
+123434721 -rw-r--r--@ 1 romankazicka  staff     0 Jun 11 16:01 .esp8266.test.skip
+123434720 -rw-r--r--@ 1 romankazicka  staff  5042 Jun 11 16:01 buttoncycler.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/Adafruit_NeoPixel-master/examples/RGBWstrandtest:
+total 16
+123434704 drwxr-xr-x@ 5 romankazicka  staff   160 Jun 11 16:01 .
+123434703 drwxr-xr-x@ 7 romankazicka  staff   224 Jun 11 16:01 ..
+123434707 -rw-r--r--@ 1 romankazicka  staff     0 Jun 11 16:01 .esp8266.test.skip
+123434705 -rw-r--r--@ 1 romankazicka  staff     0 Jun 11 16:01 .trinket.test.skip
+123434706 -rw-r--r--@ 1 romankazicka  staff  6595 Jun 11 16:01 RGBWstrandtest.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/Adafruit_NeoPixel-master/examples/simple:
+total 8
+123434716 drwxr-xr-x@ 4 romankazicka  staff   128 Jun 11 16:01 .
+123434703 drwxr-xr-x@ 7 romankazicka  staff   224 Jun 11 16:01 ..
+123434718 -rw-r--r--@ 1 romankazicka  staff     0 Jun 11 16:01 .esp8266.test.skip
+123434717 -rw-r--r--@ 1 romankazicka  staff  1609 Jun 11 16:01 simple.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/Adafruit_NeoPixel-master/examples/strandtest:
+total 16
+123434708 drwxr-xr-x@ 4 romankazicka  staff   128 Jun 11 16:01 .
+123434703 drwxr-xr-x@ 7 romankazicka  staff   224 Jun 11 16:01 ..
+123434710 -rw-r--r--@ 1 romankazicka  staff     0 Jun 11 16:01 .esp8266.test.skip
+123434709 -rw-r--r--@ 1 romankazicka  staff  4125 Jun 11 16:01 strandtest.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/Adafruit_NeoPixel-master/examples/StrandtestBLE:
+total 32
+123434711 drwxr-xr-x@ 6 romankazicka  staff   192 Jun 11 16:01 .
+123434703 drwxr-xr-x@ 7 romankazicka  staff   224 Jun 11 16:01 ..
+123434712 -rw-r--r--@ 1 romankazicka  staff     0 Jun 11 16:01 .test.skip
+123434715 -rw-r--r--@ 1 romankazicka  staff  3681 Jun 11 16:01 BLESerial.cpp
+123434714 -rw-r--r--@ 1 romankazicka  staff  1569 Jun 11 16:01 BLESerial.h
+123434713 -rw-r--r--@ 1 romankazicka  staff  6108 Jun 11 16:01 StrandtestBLE.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/EEPROMex:
+total 48
+123434727 drwxr-xr-x@ 5 romankazicka  staff   160 Jun 11 16:01 .
+123434627 drwxr-xr-x@ 9 romankazicka  staff   288 Jun 11 16:01 ..
+123434728 -rw-r--r--@ 1 romankazicka  staff  9398 Jun 11 16:01 EEPROMex.cpp
+123434729 -rw-r--r--@ 1 romankazicka  staff  6047 Jun 11 16:01 EEPROMex.h
+123434730 -rw-r--r--@ 1 romankazicka  staff  1993 Jun 11 16:01 EEPROMVar.h
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master:
+total 992
+123434774 drwxr-xr-x@ 52 romankazicka  staff   1664 Jun 11 16:01 .
+123434627 drwxr-xr-x@  9 romankazicka  staff    288 Jun 11 16:01 ..
+123434875 -rw-r--r--@  1 romankazicka  staff     12 Jun 11 16:01 .gitignore
+123434877 -rw-r--r--@  1 romankazicka  staff    939 Jun 11 16:01 bitswap.cpp
+123434846 -rw-r--r--@  1 romankazicka  staff   6846 Jun 11 16:01 bitswap.h
+123434876 -rw-r--r--@  1 romankazicka  staff  19236 Jun 11 16:01 chipsets.h
+123434858 -rw-r--r--@  1 romankazicka  staff   2606 Jun 11 16:01 color.h
+123434941 -rw-r--r--@  1 romankazicka  staff   4212 Jun 11 16:01 colorpalettes.cpp
+123434856 -rw-r--r--@  1 romankazicka  staff   1925 Jun 11 16:01 colorpalettes.h
+123434849 -rw-r--r--@  1 romankazicka  staff  33608 Jun 11 16:01 colorutils.cpp
+123434874 -rw-r--r--@  1 romankazicka  staff  58884 Jun 11 16:01 colorutils.h
+123434868 -rw-r--r--@  1 romankazicka  staff  19161 Jun 11 16:01 controller.h
+123434945 -rw-r--r--@  1 romankazicka  staff    257 Jun 11 16:01 cpp_compat.h
+123434948 -rw-r--r--@  1 romankazicka  staff   1536 Jun 11 16:01 dmx.h
+123434861 drwxr-xr-x@  4 romankazicka  staff    128 Jun 11 16:01 docs
+123434881 drwxr-xr-x@ 22 romankazicka  staff    704 Jun 11 16:01 examples
+123434949 drwxr-xr-x@  6 romankazicka  staff    192 Jun 11 16:01 extras
+123434870 -rw-r--r--@  1 romankazicka  staff   2802 Jun 11 16:01 fastled_config.h
+123434855 -rw-r--r--@  1 romankazicka  staff   4730 Jun 11 16:01 fastled_delay.h
+123434851 -rw-r--r--@  1 romankazicka  staff   2359 Jun 11 16:01 fastled_progmem.h
+123434860 -rw-r--r--@  1 romankazicka  staff   6503 Jun 11 16:01 FastLED.cpp
+123434947 -rw-r--r--@  1 romankazicka  staff  30702 Jun 11 16:01 FastLED.h
+123434880 -rw-r--r--@  1 romankazicka  staff   9423 Jun 11 16:01 fastpin.h
+123434867 -rw-r--r--@  1 romankazicka  staff  16195 Jun 11 16:01 fastspi_bitbang.h
+123434879 -rw-r--r--@  1 romankazicka  staff      0 Jun 11 16:01 fastspi_dma.h
+123434940 -rw-r--r--@  1 romankazicka  staff   2457 Jun 11 16:01 fastspi_nop.h
+123434859 -rw-r--r--@  1 romankazicka  staff   3275 Jun 11 16:01 fastspi_ref.h
+123434847 -rw-r--r--@  1 romankazicka  staff   1486 Jun 11 16:01 fastspi_types.h
+123434946 -rw-r--r--@  1 romankazicka  staff   4631 Jun 11 16:01 fastspi.h
+123434871 -rw-r--r--@  1 romankazicka  staff  23383 Jun 11 16:01 hsv2rgb.cpp
+123434854 -rw-r--r--@  1 romankazicka  staff   3652 Jun 11 16:01 hsv2rgb.h
+123434852 -rw-r--r--@  1 romankazicka  staff   8035 Jun 11 16:01 keywords.txt
+123434853 -rw-r--r--@  1 romankazicka  staff   1512 Jun 11 16:01 led_sysdefs.h
+123434934 drwxr-xr-x@  6 romankazicka  staff    192 Jun 11 16:01 lib8tion
+123434857 -rw-r--r--@  1 romankazicka  staff   6546 Jun 11 16:01 lib8tion.cpp
+123434943 -rw-r--r--@  1 romankazicka  staff  36504 Jun 11 16:01 lib8tion.h
+123434873 -rw-r--r--@  1 romankazicka  staff    996 Jun 11 16:01 library.json
+123434944 -rw-r--r--@  1 romankazicka  staff    443 Jun 11 16:01 library.properties
+123434848 -rw-r--r--@  1 romankazicka  staff   1074 Jun 11 16:01 LICENSE
+123434864 -rw-r--r--@  1 romankazicka  staff  23341 Jun 11 16:01 noise.cpp
+123434776 -rw-r--r--@  1 romankazicka  staff   4729 Jun 11 16:01 noise.h
+123434850 -rw-r--r--@  1 romankazicka  staff  16198 Jun 11 16:01 pixelset.h
+123434878 -rw-r--r--@  1 romankazicka  staff  23585 Jun 11 16:01 pixeltypes.h
+123434777 drwxr-xr-x@  5 romankazicka  staff    160 Jun 11 16:01 platforms
+123434942 -rw-r--r--@  1 romankazicka  staff   1089 Jun 11 16:01 platforms.h
+123434865 -rw-r--r--@  1 romankazicka  staff   2227 Jun 11 16:01 PORTING.md
+123434775 -rw-r--r--@  1 romankazicka  staff   5781 Jun 11 16:01 power_mgt.cpp
+123434954 -rw-r--r--@  1 romankazicka  staff   3680 Jun 11 16:01 power_mgt.h
+123434866 -rw-r--r--@  1 romankazicka  staff    870 Jun 11 16:01 preview_changes.txt
+123434869 -rw-r--r--@  1 romankazicka  staff   5893 Jun 11 16:01 README.md
+123434939 -rw-r--r--@  1 romankazicka  staff   5615 Jun 11 16:01 release_notes.md
+123434872 -rw-r--r--@  1 romankazicka  staff   6844 Jun 11 16:01 wiring.cpp
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/docs:
+total 208
+123434861 drwxr-xr-x@  4 romankazicka  staff     128 Jun 11 16:01 .
+123434774 drwxr-xr-x@ 52 romankazicka  staff    1664 Jun 11 16:01 ..
+123434863 -rw-r--r--@  1 romankazicka  staff  101720 Jun 11 16:01 Doxyfile
+123434862 -rw-r--r--@  1 romankazicka  staff     171 Jun 11 16:01 mainpage.dox
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/examples:
+total 0
+123434881 drwxr-xr-x@ 22 romankazicka  staff   704 Jun 11 16:01 .
+123434774 drwxr-xr-x@ 52 romankazicka  staff  1664 Jun 11 16:01 ..
+123434927 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 AnalogOutput
+123434882 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 Blink
+123434919 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 ColorPalette
+123434923 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 ColorTemperature
+123434884 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 Cylon
+123434886 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 DemoReel100
+123434917 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 DemoReelESP32
+123434921 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 Fire2012
+123434915 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 Fire2012WithPalette
+123434903 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 FirstLight
+123434890 drwxr-xr-x@  8 romankazicka  staff   256 Jun 11 16:01 Multiple
+123434925 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 Noise
+123434932 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 NoisePlayground
+123434905 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 NoisePlusPalette
+123434913 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 Pintest
+123434929 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 Ports
+123434888 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 RGBCalibrate
+123434909 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 RGBSetDemo
+123434907 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 SmartMatrix
+123434911 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 XYMatrix
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/examples/AnalogOutput:
+total 8
+123434927 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434881 drwxr-xr-x@ 22 romankazicka  staff   704 Jun 11 16:01 ..
+123434928 -rw-r--r--@  1 romankazicka  staff  1829 Jun 11 16:01 AnalogOutput.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/examples/Blink:
+total 8
+123434882 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434881 drwxr-xr-x@ 22 romankazicka  staff   704 Jun 11 16:01 ..
+123434883 -rw-r--r--@  1 romankazicka  staff  2293 Jun 11 16:01 Blink.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/examples/ColorPalette:
+total 16
+123434919 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434881 drwxr-xr-x@ 22 romankazicka  staff   704 Jun 11 16:01 ..
+123434920 -rw-r--r--@  1 romankazicka  staff  6730 Jun 11 16:01 ColorPalette.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/examples/ColorTemperature:
+total 8
+123434923 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434881 drwxr-xr-x@ 22 romankazicka  staff   704 Jun 11 16:01 ..
+123434924 -rw-r--r--@  1 romankazicka  staff  3069 Jun 11 16:01 ColorTemperature.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/examples/Cylon:
+total 8
+123434884 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434881 drwxr-xr-x@ 22 romankazicka  staff   704 Jun 11 16:01 ..
+123434885 -rw-r--r--@  1 romankazicka  staff  1456 Jun 11 16:01 Cylon.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/examples/DemoReel100:
+total 8
+123434886 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434881 drwxr-xr-x@ 22 romankazicka  staff   704 Jun 11 16:01 ..
+123434887 -rw-r--r--@  1 romankazicka  staff  3566 Jun 11 16:01 DemoReel100.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/examples/DemoReelESP32:
+total 16
+123434917 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434881 drwxr-xr-x@ 22 romankazicka  staff   704 Jun 11 16:01 ..
+123434918 -rw-r--r--@  1 romankazicka  staff  5185 Jun 11 16:01 DemoReelESP32.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/examples/Fire2012:
+total 8
+123434921 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434881 drwxr-xr-x@ 22 romankazicka  staff   704 Jun 11 16:01 ..
+123434922 -rw-r--r--@  1 romankazicka  staff  3356 Jun 11 16:01 Fire2012.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/examples/Fire2012WithPalette:
+total 16
+123434915 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434881 drwxr-xr-x@ 22 romankazicka  staff   704 Jun 11 16:01 ..
+123434916 -rw-r--r--@  1 romankazicka  staff  6221 Jun 11 16:01 Fire2012WithPalette.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/examples/FirstLight:
+total 8
+123434903 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434881 drwxr-xr-x@ 22 romankazicka  staff   704 Jun 11 16:01 ..
+123434904 -rw-r--r--@  1 romankazicka  staff  3415 Jun 11 16:01 FirstLight.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/examples/Multiple:
+total 0
+123434890 drwxr-xr-x@  8 romankazicka  staff  256 Jun 11 16:01 .
+123434881 drwxr-xr-x@ 22 romankazicka  staff  704 Jun 11 16:01 ..
+123434893 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 ArrayOfLedArrays
+123434899 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 MirroringSample
+123434895 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 MultiArrays
+123434901 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 MultipleStripsInOneArray
+123434897 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 OctoWS2811Demo
+123434891 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 ParallelOutputDemo
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/examples/Multiple/ArrayOfLedArrays:
+total 8
+123434893 drwxr-xr-x@ 3 romankazicka  staff    96 Jun 11 16:01 .
+123434890 drwxr-xr-x@ 8 romankazicka  staff   256 Jun 11 16:01 ..
+123434894 -rw-r--r--@ 1 romankazicka  staff  1332 Jun 11 16:01 ArrayOfLedArrays.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/examples/Multiple/MirroringSample:
+total 8
+123434899 drwxr-xr-x@ 3 romankazicka  staff    96 Jun 11 16:01 .
+123434890 drwxr-xr-x@ 8 romankazicka  staff   256 Jun 11 16:01 ..
+123434900 -rw-r--r--@ 1 romankazicka  staff  1453 Jun 11 16:01 MirroringSample.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/examples/Multiple/MultiArrays:
+total 8
+123434895 drwxr-xr-x@ 3 romankazicka  staff    96 Jun 11 16:01 .
+123434890 drwxr-xr-x@ 8 romankazicka  staff   256 Jun 11 16:01 ..
+123434896 -rw-r--r--@ 1 romankazicka  staff  1696 Jun 11 16:01 MultiArrays.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/examples/Multiple/MultipleStripsInOneArray:
+total 8
+123434901 drwxr-xr-x@ 3 romankazicka  staff    96 Jun 11 16:01 .
+123434890 drwxr-xr-x@ 8 romankazicka  staff   256 Jun 11 16:01 ..
+123434902 -rw-r--r--@ 1 romankazicka  staff  1277 Jun 11 16:01 MultipleStripsInOneArray.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/examples/Multiple/OctoWS2811Demo:
+total 8
+123434897 drwxr-xr-x@ 3 romankazicka  staff   96 Jun 11 16:01 .
+123434890 drwxr-xr-x@ 8 romankazicka  staff  256 Jun 11 16:01 ..
+123434898 -rw-r--r--@ 1 romankazicka  staff  791 Jun 11 16:01 OctoWS2811Demo.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/examples/Multiple/ParallelOutputDemo:
+total 8
+123434891 drwxr-xr-x@ 3 romankazicka  staff    96 Jun 11 16:01 .
+123434890 drwxr-xr-x@ 8 romankazicka  staff   256 Jun 11 16:01 ..
+123434892 -rw-r--r--@ 1 romankazicka  staff  1521 Jun 11 16:01 ParallelOutputDemo.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/examples/Noise:
+total 8
+123434925 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434881 drwxr-xr-x@ 22 romankazicka  staff   704 Jun 11 16:01 ..
+123434926 -rw-r--r--@  1 romankazicka  staff  3258 Jun 11 16:01 Noise.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/examples/NoisePlayground:
+total 8
+123434932 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434881 drwxr-xr-x@ 22 romankazicka  staff   704 Jun 11 16:01 ..
+123434933 -rw-r--r--@  1 romankazicka  staff  1952 Jun 11 16:01 NoisePlayground.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/examples/NoisePlusPalette:
+total 24
+123434905 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434881 drwxr-xr-x@ 22 romankazicka  staff   704 Jun 11 16:01 ..
+123434906 -rw-r--r--@  1 romankazicka  staff  9469 Jun 11 16:01 NoisePlusPalette.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/examples/Pintest:
+total 8
+123434913 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434881 drwxr-xr-x@ 22 romankazicka  staff   704 Jun 11 16:01 ..
+123434914 -rw-r--r--@  1 romankazicka  staff  2704 Jun 11 16:01 Pintest.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/examples/Ports:
+total 0
+123434929 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 .
+123434881 drwxr-xr-x@ 22 romankazicka  staff  704 Jun 11 16:01 ..
+123434930 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 PJRCSpectrumAnalyzer
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/examples/Ports/PJRCSpectrumAnalyzer:
+total 16
+123434930 drwxr-xr-x@ 3 romankazicka  staff    96 Jun 11 16:01 .
+123434929 drwxr-xr-x@ 3 romankazicka  staff    96 Jun 11 16:01 ..
+123434931 -rw-r--r--@ 1 romankazicka  staff  4275 Jun 11 16:01 PJRCSpectrumAnalyzer.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/examples/RGBCalibrate:
+total 8
+123434888 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434881 drwxr-xr-x@ 22 romankazicka  staff   704 Jun 11 16:01 ..
+123434889 -rw-r--r--@  1 romankazicka  staff  2969 Jun 11 16:01 RGBCalibrate.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/examples/RGBSetDemo:
+total 8
+123434909 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 .
+123434881 drwxr-xr-x@ 22 romankazicka  staff  704 Jun 11 16:01 ..
+123434910 -rw-r--r--@  1 romankazicka  staff  475 Jun 11 16:01 RGBSetDemo.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/examples/SmartMatrix:
+total 8
+123434907 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434881 drwxr-xr-x@ 22 romankazicka  staff   704 Jun 11 16:01 ..
+123434908 -rw-r--r--@  1 romankazicka  staff  3600 Jun 11 16:01 SmartMatrix.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/examples/XYMatrix:
+total 16
+123434911 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434881 drwxr-xr-x@ 22 romankazicka  staff   704 Jun 11 16:01 ..
+123434912 -rw-r--r--@  1 romankazicka  staff  6620 Jun 11 16:01 XYMatrix.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/extras:
+total 56
+123434949 drwxr-xr-x@  6 romankazicka  staff    192 Jun 11 16:01 .
+123434774 drwxr-xr-x@ 52 romankazicka  staff   1664 Jun 11 16:01 ..
+123434953 -rw-r--r--@  1 romankazicka  staff    690 Jun 11 16:01 AppleII.s65
+123434952 -rw-r--r--@  1 romankazicka  staff  12720 Jun 11 16:01 FastLED6502.s65
+123434950 -rw-r--r--@  1 romankazicka  staff    848 Jun 11 16:01 RainbowDemo.bin.zip
+123434951 -rw-r--r--@  1 romankazicka  staff   1349 Jun 11 16:01 RainbowDemo.s65
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/lib8tion:
+total 104
+123434934 drwxr-xr-x@  6 romankazicka  staff    192 Jun 11 16:01 .
+123434774 drwxr-xr-x@ 52 romankazicka  staff   1664 Jun 11 16:01 ..
+123434937 -rw-r--r--@  1 romankazicka  staff  14795 Jun 11 16:01 math8.h
+123434936 -rw-r--r--@  1 romankazicka  staff   2529 Jun 11 16:01 random8.h
+123434938 -rw-r--r--@  1 romankazicka  staff  23932 Jun 11 16:01 scale8.h
+123434935 -rw-r--r--@  1 romankazicka  staff   7139 Jun 11 16:01 trig8.h
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/platforms:
+total 0
+123434777 drwxr-xr-x@  5 romankazicka  staff   160 Jun 11 16:01 .
+123434774 drwxr-xr-x@ 52 romankazicka  staff  1664 Jun 11 16:01 ..
+123434797 drwxr-xr-x@ 10 romankazicka  staff   320 Jun 11 16:01 arm
+123434791 drwxr-xr-x@  7 romankazicka  staff   224 Jun 11 16:01 avr
+123434778 drwxr-xr-x@  4 romankazicka  staff   128 Jun 11 16:01 esp
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/platforms/arm:
+total 0
+123434797 drwxr-xr-x@ 10 romankazicka  staff  320 Jun 11 16:01 .
+123434777 drwxr-xr-x@  5 romankazicka  staff  160 Jun 11 16:01 ..
+123434834 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 common
+123434841 drwxr-xr-x@  6 romankazicka  staff  192 Jun 11 16:01 d21
+123434818 drwxr-xr-x@ 11 romankazicka  staff  352 Jun 11 16:01 k20
+123434805 drwxr-xr-x@  8 romankazicka  staff  256 Jun 11 16:01 k66
+123434828 drwxr-xr-x@  7 romankazicka  staff  224 Jun 11 16:01 kl26
+123434812 drwxr-xr-x@  7 romankazicka  staff  224 Jun 11 16:01 nrf51
+123434798 drwxr-xr-x@  8 romankazicka  staff  256 Jun 11 16:01 sam
+123434836 drwxr-xr-x@  6 romankazicka  staff  192 Jun 11 16:01 stm32
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/platforms/arm/common:
+total 24
+123434834 drwxr-xr-x@  3 romankazicka  staff     96 Jun 11 16:01 .
+123434797 drwxr-xr-x@ 10 romankazicka  staff    320 Jun 11 16:01 ..
+123434835 -rw-r--r--@  1 romankazicka  staff  11590 Jun 11 16:01 m0clockless.h
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/platforms/arm/d21:
+total 48
+123434841 drwxr-xr-x@  6 romankazicka  staff   192 Jun 11 16:01 .
+123434797 drwxr-xr-x@ 10 romankazicka  staff   320 Jun 11 16:01 ..
+123434843 -rw-r--r--@  1 romankazicka  staff  1884 Jun 11 16:01 clockless_arm_d21.h
+123434842 -rw-r--r--@  1 romankazicka  staff   133 Jun 11 16:01 fastled_arm_d21.h
+123434844 -rw-r--r--@  1 romankazicka  staff  8213 Jun 11 16:01 fastpin_arm_d21.h
+123434845 -rw-r--r--@  1 romankazicka  staff   483 Jun 11 16:01 led_sysdefs_arm_d21.h
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/platforms/arm/k20:
+total 120
+123434818 drwxr-xr-x@ 11 romankazicka  staff    352 Jun 11 16:01 .
+123434797 drwxr-xr-x@ 10 romankazicka  staff    320 Jun 11 16:01 ..
+123434822 -rw-r--r--@  1 romankazicka  staff   3925 Jun 11 16:01 clockless_arm_k20.h
+123434824 -rw-r--r--@  1 romankazicka  staff  10552 Jun 11 16:01 clockless_block_arm_k20.h
+123434819 -rw-r--r--@  1 romankazicka  staff    326 Jun 11 16:01 fastled_arm_k20.h
+123434825 -rw-r--r--@  1 romankazicka  staff   6763 Jun 11 16:01 fastpin_arm_k20.h
+123434826 -rw-r--r--@  1 romankazicka  staff  16372 Jun 11 16:01 fastspi_arm_k20.h
+123434827 -rw-r--r--@  1 romankazicka  staff   1118 Jun 11 16:01 led_sysdefs_arm_k20.h
+123434823 -rw-r--r--@  1 romankazicka  staff   1594 Jun 11 16:01 octows2811_controller.h
+123434820 -rw-r--r--@  1 romankazicka  staff   1261 Jun 11 16:01 smartmatrix_t3.h
+123434821 -rw-r--r--@  1 romankazicka  staff   1148 Jun 11 16:01 ws2812serial_controller.h
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/platforms/arm/k66:
+total 104
+123434805 drwxr-xr-x@  8 romankazicka  staff    256 Jun 11 16:01 .
+123434797 drwxr-xr-x@ 10 romankazicka  staff    320 Jun 11 16:01 ..
+123434811 -rw-r--r--@  1 romankazicka  staff   3921 Jun 11 16:01 clockless_arm_k66.h
+123434806 -rw-r--r--@  1 romankazicka  staff  11078 Jun 11 16:01 clockless_block_arm_k66.h
+123434810 -rw-r--r--@  1 romankazicka  staff    348 Jun 11 16:01 fastled_arm_k66.h
+123434807 -rw-r--r--@  1 romankazicka  staff   7473 Jun 11 16:01 fastpin_arm_k66.h
+123434808 -rw-r--r--@  1 romankazicka  staff  16389 Jun 11 16:01 fastspi_arm_k66.h
+123434809 -rw-r--r--@  1 romankazicka  staff   1119 Jun 11 16:01 led_sysdefs_arm_k66.h
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/platforms/arm/kl26:
+total 64
+123434828 drwxr-xr-x@  7 romankazicka  staff   224 Jun 11 16:01 .
+123434797 drwxr-xr-x@ 10 romankazicka  staff   320 Jun 11 16:01 ..
+123434832 -rw-r--r--@  1 romankazicka  staff  2077 Jun 11 16:01 clockless_arm_kl26.h
+123434833 -rw-r--r--@  1 romankazicka  staff   238 Jun 11 16:01 fastled_arm_kl26.h
+123434829 -rw-r--r--@  1 romankazicka  staff  4710 Jun 11 16:01 fastpin_arm_kl26.h
+123434831 -rw-r--r--@  1 romankazicka  staff  8682 Jun 11 16:01 fastspi_arm_kl26.h
+123434830 -rw-r--r--@  1 romankazicka  staff  1179 Jun 11 16:01 led_sysdefs_arm_kl26.h
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/platforms/arm/nrf51:
+total 56
+123434812 drwxr-xr-x@  7 romankazicka  staff   224 Jun 11 16:01 .
+123434797 drwxr-xr-x@ 10 romankazicka  staff   320 Jun 11 16:01 ..
+123434813 -rw-r--r--@  1 romankazicka  staff  2634 Jun 11 16:01 clockless_arm_nrf51.h
+123434817 -rw-r--r--@  1 romankazicka  staff   199 Jun 11 16:01 fastled_arm_nrf51.h
+123434815 -rw-r--r--@  1 romankazicka  staff  6596 Jun 11 16:01 fastpin_arm_nrf51.h
+123434814 -rw-r--r--@  1 romankazicka  staff  4965 Jun 11 16:01 fastspi_arm_nrf51.h
+123434816 -rw-r--r--@  1 romankazicka  staff   800 Jun 11 16:01 led_sysdefs_arm_nrf51.h
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/platforms/arm/sam:
+total 72
+123434798 drwxr-xr-x@  8 romankazicka  staff   256 Jun 11 16:01 .
+123434797 drwxr-xr-x@ 10 romankazicka  staff   320 Jun 11 16:01 ..
+123434804 -rw-r--r--@  1 romankazicka  staff  3726 Jun 11 16:01 clockless_arm_sam.h
+123434799 -rw-r--r--@  1 romankazicka  staff  6077 Jun 11 16:01 clockless_block_arm_sam.h
+123434803 -rw-r--r--@  1 romankazicka  staff   226 Jun 11 16:01 fastled_arm_sam.h
+123434800 -rw-r--r--@  1 romankazicka  staff  8057 Jun 11 16:01 fastpin_arm_sam.h
+123434801 -rw-r--r--@  1 romankazicka  staff  5257 Jun 11 16:01 fastspi_arm_sam.h
+123434802 -rw-r--r--@  1 romankazicka  staff   995 Jun 11 16:01 led_sysdefs_arm_sam.h
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/platforms/arm/stm32:
+total 32
+123434836 drwxr-xr-x@  6 romankazicka  staff   192 Jun 11 16:01 .
+123434797 drwxr-xr-x@ 10 romankazicka  staff   320 Jun 11 16:01 ..
+123434837 -rw-r--r--@  1 romankazicka  staff  3920 Jun 11 16:01 clockless_arm_stm32.h
+123434839 -rw-r--r--@  1 romankazicka  staff   198 Jun 11 16:01 fastled_arm_stm32.h
+123434838 -rw-r--r--@  1 romankazicka  staff  4060 Jun 11 16:01 fastpin_arm_stm32.h
+123434840 -rw-r--r--@  1 romankazicka  staff  1198 Jun 11 16:01 led_sysdefs_arm_stm32.h
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/platforms/avr:
+total 128
+123434791 drwxr-xr-x@ 7 romankazicka  staff    224 Jun 11 16:01 .
+123434777 drwxr-xr-x@ 5 romankazicka  staff    160 Jun 11 16:01 ..
+123434794 -rw-r--r--@ 1 romankazicka  staff  21847 Jun 11 16:01 clockless_trinket.h
+123434795 -rw-r--r--@ 1 romankazicka  staff    240 Jun 11 16:01 fastled_avr.h
+123434792 -rw-r--r--@ 1 romankazicka  staff  15485 Jun 11 16:01 fastpin_avr.h
+123434793 -rw-r--r--@ 1 romankazicka  staff  14038 Jun 11 16:01 fastspi_avr.h
+123434796 -rw-r--r--@ 1 romankazicka  staff   2144 Jun 11 16:01 led_sysdefs_avr.h
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/platforms/esp:
+total 0
+123434778 drwxr-xr-x@ 4 romankazicka  staff  128 Jun 11 16:01 .
+123434777 drwxr-xr-x@ 5 romankazicka  staff  160 Jun 11 16:01 ..
+123434779 drwxr-xr-x@ 7 romankazicka  staff  224 Jun 11 16:01 32
+123434785 drwxr-xr-x@ 7 romankazicka  staff  224 Jun 11 16:01 8266
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/platforms/esp/32:
+total 80
+123434779 drwxr-xr-x@ 7 romankazicka  staff    224 Jun 11 16:01 .
+123434778 drwxr-xr-x@ 4 romankazicka  staff    128 Jun 11 16:01 ..
+123434784 -rw-r--r--@ 1 romankazicka  staff   5319 Jun 11 16:01 clockless_block_esp32.h
+123434782 -rw-r--r--@ 1 romankazicka  staff  19327 Jun 11 16:01 clockless_esp32.h
+123434781 -rw-r--r--@ 1 romankazicka  staff    108 Jun 11 16:01 fastled_esp32.h
+123434783 -rw-r--r--@ 1 romankazicka  staff   3983 Jun 11 16:01 fastpin_esp32.h
+123434780 -rw-r--r--@ 1 romankazicka  staff    622 Jun 11 16:01 led_sysdefs_esp32.h
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FastLED-master/platforms/esp/8266:
+total 48
+123434785 drwxr-xr-x@ 7 romankazicka  staff   224 Jun 11 16:01 .
+123434778 drwxr-xr-x@ 4 romankazicka  staff   128 Jun 11 16:01 ..
+123434789 -rw-r--r--@ 1 romankazicka  staff  4872 Jun 11 16:01 clockless_block_esp8266.h
+123434786 -rw-r--r--@ 1 romankazicka  staff  3511 Jun 11 16:01 clockless_esp8266.h
+123434787 -rw-r--r--@ 1 romankazicka  staff   111 Jun 11 16:01 fastled_esp8266.h
+123434790 -rw-r--r--@ 1 romankazicka  staff  4027 Jun 11 16:01 fastpin_esp8266.h
+123434788 -rw-r--r--@ 1 romankazicka  staff   860 Jun 11 16:01 led_sysdefs_esp8266.h
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FHT:
+total 256
+123434955 drwxr-xr-x@ 25 romankazicka  staff    800 Jun 11 16:01 .
+123434627 drwxr-xr-x@  9 romankazicka  staff    288 Jun 11 16:01 ..
+123434968 -rw-r--r--@  1 romankazicka  staff    654 Jun 11 16:01 128_reorder.inc
+123434967 -rw-r--r--@  1 romankazicka  staff    179 Jun 11 16:01 16_reorder.inc
+123434964 -rw-r--r--@  1 romankazicka  staff   1470 Jun 11 16:01 256_reorder.inc
+123434959 -rw-r--r--@  1 romankazicka  staff    232 Jun 11 16:01 32_reorder.inc
+123434979 -rw-r--r--@  1 romankazicka  staff    375 Jun 11 16:01 64_reorder.inc
+123434983 -rw-r--r--@  1 romankazicka  staff    840 Jun 11 16:01 cas_lookup_128.inc
+123434965 -rw-r--r--@  1 romankazicka  staff    170 Jun 11 16:01 cas_lookup_16.inc
+123434961 -rw-r--r--@  1 romankazicka  staff   1633 Jun 11 16:01 cas_lookup_256.inc
+123434970 -rw-r--r--@  1 romankazicka  staff    259 Jun 11 16:01 cas_lookup_32.inc
+123434960 -rw-r--r--@  1 romankazicka  staff    448 Jun 11 16:01 cas_lookup_64.inc
+123434980 -rw-r--r--@  1 romankazicka  staff   1021 Jun 11 16:01 decibel.inc
+123434972 drwxr-xr-x@  5 romankazicka  staff    160 Jun 11 16:01 examples
+123434982 -rw-r--r--@  1 romankazicka  staff  11724 Jun 11 16:01 fht_read_me.txt
+123434963 -rw-r--r--@  1 romankazicka  staff  34984 Jun 11 16:01 FHT.h
+123434981 -rw-r--r--@  1 romankazicka  staff    932 Jun 11 16:01 hann_128.inc
+123434957 -rw-r--r--@  1 romankazicka  staff    207 Jun 11 16:01 hann_16.inc
+123434956 -rw-r--r--@  1 romankazicka  staff   1760 Jun 11 16:01 hann_256.inc
+123434984 -rw-r--r--@  1 romankazicka  staff    311 Jun 11 16:01 hann_32.inc
+123434966 -rw-r--r--@  1 romankazicka  staff    517 Jun 11 16:01 hann_64.inc
+123434958 -rw-r--r--@  1 romankazicka  staff   1694 Jun 11 16:01 hann_window.inc
+123434962 -rw-r--r--@  1 romankazicka  staff    755 Jun 11 16:01 keywords.txt
+123434969 -rw-r--r--@  1 romankazicka  staff   3860 Jun 11 16:01 sqrtlookup16.inc
+123434971 -rw-r--r--@  1 romankazicka  staff   3243 Jun 11 16:01 sqrtlookup8.inc
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FHT/examples:
+total 0
+123434972 drwxr-xr-x@  5 romankazicka  staff  160 Jun 11 16:01 .
+123434955 drwxr-xr-x@ 25 romankazicka  staff  800 Jun 11 16:01 ..
+123434977 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 fht_adc
+123434975 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 fht_adc_serial
+123434973 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 fht_codec
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FHT/examples/fht_adc:
+total 8
+123434977 drwxr-xr-x@ 3 romankazicka  staff    96 Jun 11 16:01 .
+123434972 drwxr-xr-x@ 5 romankazicka  staff   160 Jun 11 16:01 ..
+123434978 -rw-r--r--@ 1 romankazicka  staff  1517 Jun 11 16:01 fht_adc.pde
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FHT/examples/fht_adc_serial:
+total 8
+123434975 drwxr-xr-x@ 3 romankazicka  staff    96 Jun 11 16:01 .
+123434972 drwxr-xr-x@ 5 romankazicka  staff   160 Jun 11 16:01 ..
+123434976 -rw-r--r--@ 1 romankazicka  staff  1502 Jun 11 16:01 fht_adc_serial.pde
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/FHT/examples/fht_codec:
+total 8
+123434973 drwxr-xr-x@ 3 romankazicka  staff    96 Jun 11 16:01 .
+123434972 drwxr-xr-x@ 5 romankazicka  staff   160 Jun 11 16:01 ..
+123434974 -rw-r--r--@ 1 romankazicka  staff  1987 Jun 11 16:01 fht_codec.pde
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/GyverButton:
+total 32
+123434985 drwxr-xr-x@  6 romankazicka  staff   192 Jun 11 16:01 .
+123434627 drwxr-xr-x@  9 romankazicka  staff   288 Jun 11 16:01 ..
+123434988 drwxr-xr-x@ 11 romankazicka  staff   352 Jun 11 16:01 examples
+123435007 -rw-r--r--@  1 romankazicka  staff  3759 Jun 11 16:01 GyverButton.cpp
+123434987 -rw-r--r--@  1 romankazicka  staff  6251 Jun 11 16:01 GyverButton.h
+123434986 -rw-r--r--@  1 romankazicka  staff   950 Jun 11 16:01 keywords.txt
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/GyverButton/examples:
+total 0
+123434991 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 _1-2-3-click
+123434989 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 _5_buttons
+123434995 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 _5_buttons_auto
+123434988 drwxr-xr-x@ 11 romankazicka  staff  352 Jun 11 16:01 .
+123434985 drwxr-xr-x@  6 romankazicka  staff  192 Jun 11 16:01 ..
+123435005 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 Gbutton_example
+123434997 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 Gbutton_example_auto
+123434993 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 Gbutton_interrupt
+123435003 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 Gbutton_timer_interrupt
+123435001 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 increment
+123434999 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 many_clicks
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/GyverButton/examples/_1-2-3-click:
+total 8
+123434992 -rw-r--r--@  1 romankazicka  staff  746 Jun 11 16:01 _1-2-3-click.ino
+123434991 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 .
+123434988 drwxr-xr-x@ 11 romankazicka  staff  352 Jun 11 16:01 ..
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/GyverButton/examples/_5_buttons:
+total 8
+123434990 -rw-r--r--@  1 romankazicka  staff  1117 Jun 11 16:01 _5_buttons.ino
+123434989 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434988 drwxr-xr-x@ 11 romankazicka  staff   352 Jun 11 16:01 ..
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/GyverButton/examples/_5_buttons_auto:
+total 8
+123434996 -rw-r--r--@  1 romankazicka  staff  1229 Jun 11 16:01 _5_buttons_auto.ino
+123434995 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434988 drwxr-xr-x@ 11 romankazicka  staff   352 Jun 11 16:01 ..
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/GyverButton/examples/Gbutton_example:
+total 8
+123435005 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434988 drwxr-xr-x@ 11 romankazicka  staff   352 Jun 11 16:01 ..
+123435006 -rw-r--r--@  1 romankazicka  staff  2852 Jun 11 16:01 Gbutton_example.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/GyverButton/examples/Gbutton_example_auto:
+total 8
+123434997 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434988 drwxr-xr-x@ 11 romankazicka  staff   352 Jun 11 16:01 ..
+123434998 -rw-r--r--@  1 romankazicka  staff  3062 Jun 11 16:01 Gbutton_example_auto.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/GyverButton/examples/Gbutton_interrupt:
+total 8
+123434993 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434988 drwxr-xr-x@ 11 romankazicka  staff   352 Jun 11 16:01 ..
+123434994 -rw-r--r--@  1 romankazicka  staff  3110 Jun 11 16:01 Gbutton_interrupt.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/GyverButton/examples/Gbutton_timer_interrupt:
+total 8
+123435003 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434988 drwxr-xr-x@ 11 romankazicka  staff   352 Jun 11 16:01 ..
+123435004 -rw-r--r--@  1 romankazicka  staff  3504 Jun 11 16:01 Gbutton_timer_interrupt.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/GyverButton/examples/increment:
+total 8
+123435001 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434988 drwxr-xr-x@ 11 romankazicka  staff   352 Jun 11 16:01 ..
+123435002 -rw-r--r--@  1 romankazicka  staff  2067 Jun 11 16:01 increment.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/GyverButton/examples/many_clicks:
+total 8
+123434999 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 .
+123434988 drwxr-xr-x@ 11 romankazicka  staff  352 Jun 11 16:01 ..
+123435000 -rw-r--r--@  1 romankazicka  staff  841 Jun 11 16:01 many_clicks.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/IRLremote-master:
+total 384
+123434731 drwxr-xr-x@ 10 romankazicka  staff     320 Jun 11 16:01 .
+123434627 drwxr-xr-x@  9 romankazicka  staff     288 Jun 11 16:01 ..
+123434758 drwxr-xr-x@  3 romankazicka  staff      96 Jun 11 16:01 dev
+123434743 drwxr-xr-x@  9 romankazicka  staff     288 Jun 11 16:01 examples
+123434735 drwxr-xr-x@  3 romankazicka  staff      96 Jun 11 16:01 extra
+123434734 -rw-r--r--@  1 romankazicka  staff  169236 Jun 11 16:01 header.jpg
+123434732 -rw-r--r--@  1 romankazicka  staff    2203 Jun 11 16:01 keywords.txt
+123434760 -rw-r--r--@  1 romankazicka  staff     351 Jun 11 16:01 library.properties
+123434733 -rw-r--r--@  1 romankazicka  staff   13683 Jun 11 16:01 Readme.md
+123434761 drwxr-xr-x@ 14 romankazicka  staff     448 Jun 11 16:01 src
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/IRLremote-master/dev:
+total 160
+123434758 drwxr-xr-x@  3 romankazicka  staff     96 Jun 11 16:01 .
+123434731 drwxr-xr-x@ 10 romankazicka  staff    320 Jun 11 16:01 ..
+123434759 -rw-r--r--@  1 romankazicka  staff  81277 Jun 11 16:01 Interpreting Decoded IR Signals (v2.43).htm
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/IRLremote-master/examples:
+total 0
+123434743 drwxr-xr-x@  9 romankazicka  staff  288 Jun 11 16:01 .
+123434731 drwxr-xr-x@ 10 romankazicka  staff  320 Jun 11 16:01 ..
+123434752 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 Convert_Old_Nec
+123434754 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 NecAPI
+123434748 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 Receive
+123434746 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 Receive_Raw
+123434756 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 Send_Button
+123434750 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 Send_Serial
+123434744 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 Transceive
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/IRLremote-master/examples/Convert_Old_Nec:
+total 8
+123434752 drwxr-xr-x@ 3 romankazicka  staff    96 Jun 11 16:01 .
+123434743 drwxr-xr-x@ 9 romankazicka  staff   288 Jun 11 16:01 ..
+123434753 -rw-r--r--@ 1 romankazicka  staff  1208 Jun 11 16:01 Convert_Old_Nec.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/IRLremote-master/examples/NecAPI:
+total 40
+123434754 drwxr-xr-x@ 3 romankazicka  staff     96 Jun 11 16:01 .
+123434743 drwxr-xr-x@ 9 romankazicka  staff    288 Jun 11 16:01 ..
+123434755 -rw-r--r--@ 1 romankazicka  staff  20154 Jun 11 16:01 NecAPI.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/IRLremote-master/examples/Receive:
+total 8
+123434748 drwxr-xr-x@ 3 romankazicka  staff    96 Jun 11 16:01 .
+123434743 drwxr-xr-x@ 9 romankazicka  staff   288 Jun 11 16:01 ..
+123434749 -rw-r--r--@ 1 romankazicka  staff  2539 Jun 11 16:01 Receive.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/IRLremote-master/examples/Receive_Raw:
+total 8
+123434746 drwxr-xr-x@ 3 romankazicka  staff    96 Jun 11 16:01 .
+123434743 drwxr-xr-x@ 9 romankazicka  staff   288 Jun 11 16:01 ..
+123434747 -rw-r--r--@ 1 romankazicka  staff  3231 Jun 11 16:01 Receive_Raw.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/IRLremote-master/examples/Send_Button:
+total 8
+123434756 drwxr-xr-x@ 3 romankazicka  staff   96 Jun 11 16:01 .
+123434743 drwxr-xr-x@ 9 romankazicka  staff  288 Jun 11 16:01 ..
+123434757 -rw-r--r--@ 1 romankazicka  staff  732 Jun 11 16:01 Send_Button.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/IRLremote-master/examples/Send_Serial:
+total 8
+123434750 drwxr-xr-x@ 3 romankazicka  staff   96 Jun 11 16:01 .
+123434743 drwxr-xr-x@ 9 romankazicka  staff  288 Jun 11 16:01 ..
+123434751 -rw-r--r--@ 1 romankazicka  staff  844 Jun 11 16:01 Send_Serial.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/IRLremote-master/examples/Transceive:
+total 8
+123434744 drwxr-xr-x@ 3 romankazicka  staff    96 Jun 11 16:01 .
+123434743 drwxr-xr-x@ 9 romankazicka  staff   288 Jun 11 16:01 ..
+123434745 -rw-r--r--@ 1 romankazicka  staff  3273 Jun 11 16:01 Transceive.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/IRLremote-master/extra:
+total 0
+123434735 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 .
+123434731 drwxr-xr-x@ 10 romankazicka  staff  320 Jun 11 16:01 ..
+123434736 drwxr-xr-x@  8 romankazicka  staff  256 Jun 11 16:01 old
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/IRLremote-master/extra/old:
+total 112
+123434736 drwxr-xr-x@ 8 romankazicka  staff    256 Jun 11 16:01 .
+123434735 drwxr-xr-x@ 3 romankazicka  staff     96 Jun 11 16:01 ..
+123434737 -rw-r--r--@ 1 romankazicka  staff   6146 Jun 11 16:01 IRL_Hash.hpp
+123434740 -rw-r--r--@ 1 romankazicka  staff   6436 Jun 11 16:01 IRL_RawIR.hpp
+123434742 -rw-r--r--@ 1 romankazicka  staff  15213 Jun 11 16:01 IRL_Sony.hpp
+123434741 -rw-r--r--@ 1 romankazicka  staff   2090 Jun 11 16:01 IRLremote.cpp
+123434738 -rw-r--r--@ 1 romankazicka  staff   5791 Jun 11 16:01 IRLremoteReceive.hpp
+123434739 -rw-r--r--@ 1 romankazicka  staff  11861 Jun 11 16:01 IRLremoteTransmit.hpp
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/IRLremote-master/src:
+total 144
+123434761 drwxr-xr-x@ 14 romankazicka  staff   448 Jun 11 16:01 .
+123434731 drwxr-xr-x@ 10 romankazicka  staff   320 Jun 11 16:01 ..
+123434772 -rw-r--r--@  1 romankazicka  staff  6336 Jun 11 16:01 IRL_Decode.h
+123434762 -rw-r--r--@  1 romankazicka  staff  6994 Jun 11 16:01 IRL_Hash.h
+123434763 -rw-r--r--@  1 romankazicka  staff  3697 Jun 11 16:01 IRL_Keycodes.h
+123434766 -rw-r--r--@  1 romankazicka  staff  6355 Jun 11 16:01 IRL_Nec.h
+123434764 -rw-r--r--@  1 romankazicka  staff  6610 Jun 11 16:01 IRL_NecAPI.h
+123434768 -rw-r--r--@  1 romankazicka  staff  7149 Jun 11 16:01 IRL_Panasonic.h
+123434769 -rw-r--r--@  1 romankazicka  staff  2326 Jun 11 16:01 IRL_Platform.h
+123434765 -rw-r--r--@  1 romankazicka  staff  2792 Jun 11 16:01 IRL_Protocol.h
+123434770 -rw-r--r--@  1 romankazicka  staff  4585 Jun 11 16:01 IRL_Receive.h
+123434773 -rw-r--r--@  1 romankazicka  staff  3973 Jun 11 16:01 IRL_Time.h
+123434771 -rw-r--r--@  1 romankazicka  staff  1462 Jun 11 16:01 IRLremote.cpp
+123434767 -rw-r--r--@  1 romankazicka  staff  1733 Jun 11 16:01 IRLremote.h
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/IRremote:
+total 448
+123434628 drwxr-xr-x@ 38 romankazicka  staff   1216 Jun 11 16:01 .
+123434627 drwxr-xr-x@  9 romankazicka  staff    288 Jun 11 16:01 ..
+123434639 -rw-r--r--@  1 romankazicka  staff  20948 Jun 11 16:01 boarddefs.h
+123434636 -rw-r--r--@  1 romankazicka  staff   2580 Jun 11 16:01 changelog.md
+123434651 -rw-r--r--@  1 romankazicka  staff   1550 Jun 11 16:01 Contributing.md
+123434650 -rw-r--r--@  1 romankazicka  staff   1680 Jun 11 16:01 Contributors.md
+123434653 -rw-r--r--@  1 romankazicka  staff   1025 Jun 11 16:01 esp32.cpp
+123434654 drwxr-xr-x@ 17 romankazicka  staff    544 Jun 11 16:01 examples
+123434631 -rw-r--r--@  1 romankazicka  staff   3482 Jun 11 16:01 ir_Aiwa.cpp
+123434630 -rw-r--r--@  1 romankazicka  staff   3149 Jun 11 16:01 ir_Denon.cpp
+123434686 -rw-r--r--@  1 romankazicka  staff   1718 Jun 11 16:01 ir_Dish.cpp
+123434649 -rw-r--r--@  1 romankazicka  staff   2891 Jun 11 16:01 ir_JVC.cpp
+123434629 -rw-r--r--@  1 romankazicka  staff   3488 Jun 11 16:01 ir_Lego_PF_BitStreamEncoder.h
+123434687 -rw-r--r--@  1 romankazicka  staff   1326 Jun 11 16:01 ir_Lego_PF.cpp
+123434694 -rw-r--r--@  1 romankazicka  staff   2393 Jun 11 16:01 ir_LG.cpp
+123434688 -rw-r--r--@  1 romankazicka  staff   3030 Jun 11 16:01 ir_Mitsubishi.cpp
+123434695 -rw-r--r--@  1 romankazicka  staff   2730 Jun 11 16:01 ir_NEC.cpp
+123434642 -rw-r--r--@  1 romankazicka  staff   2696 Jun 11 16:01 ir_Panasonic.cpp
+123434641 -rw-r--r--@  1 romankazicka  staff   5882 Jun 11 16:01 ir_RC5_RC6.cpp
+123434645 -rw-r--r--@  1 romankazicka  staff   2740 Jun 11 16:01 ir_Samsung.cpp
+123434693 -rw-r--r--@  1 romankazicka  staff   2622 Jun 11 16:01 ir_Sanyo.cpp
+123434632 -rw-r--r--@  1 romankazicka  staff   2281 Jun 11 16:01 ir_Sharp.cpp
+123434647 -rw-r--r--@  1 romankazicka  staff   2724 Jun 11 16:01 ir_Sony.cpp
+123434633 -rw-r--r--@  1 romankazicka  staff   5681 Jun 11 16:01 ir_Template.cpp
+123434643 -rw-r--r--@  1 romankazicka  staff   2842 Jun 11 16:01 ir_Whynter.cpp
+123434638 -rw-r--r--@  1 romankazicka  staff  15123 Jun 11 16:01 irPronto.cpp
+123434691 -rw-r--r--@  1 romankazicka  staff   5976 Jun 11 16:01 irRecv.cpp
+123434634 -rw-r--r--@  1 romankazicka  staff   7805 Jun 11 16:01 IRremote.cpp
+123434692 -rw-r--r--@  1 romankazicka  staff  12000 Jun 11 16:01 IRremote.h
+123434652 -rw-r--r--@  1 romankazicka  staff   3870 Jun 11 16:01 IRremoteInt.h
+123434640 -rw-r--r--@  1 romankazicka  staff   4499 Jun 11 16:01 irSend.cpp
+123434646 -rw-r--r--@  1 romankazicka  staff    850 Jun 11 16:01 ISSUE_TEMPLATE.md
+123434637 -rw-r--r--@  1 romankazicka  staff   1048 Jun 11 16:01 keywords.txt
+123434648 -rw-r--r--@  1 romankazicka  staff    504 Jun 11 16:01 library.json
+123434690 -rw-r--r--@  1 romankazicka  staff    297 Jun 11 16:01 library.properties
+123434689 -rw-r--r--@  1 romankazicka  staff  24356 Jun 11 16:01 LICENSE.txt
+123434644 -rw-r--r--@  1 romankazicka  staff   5853 Jun 11 16:01 README.md
+123434635 -rw-r--r--@  1 romankazicka  staff   2897 Jun 11 16:01 sam.cpp
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/IRremote/examples:
+total 0
+123434654 drwxr-xr-x@ 17 romankazicka  staff   544 Jun 11 16:01 .
+123434628 drwxr-xr-x@ 38 romankazicka  staff  1216 Jun 11 16:01 ..
+123434676 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 AiwaRCT501SendDemo
+123434682 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 IRrecord
+123434668 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 IRrecvDemo
+123434672 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 IRrecvDump
+123434670 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 IRrecvDumpV2
+123434659 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 IRrelay
+123434664 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 IRremoteInfo
+123434678 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 IRsendDemo
+123434666 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 IRsendRawDemo
+123434680 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 IRtest
+123434657 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 IRtest2
+123434684 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 JVCPanasonicSendDemo
+123434674 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 LegoPowerFunctionsSendDemo
+123434655 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 LegoPowerFunctionsTests
+123434661 drwxr-xr-x@  4 romankazicka  staff   128 Jun 11 16:01 LGACSendDemo
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/IRremote/examples/AiwaRCT501SendDemo:
+total 8
+123434676 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 .
+123434654 drwxr-xr-x@ 17 romankazicka  staff  544 Jun 11 16:01 ..
+123434677 -rw-r--r--@  1 romankazicka  staff  473 Jun 11 16:01 AiwaRCT501SendDemo.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/IRremote/examples/IRrecord:
+total 16
+123434682 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434654 drwxr-xr-x@ 17 romankazicka  staff   544 Jun 11 16:01 ..
+123434683 -rw-r--r--@  1 romankazicka  staff  5056 Jun 11 16:01 IRrecord.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/IRremote/examples/IRrecvDemo:
+total 8
+123434668 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 .
+123434654 drwxr-xr-x@ 17 romankazicka  staff  544 Jun 11 16:01 ..
+123434669 -rw-r--r--@  1 romankazicka  staff  726 Jun 11 16:01 IRrecvDemo.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/IRremote/examples/IRrecvDump:
+total 8
+123434672 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434654 drwxr-xr-x@ 17 romankazicka  staff   544 Jun 11 16:01 ..
+123434673 -rw-r--r--@  1 romankazicka  staff  2461 Jun 11 16:01 IRrecvDump.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/IRremote/examples/IRrecvDumpV2:
+total 16
+123434670 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434654 drwxr-xr-x@ 17 romankazicka  staff   544 Jun 11 16:01 ..
+123434671 -rw-r--r--@  1 romankazicka  staff  5536 Jun 11 16:01 IRrecvDumpV2.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/IRremote/examples/IRrelay:
+total 8
+123434659 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434654 drwxr-xr-x@ 17 romankazicka  staff   544 Jun 11 16:01 ..
+123434660 -rw-r--r--@  1 romankazicka  staff  2086 Jun 11 16:01 IRrelay.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/IRremote/examples/IRremoteInfo:
+total 24
+123434664 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434654 drwxr-xr-x@ 17 romankazicka  staff   544 Jun 11 16:01 ..
+123434665 -rw-r--r--@  1 romankazicka  staff  9042 Jun 11 16:01 IRremoteInfo.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/IRremote/examples/IRsendDemo:
+total 8
+123434678 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 .
+123434654 drwxr-xr-x@ 17 romankazicka  staff  544 Jun 11 16:01 ..
+123434679 -rw-r--r--@  1 romankazicka  staff  414 Jun 11 16:01 IRsendDemo.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/IRremote/examples/IRsendRawDemo:
+total 8
+123434666 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434654 drwxr-xr-x@ 17 romankazicka  staff   544 Jun 11 16:01 ..
+123434667 -rw-r--r--@  1 romankazicka  staff  1490 Jun 11 16:01 IRsendRawDemo.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/IRremote/examples/IRtest:
+total 16
+123434680 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434654 drwxr-xr-x@ 17 romankazicka  staff   544 Jun 11 16:01 ..
+123434681 -rw-r--r--@  1 romankazicka  staff  4592 Jun 11 16:01 IRtest.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/IRremote/examples/IRtest2:
+total 16
+123434657 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434654 drwxr-xr-x@ 17 romankazicka  staff   544 Jun 11 16:01 ..
+123434658 -rw-r--r--@  1 romankazicka  staff  8160 Jun 11 16:01 IRtest2.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/IRremote/examples/JVCPanasonicSendDemo:
+total 8
+123434684 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 .
+123434654 drwxr-xr-x@ 17 romankazicka  staff  544 Jun 11 16:01 ..
+123434685 -rw-r--r--@  1 romankazicka  staff  929 Jun 11 16:01 JVCPanasonicSendDemo.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/IRremote/examples/LegoPowerFunctionsSendDemo:
+total 8
+123434674 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 .
+123434654 drwxr-xr-x@ 17 romankazicka  staff  544 Jun 11 16:01 ..
+123434675 -rw-r--r--@  1 romankazicka  staff  445 Jun 11 16:01 LegoPowerFunctionsSendDemo.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/IRremote/examples/LegoPowerFunctionsTests:
+total 16
+123434655 drwxr-xr-x@  3 romankazicka  staff    96 Jun 11 16:01 .
+123434654 drwxr-xr-x@ 17 romankazicka  staff   544 Jun 11 16:01 ..
+123434656 -rw-r--r--@  1 romankazicka  staff  7405 Jun 11 16:01 LegoPowerFunctionsTests.ino
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/libraries/IRremote/examples/LGACSendDemo:
+total 32
+123434661 drwxr-xr-x@  4 romankazicka  staff   128 Jun 11 16:01 .
+123434654 drwxr-xr-x@ 17 romankazicka  staff   544 Jun 11 16:01 ..
+123434663 -rw-r--r--@  1 romankazicka  staff  5036 Jun 11 16:01 LGACSendDemo.ino
+123434662 -rw-r--r--@  1 romankazicka  staff  4446 Jun 11 16:01 LGACSendDemo.md
+
+./Project_012_MusicVisualiser_STHDF_2023-2024/ColorMusic-master/schemes:
+total 10736
+123434580 drwxr-xr-x@ 9 romankazicka  staff     288 Jun 11 16:01 .
+123434579 drwxr-xr-x@ 9 romankazicka  staff     288 Jun 11 16:01 ..
+123434587 -rw-r--r--@ 1 romankazicka  staff  680495 Jun 11 16:01 divide.jpg
+123434584 -rw-r--r--@ 1 romankazicka  staff  708315 Jun 11 16:01 scheme1.jpg
+123434585 -rw-r--r--@ 1 romankazicka  staff  729378 Jun 11 16:01 scheme2.jpg
+123434586 -rw-r--r--@ 1 romankazicka  staff  813033 Jun 11 16:01 scheme3.jpg
+123434582 -rw-r--r--@ 1 romankazicka  staff  846267 Jun 11 16:01 scheme4.jpg
+123434583 -rw-r--r--@ 1 romankazicka  staff  918806 Jun 11 16:01 scheme5.jpg
+123434581 -rw-r--r--@ 1 romankazicka  staff  784584 Jun 11 16:01 scheme6.jpg
+
+./Project_013_MultifunctionalFeeder_STHDF_2023-2024:
+total 32
+123435096 drwxr-xr-x@  6 romankazicka  staff   192 Jun 11 19:37 .
+123434091 drwxr-xr-x@ 29 romankazicka  staff   928 Jun 11 21:22 ..
+123435098 drwxr-xr-x@ 12 romankazicka  staff   384 Jun 11 16:01 images
+123435110 -rw-r--r--@  1 romankazicka  staff   283 Jun 11 19:37 index.md
+123435097 -rw-r--r--@  1 romankazicka  staff  4390 Jun 11 16:01 PROJECT_OUTCOMES.md
+123435109 -rw-r--r--@  1 romankazicka  staff   283 Jun 11 16:01 README.md
+
+./Project_013_MultifunctionalFeeder_STHDF_2023-2024/images:
+total 680
+123435098 drwxr-xr-x@ 12 romankazicka  staff    384 Jun 11 16:01 .
+123435096 drwxr-xr-x@  6 romankazicka  staff    192 Jun 11 19:37 ..
+123435108 -rw-r--r--@  1 romankazicka  staff  14017 Jun 11 16:01 1.png
+123435106 -rw-r--r--@  1 romankazicka  staff  15765 Jun 11 16:01 2.png
+123435107 -rw-r--r--@  1 romankazicka  staff  31398 Jun 11 16:01 3.png
+123435104 -rw-r--r--@  1 romankazicka  staff  13413 Jun 11 16:01 4.png
+123435105 -rw-r--r--@  1 romankazicka  staff  21303 Jun 11 16:01 activity_diagram.png
+123435100 -rw-r--r--@  1 romankazicka  staff  56607 Jun 11 16:01 Arduino.jpeg
+123435103 -rw-r--r--@  1 romankazicka  staff  24567 Jun 11 16:01 component_diagram.png
+123435099 -rw-r--r--@  1 romankazicka  staff  50850 Jun 11 16:01 dog.png
+123435101 -rw-r--r--@  1 romankazicka  staff  82325 Jun 11 16:01 final.png
+123435102 -rw-r--r--@  1 romankazicka  staff  19927 Jun 11 16:01 useCase_diagram.png
+
+./Project_014_MyProjectName_STHDF_2023-2024:
+total 16
+123435159 drwxr-xr-x@  4 romankazicka  staff   128 Jun 11 19:37 .
+123434091 drwxr-xr-x@ 29 romankazicka  staff   928 Jun 11 21:22 ..
+123435161 -rw-r--r--@  1 romankazicka  staff  2622 Jun 11 19:37 index.md
+123435160 -rw-r--r--@  1 romankazicka  staff  2622 Jun 11 16:01 README.md
+
+./Project_015_KrabickaNaLieky_STHDF_2023-2024:
+total 1544
+123435162 drwxr-xr-x@ 17 romankazicka  staff     544 Jun 11 19:37 .
+123434091 drwxr-xr-x@ 29 romankazicka  staff     928 Jun 11 21:22 ..
+123435168 -rw-r--r--@  1 romankazicka  staff   59494 Jun 11 16:01 Aspose.Words.35fc2bb0-6dfb-49b9-955c-7f921c6f2afc.001.png
+123435170 -rw-r--r--@  1 romankazicka  staff   25119 Jun 11 16:01 Aspose.Words.35fc2bb0-6dfb-49b9-955c-7f921c6f2afc.002.png
+123435169 -rw-r--r--@  1 romankazicka  staff   31691 Jun 11 16:01 Aspose.Words.35fc2bb0-6dfb-49b9-955c-7f921c6f2afc.003.png
+123435167 -rw-r--r--@  1 romankazicka  staff   25226 Jun 11 16:01 Aspose.Words.35fc2bb0-6dfb-49b9-955c-7f921c6f2afc.004.png
+123435165 -rw-r--r--@  1 romankazicka  staff   16484 Jun 11 16:01 Aspose.Words.35fc2bb0-6dfb-49b9-955c-7f921c6f2afc.005.png
+123435163 -rw-r--r--@  1 romankazicka  staff   57798 Jun 11 16:01 Aspose.Words.35fc2bb0-6dfb-49b9-955c-7f921c6f2afc.006.png
+123435164 -rw-r--r--@  1 romankazicka  staff   42997 Jun 11 16:01 Aspose.Words.35fc2bb0-6dfb-49b9-955c-7f921c6f2afc.007.png
+123435178 -rw-r--r--@  1 romankazicka  staff   52750 Jun 11 16:01 Aspose.Words.35fc2bb0-6dfb-49b9-955c-7f921c6f2afc.008.png
+123435177 -rw-r--r--@  1 romankazicka  staff   43819 Jun 11 16:01 Aspose.Words.35fc2bb0-6dfb-49b9-955c-7f921c6f2afc.009.png
+123435166 -rw-r--r--@  1 romankazicka  staff  309871 Jun 11 16:01 Aspose.Words.35fc2bb0-6dfb-49b9-955c-7f921c6f2afc.010.png
+123435179 drwxr-xr-x@  3 romankazicka  staff      96 Jun 11 16:01 Dokument
+123435172 -rw-r--r--@  1 romankazicka  staff   11930 Jun 11 19:37 index.md
+123435171 -rw-r--r--@  1 romankazicka  staff   11930 Jun 11 16:01 README.md
+123435176 -rw-r--r--@  1 romankazicka  staff   77673 Jun 11 16:01 smvitUvodnyObrazok.jpeg
+123435173 drwxr-xr-x@  3 romankazicka  staff      96 Jun 11 16:01 ZdrojoveKody
+
+./Project_015_KrabickaNaLieky_STHDF_2023-2024/Dokument:
+total 4384
+123435179 drwxr-xr-x@  3 romankazicka  staff       96 Jun 11 16:01 .
+123435162 drwxr-xr-x@ 17 romankazicka  staff      544 Jun 11 19:37 ..
+123435180 -rw-r--r--@  1 romankazicka  staff  2244357 Jun 11 16:01 KrabickaNaLieky-dokument.pdf
+
+./Project_015_KrabickaNaLieky_STHDF_2023-2024/ZdrojoveKody:
+total 0
+123435173 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 .
+123435162 drwxr-xr-x@ 17 romankazicka  staff  544 Jun 11 19:37 ..
+123435174 drwxr-xr-x@  3 romankazicka  staff   96 Jun 11 16:01 Arduino
+
+./Project_015_KrabickaNaLieky_STHDF_2023-2024/ZdrojoveKody/Arduino:
+total 8
+123435174 drwxr-xr-x@ 3 romankazicka  staff   96 Jun 11 16:01 .
+123435173 drwxr-xr-x@ 3 romankazicka  staff   96 Jun 11 16:01 ..
+123435175 -rw-r--r--@ 1 romankazicka  staff  632 Jun 11 16:01 krabickaNaLieky.ino
+
+./Project_018_MyProjectName_STHDF_2023-2024:
+total 32
+123434156 drwxr-xr-x@  5 romankazicka  staff   160 Jun 11 19:37 .
+123434091 drwxr-xr-x@ 29 romankazicka  staff   928 Jun 11 21:22 ..
+123434159 -rw-r--r--@  1 romankazicka  staff   607 Jun 11 19:37 index.md
+123434157 -rw-r--r--@  1 romankazicka  staff  5651 Jun 11 16:01 project_outcomes.md
+123434158 -rw-r--r--@  1 romankazicka  staff   607 Jun 11 16:01 README.md
+
+./Project_022_WaterPlanter_STHDF_2023-2024:
+total 48
+123434516 drwxr-xr-x@  8 romankazicka  staff   256 Jun 11 19:37 .
+123434091 drwxr-xr-x@ 29 romankazicka  staff   928 Jun 11 21:22 ..
+123434538 -rw-r--r--@  1 romankazicka  staff  3579 Jun 11 16:01 business-layer.md
+123434542 drwxr-xr-x@  6 romankazicka  staff   192 Jun 11 16:01 files
+123434517 drwxr-xr-x@ 22 romankazicka  staff   704 Jun 11 16:01 images
+123434541 -rw-r--r--@  1 romankazicka  staff  6347 Jun 11 19:37 index.md
+123434540 -rw-r--r--@  1 romankazicka  staff  6347 Jun 11 16:01 README.md
+123434539 -rw-r--r--@  1 romankazicka  staff  1916 Jun 11 16:01 technology-layer.md
+
+./Project_022_WaterPlanter_STHDF_2023-2024/files:
+total 5464
+123434542 drwxr-xr-x@ 6 romankazicka  staff      192 Jun 11 16:01 .
+123434516 drwxr-xr-x@ 8 romankazicka  staff      256 Jun 11 19:37 ..
+123434545 -rw-r--r--@ 1 romankazicka  staff   987084 Jun 11 16:01 Kvetinac1.stl
+123434546 -rw-r--r--@ 1 romankazicka  staff   192784 Jun 11 16:01 Kvetinac2.stl
+123434544 -rw-r--r--@ 1 romankazicka  staff  1609728 Jun 11 16:01 SMVIT-bielikova_macugova.qea
+123434543 -rw-r--r--@ 1 romankazicka  staff      271 Jun 11 16:01 tinkercad-links.txt
+
+./Project_022_WaterPlanter_STHDF_2023-2024/images:
+total 33344
+123434517 drwxr-xr-x@ 22 romankazicka  staff      704 Jun 11 16:01 .
+123434516 drwxr-xr-x@  8 romankazicka  staff      256 Jun 11 19:37 ..
+123434526 -rw-r--r--@  1 romankazicka  staff    92218 Jun 11 16:01 business-process.png
+123434524 -rw-r--r--@  1 romankazicka  staff   132103 Jun 11 16:01 business-solution-concept.png
+123434523 -rw-r--r--@  1 romankazicka  staff    16226 Jun 11 16:01 example.jpeg
+123434522 -rw-r--r--@  1 romankazicka  staff    44825 Jun 11 16:01 use-cases.png
+123434518 -rw-r--r--@  1 romankazicka  staff  8351887 Jun 11 16:01 waterplanter-video.gif
+123434521 -rw-r--r--@  1 romankazicka  staff    68246 Jun 11 16:01 waterplanter1.jpeg
+123434520 -rw-r--r--@  1 romankazicka  staff   427470 Jun 11 16:01 waterplanter11-prusa.png
+123434525 -rw-r--r--@  1 romankazicka  staff   981500 Jun 11 16:01 waterplanter11.png
+123434537 -rw-r--r--@  1 romankazicka  staff   801093 Jun 11 16:01 waterplanter12-prusa.png
+123434527 -rw-r--r--@  1 romankazicka  staff  1030926 Jun 11 16:01 waterplanter12.png
+123434535 -rw-r--r--@  1 romankazicka  staff    46165 Jun 11 16:01 waterplanter2.jpeg
+123434534 -rw-r--r--@  1 romankazicka  staff   281885 Jun 11 16:01 waterplanter21-prusa.png
+123434531 -rw-r--r--@  1 romankazicka  staff   681105 Jun 11 16:01 waterplanter21.png
+123434519 -rw-r--r--@  1 romankazicka  staff   695966 Jun 11 16:01 waterplanter22-prusa.png
+123434530 -rw-r--r--@  1 romankazicka  staff  1029931 Jun 11 16:01 waterplanter22.png
+123434528 -rw-r--r--@  1 romankazicka  staff   663686 Jun 11 16:01 waterplanter23.png
+123434533 -rw-r--r--@  1 romankazicka  staff  1047205 Jun 11 16:01 waterplanter24.png
+123434532 -rw-r--r--@  1 romankazicka  staff   565501 Jun 11 16:01 waterplanter25.png
+123434536 -rw-r--r--@  1 romankazicka  staff    39777 Jun 11 16:01 waterplanter3.jpeg
+123434529 -rw-r--r--@  1 romankazicka  staff    33781 Jun 11 16:01 waterplanter4.jpeg
+
+./Project_025_MyProjectName_STHDF_2023-2024:
+total 28992
+123434301 drwxr-xr-x@  5 romankazicka  staff       160 Jun 11 20:17 .
+123434091 drwxr-xr-x@ 29 romankazicka  staff       928 Jun 11 21:22 ..
+123485170 -rw-r--r--@  1 romankazicka  staff  14819328 Jun 11 16:01 DogFit.eapx
+123485172 drwxr-xr-x@ 72 romankazicka  staff      2304 Jun 11 16:01 fotky
+123485171 -rw-r--r--@  1 romankazicka  staff     23589 Jun 11 16:01 index.md
+
+./Project_025_MyProjectName_STHDF_2023-2024/fotky:
+total 110384
+123485172 drwxr-xr-x@ 72 romankazicka  staff     2304 Jun 11 16:01 .
+123434301 drwxr-xr-x@  5 romankazicka  staff      160 Jun 11 20:17 ..
+123485195 -rw-r--r--@  1 romankazicka  staff   272321 Jun 11 16:01 BPV.png
+123485227 -rw-r--r--@  1 romankazicka  staff   279303 Jun 11 16:01 BSCV.png
+123485222 -rw-r--r--@  1 romankazicka  staff    80518 Jun 11 16:01 components.png
+123485173 -rw-r--r--@  1 romankazicka  staff   323640 Jun 11 16:01 connection.png
+123485211 -rw-r--r--@  1 romankazicka  staff   102286 Jun 11 16:01 DeploymentDiagram.png
+123485183 -rw-r--r--@  1 romankazicka  staff   124075 Jun 11 16:01 image-20240126-144056.png
+123485207 -rw-r--r--@  1 romankazicka  staff   805775 Jun 11 16:01 image-20240126-144155.png
+123485181 -rw-r--r--@  1 romankazicka  staff   634215 Jun 11 16:01 image-20240126-144240.png
+123485197 -rw-r--r--@  1 romankazicka  staff   109783 Jun 11 16:01 image-20240126-184954.png
+123485213 -rw-r--r--@  1 romankazicka  staff   742845 Jun 11 16:01 image-20240126-185130.png
+123485200 -rw-r--r--@  1 romankazicka  staff   744950 Jun 11 16:01 image-20240127-222611.png
+123485239 -rw-r--r--@  1 romankazicka  staff    92881 Jun 11 16:01 image-20240127-222647.png
+123485176 -rw-r--r--@  1 romankazicka  staff   357220 Jun 11 16:01 image-20240127-222707.png
+123485199 -rw-r--r--@  1 romankazicka  staff  1177212 Jun 11 16:01 image-20240127-223526.png
+123485180 -rw-r--r--@  1 romankazicka  staff   241506 Jun 11 16:01 image-20240128-093924.png
+123485238 -rw-r--r--@  1 romankazicka  staff  1289470 Jun 11 16:01 image-20240128-094707.png
+123485196 -rw-r--r--@  1 romankazicka  staff  2008796 Jun 11 16:01 image-20240128-094828.png
+123485185 -rw-r--r--@  1 romankazicka  staff   321274 Jun 11 16:01 image-20240128-094913.png
+123485205 -rw-r--r--@  1 romankazicka  staff    32673 Jun 11 16:01 image-20240128-143346.png
+123485233 -rw-r--r--@  1 romankazicka  staff    79855 Jun 11 16:01 image-20240128-143505.png
+123485204 -rw-r--r--@  1 romankazicka  staff    59610 Jun 11 16:01 image-20240128-144429.png
+123485188 -rw-r--r--@  1 romankazicka  staff  1724357 Jun 11 16:01 image-20240129-002303.png
+123485202 -rw-r--r--@  1 romankazicka  staff  1194728 Jun 11 16:01 image-20240129-002400.png
+123485235 -rw-r--r--@  1 romankazicka  staff   943824 Jun 11 16:01 image-20240129-003415.png
+123485175 -rw-r--r--@  1 romankazicka  staff  1166282 Jun 11 16:01 image-20240129-003436.png
+123485178 -rw-r--r--@  1 romankazicka  staff   294089 Jun 11 16:01 image-20240129-004006.png
+123485217 -rw-r--r--@  1 romankazicka  staff  1795363 Jun 11 16:01 image-20240129-004133.png
+123485209 -rw-r--r--@  1 romankazicka  staff   624358 Jun 11 16:01 image-20240129-004302.png
+123485241 -rw-r--r--@  1 romankazicka  staff  1220386 Jun 11 16:01 image-20240129-004356.png
+123485194 -rw-r--r--@  1 romankazicka  staff  2034086 Jun 11 16:01 image-20240129-004502.png
+123485187 -rw-r--r--@  1 romankazicka  staff   526048 Jun 11 16:01 image-20240129-004559.png
+123485198 -rw-r--r--@  1 romankazicka  staff   997676 Jun 11 16:01 image-20240129-004648.png
+123485212 -rw-r--r--@  1 romankazicka  staff   793669 Jun 11 16:01 image-20240129-005209.png
+123485228 -rw-r--r--@  1 romankazicka  staff   600675 Jun 11 16:01 image-20240129-005349.png
+123485237 -rw-r--r--@  1 romankazicka  staff  1293715 Jun 11 16:01 image-20240129-005516.png
+123485208 -rw-r--r--@  1 romankazicka  staff  1394395 Jun 11 16:01 image-20240129-005632.png
+123485236 -rw-r--r--@  1 romankazicka  staff  1233014 Jun 11 16:01 image-20240129-005728.png
+123485190 -rw-r--r--@  1 romankazicka  staff  1386707 Jun 11 16:01 image-20240129-005755.png
+123485224 -rw-r--r--@  1 romankazicka  staff   657207 Jun 11 16:01 image-20240129-010237.png
+123485240 -rw-r--r--@  1 romankazicka  staff   629581 Jun 11 16:01 image-20240129-010334.png
+123485232 -rw-r--r--@  1 romankazicka  staff   343522 Jun 11 16:01 image-20240129-010508.png
+123485184 -rw-r--r--@  1 romankazicka  staff  1051701 Jun 11 16:01 image-20240129-010712.png
+123485226 -rw-r--r--@  1 romankazicka  staff   748924 Jun 11 16:01 image-20240129-010815.png
+123485218 -rw-r--r--@  1 romankazicka  staff   499453 Jun 11 16:01 image-20240129-011104.png
+123485221 -rw-r--r--@  1 romankazicka  staff   915461 Jun 11 16:01 image-20240129-011105.png
+123485216 -rw-r--r--@  1 romankazicka  staff  1153115 Jun 11 16:01 image-20240129-011106.png
+123485214 -rw-r--r--@  1 romankazicka  staff   465678 Jun 11 16:01 image-20240129-011107.png
+123485219 -rw-r--r--@  1 romankazicka  staff   677669 Jun 11 16:01 image-20240129-011851.png
+123485231 -rw-r--r--@  1 romankazicka  staff  1469739 Jun 11 16:01 image-20240129-012121.png
+123485223 -rw-r--r--@  1 romankazicka  staff  1584206 Jun 11 16:01 image-20240129-012232.png
+123485177 -rw-r--r--@  1 romankazicka  staff  2025529 Jun 11 16:01 image-20240129-012328.png
+123485242 -rw-r--r--@  1 romankazicka  staff  1384356 Jun 11 16:01 image-20240129-012521.png
+123485174 -rw-r--r--@  1 romankazicka  staff   843580 Jun 11 16:01 image-20240129-013551.png
+123485189 -rw-r--r--@  1 romankazicka  staff   442459 Jun 11 16:01 image-20240129-013622.png
+123485201 -rw-r--r--@  1 romankazicka  staff   601208 Jun 11 16:01 image-20240129-013727.png
+123485193 -rw-r--r--@  1 romankazicka  staff  2030258 Jun 11 16:01 image-20240129-013903.png
+123485192 -rw-r--r--@  1 romankazicka  staff  1929919 Jun 11 16:01 image-20240129-013916.png
+123485225 -rw-r--r--@  1 romankazicka  staff  2185786 Jun 11 16:01 image-20240129-013931.png
+123485191 -rw-r--r--@  1 romankazicka  staff  2150441 Jun 11 16:01 image-20240129-014102.png
+123485229 -rw-r--r--@  1 romankazicka  staff    93992 Jun 11 16:01 InstanceModel.png
+123485186 -rw-r--r--@  1 romankazicka  staff   147414 Jun 11 16:01 lemontree.png
+123485179 -rw-r--r--@  1 romankazicka  staff    56023 Jun 11 16:01 lemontree2.png
+123485206 -rw-r--r--@  1 romankazicka  staff   865462 Jun 11 16:01 navrh.png
+123485230 -rw-r--r--@  1 romankazicka  staff   170575 Jun 11 16:01 ReferenceModel.png
+123485203 -rw-r--r--@  1 romankazicka  staff   137567 Jun 11 16:01 SourceTree.png
+123485234 -rw-r--r--@  1 romankazicka  staff   279395 Jun 11 16:01 Title-Dog.jpg
+123485220 -rw-r--r--@  1 romankazicka  staff   155426 Jun 11 16:01 Trh1.png
+123485215 -rw-r--r--@  1 romankazicka  staff   166913 Jun 11 16:01 Trh2.png
+123485210 -rw-r--r--@  1 romankazicka  staff  1330554 Jun 11 16:01 umiestnenie.png
+123485182 -rw-r--r--@  1 romankazicka  staff   106868 Jun 11 16:01 UseCases.png
+
+./Project_027_AlcoholMeter_STHDF_2023-2024:
+total 56
+123434169 drwxr-xr-x@  6 romankazicka  staff    192 Jun 11 20:25 .
+123434091 drwxr-xr-x@ 29 romankazicka  staff    928 Jun 11 21:22 ..
+123434173 -rw-r--r--@  1 romankazicka  staff   1598 Jun 11 16:01 alcohol_tester.ino
+123494647 -rw-r--r--@  1 romankazicka  staff    812 Jun 11 19:37 index copy.md
+123434170 -rw-r--r--@  1 romankazicka  staff  13963 Jun 11 16:01 project_outcomes.md
+123434171 -rw-r--r--@  1 romankazicka  staff    812 Jun 11 16:01 readme.md
+
+./Project_030_UselessBox_STHDF_2023-2024:
+total 48
+123435190 drwxr-xr-x@  9 romankazicka  staff   288 Jun 11 19:37 .
+123434091 drwxr-xr-x@ 29 romankazicka  staff   928 Jun 11 21:22 ..
+123435207 drwxr-xr-x@  5 romankazicka  staff   160 Jun 11 16:01 Blender_models
+123435191 drwxr-xr-x@  8 romankazicka  staff   256 Jun 11 16:01 Diagrams
+123435199 -rw-r--r--@  1 romankazicka  staff  9234 Jun 11 19:37 index.md
+123435211 drwxr-xr-x@  7 romankazicka  staff   224 Jun 11 16:01 Logic_circuit_files
+123435217 drwxr-xr-x@ 15 romankazicka  staff   480 Jun 11 16:01 photo_documentation
+123435200 drwxr-xr-x@  5 romankazicka  staff   160 Jun 11 16:01 Printing_and_Cutting_Files
+123435198 -rw-r--r--@  1 romankazicka  staff  9234 Jun 11 16:01 README.md
+
+./Project_030_UselessBox_STHDF_2023-2024/Blender_models:
+total 3912
+123435207 drwxr-xr-x@ 5 romankazicka  staff      160 Jun 11 16:01 .
+123435190 drwxr-xr-x@ 9 romankazicka  staff      288 Jun 11 19:37 ..
+123435210 -rw-r--r--@ 1 romankazicka  staff   951784 Jun 11 16:01 katsunemiku2.blend
+123435209 -rw-r--r--@ 1 romankazicka  staff      625 Jun 11 16:01 README.md
+123435208 -rw-r--r--@ 1 romankazicka  staff  1041632 Jun 11 16:01 uselesscatbox.blend
+
+./Project_030_UselessBox_STHDF_2023-2024/Diagrams:
+total 832
+123435191 drwxr-xr-x@ 8 romankazicka  staff     256 Jun 11 16:01 .
+123435190 drwxr-xr-x@ 9 romankazicka  staff     288 Jun 11 19:37 ..
+123435196 -rw-r--r--@ 1 romankazicka  staff   50633 Jun 11 16:01 Activity_Diagram.jpg
+123435193 -rw-r--r--@ 1 romankazicka  staff  230987 Jun 11 16:01 Component_Diagram_nice.png
+123435195 -rw-r--r--@ 1 romankazicka  staff   33601 Jun 11 16:01 Component_Diagram.jpg
+123435194 -rw-r--r--@ 1 romankazicka  staff      49 Jun 11 16:01 README.md
+123435192 -rw-r--r--@ 1 romankazicka  staff   81405 Jun 11 16:01 Use_Case_Model_nice.png
+123435197 -rw-r--r--@ 1 romankazicka  staff   13394 Jun 11 16:01 Use_Case_Model.jpg
+
+./Project_030_UselessBox_STHDF_2023-2024/Logic_circuit_files:
+total 3888
+123435211 drwxr-xr-x@ 7 romankazicka  staff      224 Jun 11 16:01 .
+123435190 drwxr-xr-x@ 9 romankazicka  staff      288 Jun 11 19:37 ..
+123435213 -rw-r--r--@ 1 romankazicka  staff     4841 Jun 11 16:01 Circuit_scheme.pdf
+123435216 -rw-r--r--@ 1 romankazicka  staff      165 Jun 11 16:01 Component_list.csv
+123435212 -rw-r--r--@ 1 romankazicka  staff    30613 Jun 11 16:01 logic_picture.png
+123435214 -rw-r--r--@ 1 romankazicka  staff  1937932 Jun 11 16:01 Microbit_Code.hex
+123435215 -rw-r--r--@ 1 romankazicka  staff      587 Jun 11 16:01 README.md
+
+./Project_030_UselessBox_STHDF_2023-2024/photo_documentation:
+total 14368
+123435217 drwxr-xr-x@ 15 romankazicka  staff     480 Jun 11 16:01 .
+123435190 drwxr-xr-x@  9 romankazicka  staff     288 Jun 11 19:37 ..
+123435227 -rw-r--r--@  1 romankazicka  staff  534071 Jun 11 16:01 41832b26-46bf-47c3-820c-2dd11c24d66d.jpg
+123435230 -rw-r--r--@  1 romankazicka  staff  750670 Jun 11 16:01 blender-katsune.png
+123435224 -rw-r--r--@  1 romankazicka  staff  831850 Jun 11 16:01 blender-uselessbox.png
+123435228 -rw-r--r--@  1 romankazicka  staff  902922 Jun 11 16:01 IMG_20240110_162244.jpg
+123435229 -rw-r--r--@  1 romankazicka  staff  578582 Jun 11 16:01 IMG_20240110_162250.jpg
+123435218 -rw-r--r--@  1 romankazicka  staff  717436 Jun 11 16:01 IMG_20240110_163035.jpg
+123435226 -rw-r--r--@  1 romankazicka  staff  387350 Jun 11 16:01 IMG_20240110_172441.jpg
+123435222 -rw-r--r--@  1 romankazicka  staff  535803 Jun 11 16:01 IMG_20240111_133350.jpg
+123435225 -rw-r--r--@  1 romankazicka  staff  393557 Jun 11 16:01 IMG_20240112_130110.jpg
+123435219 -rw-r--r--@  1 romankazicka  staff  393860 Jun 11 16:01 IMG_20240112_130120.jpg
+123435221 -rw-r--r--@  1 romankazicka  staff  771613 Jun 11 16:01 IMG_20240112_151916.jpg
+123435220 -rw-r--r--@  1 romankazicka  staff  521713 Jun 11 16:01 Paw.jpg
+123435223 -rw-r--r--@  1 romankazicka  staff      97 Jun 11 16:01 README.md
+
+./Project_030_UselessBox_STHDF_2023-2024/Printing_and_Cutting_Files:
+total 8
+123435200 drwxr-xr-x@ 5 romankazicka  staff  160 Jun 11 16:01 .
+123435190 drwxr-xr-x@ 9 romankazicka  staff  288 Jun 11 19:37 ..
+123435205 drwxr-xr-x@ 3 romankazicka  staff   96 Jun 11 16:01 Cutting
+123435201 drwxr-xr-x@ 4 romankazicka  staff  128 Jun 11 16:01 Printing
+123435204 -rw-r--r--@ 1 romankazicka  staff  609 Jun 11 16:01 README.md
+
+./Project_030_UselessBox_STHDF_2023-2024/Printing_and_Cutting_Files/Cutting:
+total 24
+123435205 drwxr-xr-x@ 3 romankazicka  staff     96 Jun 11 16:01 .
+123435200 drwxr-xr-x@ 5 romankazicka  staff    160 Jun 11 16:01 ..
+123435206 -rw-r--r--@ 1 romankazicka  staff  11790 Jun 11 16:01 Box_Cut.svg
+
+./Project_030_UselessBox_STHDF_2023-2024/Printing_and_Cutting_Files/Printing:
+total 496
+123435201 drwxr-xr-x@ 4 romankazicka  staff     128 Jun 11 16:01 .
+123435200 drwxr-xr-x@ 5 romankazicka  staff     160 Jun 11 16:01 ..
+123435202 -rw-r--r--@ 1 romankazicka  staff  173484 Jun 11 16:01 katsunemiku.stl
+123435203 -rw-r--r--@ 1 romankazicka  staff   74284 Jun 11 16:01 Paw.stl
+
+./Project_035_HraQuoridor_STHDF_2023-2024:
+total 32
+123435011 drwxr-xr-x@  9 romankazicka  staff   288 Jun 11 21:06 .
+123434091 drwxr-xr-x@ 29 romankazicka  staff   928 Jun 11 21:22 ..
+123435012 drwxr-xr-x@  4 romankazicka  staff   128 Jun 11 20:52 AboutUs
+123435036 drwxr-xr-x@ 28 romankazicka  staff   896 Jun 11 16:01 Figures
+123435035 -rw-r--r--@  1 romankazicka  staff  1278 Jun 11 19:37 index.md
+123435015 drwxr-xr-x@  5 romankazicka  staff   160 Jun 11 16:01 KnowledgeContribution
+123435024 drwxr-xr-x@  9 romankazicka  staff   288 Jun 11 21:08 Project
+123435023 -rw-r--r--@  1 romankazicka  staff  1278 Jun 11 16:01 README.md
+123526122 -rw-r--r--@  1 romankazicka  staff  5455 Jun 11 20:32 zoznam.txt
+
+./Project_035_HraQuoridor_STHDF_2023-2024/AboutUs:
+total 16
+123435012 drwxr-xr-x@ 4 romankazicka  staff   128 Jun 11 20:52 .
+123435011 drwxr-xr-x@ 9 romankazicka  staff   288 Jun 11 21:06 ..
+123435014 -rw-r--r--@ 1 romankazicka  staff  1738 Jun 11 16:01 About Me S-038-1.md
+123435013 -rw-r--r--@ 1 romankazicka  staff  3350 Jun 11 16:01 About_Me_S-035.md
+
+./Project_035_HraQuoridor_STHDF_2023-2024/Figures:
+total 19440
+123435036 drwxr-xr-x@ 28 romankazicka  staff      896 Jun 11 16:01 .
+123435011 drwxr-xr-x@  9 romankazicka  staff      288 Jun 11 21:06 ..
+123435055 -rw-r--r--@  1 romankazicka  staff    65336 Jun 11 16:01 comp-art.png
+123435052 -rw-r--r--@  1 romankazicka  staff    99966 Jun 11 16:01 curing.png
+123435058 -rw-r--r--@  1 romankazicka  staff   574196 Jun 11 16:01 Figure-BL1.png
+123435059 -rw-r--r--@  1 romankazicka  staff   251249 Jun 11 16:01 Figure-BL2.jpg
+123435061 -rw-r--r--@  1 romankazicka  staff   672374 Jun 11 16:01 Figure-Blender.png
+123435041 -rw-r--r--@  1 romankazicka  staff    18079 Jun 11 16:01 Figure-Quoridor-Compartments.png
+123435057 -rw-r--r--@  1 romankazicka  staff   216032 Jun 11 16:01 Figure-Quoridor-Original.jpg
+123435060 -rw-r--r--@  1 romankazicka  staff    18950 Jun 11 16:01 Figure-Quoridor-Our-Design-Sketch-Lid-Up.png
+123435048 -rw-r--r--@  1 romankazicka  staff     8830 Jun 11 16:01 Figure-Quoridor-Our-Design-Top-Down-Opening-Mechanism.png
+123435045 -rw-r--r--@  1 romankazicka  staff    12367 Jun 11 16:01 Figure-Quoridor-Our-Design-Top-Down.png
+123435050 -rw-r--r--@  1 romankazicka  staff    12765 Jun 11 16:01 Figure-SL1.png
+123435049 -rw-r--r--@  1 romankazicka  staff    47396 Jun 11 16:01 Figure-SL2.png
+123435056 -rw-r--r--@  1 romankazicka  staff   123866 Jun 11 16:01 model-blender.png
+123435039 -rw-r--r--@  1 romankazicka  staff   125158 Jun 11 16:01 model1.png
+123435042 -rw-r--r--@  1 romankazicka  staff    29702 Jun 11 16:01 model2.png
+123435040 -rw-r--r--@  1 romankazicka  staff   211402 Jun 11 16:01 model3.png
+123435047 -rw-r--r--@  1 romankazicka  staff  1025247 Jun 11 16:01 OUT-1.png
+123435044 -rw-r--r--@  1 romankazicka  staff   828141 Jun 11 16:01 OUT-2.png
+123435043 -rw-r--r--@  1 romankazicka  staff   624997 Jun 11 16:01 OUT-3.png
+123435038 -rw-r--r--@  1 romankazicka  staff  1929391 Jun 11 16:01 OUT-4.png
+123435037 -rw-r--r--@  1 romankazicka  staff  1887739 Jun 11 16:01 OUT-5.jpg
+123435046 -rw-r--r--@  1 romankazicka  staff    84821 Jun 11 16:01 print-digram.png
+123435054 -rw-r--r--@  1 romankazicka  staff   126621 Jun 11 16:01 print-set.png
+123435062 -rw-r--r--@  1 romankazicka  staff    92282 Jun 11 16:01 printer.png
+123435053 -rw-r--r--@  1 romankazicka  staff   647659 Jun 11 16:01 printers-comparision.png
+123435051 -rw-r--r--@  1 romankazicka  staff   157070 Jun 11 16:01 slicer.png
+
+./Project_035_HraQuoridor_STHDF_2023-2024/KnowledgeContribution:
+total 24
+123435015 drwxr-xr-x@ 5 romankazicka  staff   160 Jun 11 16:01 .
+123435011 drwxr-xr-x@ 9 romankazicka  staff   288 Jun 11 21:06 ..
+123435018 drwxr-xr-x@ 6 romankazicka  staff   192 Jun 11 16:01 Assets
+123435016 -rw-r--r--@ 1 romankazicka  staff  1726 Jun 11 16:01 Knowledge Contribution S-035.md
+123435017 -rw-r--r--@ 1 romankazicka  staff  7105 Jun 11 16:01 Knowledge Contribution S-038-1.md
+
+./Project_035_HraQuoridor_STHDF_2023-2024/KnowledgeContribution/Assets:
+total 576
+123435018 drwxr-xr-x@ 6 romankazicka  staff     192 Jun 11 16:01 .
+123435015 drwxr-xr-x@ 5 romankazicka  staff     160 Jun 11 16:01 ..
+123435020 -rw-r--r--@ 1 romankazicka  staff   25916 Jun 11 16:01 Adult-Kenyan-sand-boa.jpg
+123435019 -rw-r--r--@ 1 romankazicka  staff    4542 Jun 11 16:01 africa-locality.jpg
+123435021 -rw-r--r--@ 1 romankazicka  staff   30981 Jun 11 16:01 PR-53-Jak-vybrat-infrazarice-04-750x488.jpg
+123435022 -rw-r--r--@ 1 romankazicka  staff  223836 Jun 11 16:01 teraria.png
+
+./Project_035_HraQuoridor_STHDF_2023-2024/Project:
+total 64
+123435024 drwxr-xr-x@ 9 romankazicka  staff   288 Jun 11 21:08 .
+123435011 drwxr-xr-x@ 9 romankazicka  staff   288 Jun 11 21:06 ..
+123435033 -rw-r--r--@ 1 romankazicka  staff  6035 Jun 11 16:01 Business_Layer.md
+123543117 -rw-r--r--@ 1 romankazicka  staff   260 Jun 11 21:12 index.md
+123435026 drwxr-xr-x@ 6 romankazicka  staff   192 Jun 11 16:01 Models
+123435031 -rw-r--r--@ 1 romankazicka  staff  3000 Jun 11 16:01 Outcomes_and_Results.md
+123435032 -rw-r--r--@ 1 romankazicka  staff   207 Jun 11 16:01 Project- Summary.md
+123435025 -rw-r--r--@ 1 romankazicka  staff  2731 Jun 11 16:01 System_Layer.md
+123435034 -rw-r--r--@ 1 romankazicka  staff  7465 Jun 11 16:01 Technology_Layer.md
+
+./Project_035_HraQuoridor_STHDF_2023-2024/Project/Models:
+total 6160
+123435026 drwxr-xr-x@ 6 romankazicka  staff      192 Jun 11 16:01 .
+123435024 drwxr-xr-x@ 9 romankazicka  staff      288 Jun 11 21:08 ..
+123435027 -rw-r--r--@ 1 romankazicka  staff   119884 Jun 11 16:01 Base.stl
+123435029 -rw-r--r--@ 1 romankazicka  staff   130884 Jun 11 16:01 Pawn.stl
+123435030 -rw-r--r--@ 1 romankazicka  staff  2864384 Jun 11 16:01 Top_Plate.stl
+123435028 -rw-r--r--@ 1 romankazicka  staff    30284 Jun 11 16:01 Wall.stl
+
+./Project_036_MyProjectName_STHDF_2023-2024:
+total 16
+123435237 drwxr-xr-x@  4 romankazicka  staff   128 Jun 11 19:37 .
+123434091 drwxr-xr-x@ 29 romankazicka  staff   928 Jun 11 21:22 ..
+123435239 -rw-r--r--@  1 romankazicka  staff  2622 Jun 11 19:37 index.md
+123435238 -rw-r--r--@  1 romankazicka  staff  2622 Jun 11 16:01 README.md
+
+./Project_037_MyProjectName_STHDF_2023-2024:
+total 16
+123434573 drwxr-xr-x@  4 romankazicka  staff   128 Jun 11 19:37 .
+123434091 drwxr-xr-x@ 29 romankazicka  staff   928 Jun 11 21:22 ..
+123434575 -rw-r--r--@  1 romankazicka  staff  2622 Jun 11 19:37 index.md
+123434574 -rw-r--r--@  1 romankazicka  staff  2622 Jun 11 16:01 README.md
+
+./Project_042_Self_watering_planter_STHDF_2023-2024:
+total 32
+123434174 drwxr-xr-x@  5 romankazicka  staff    160 Jun 11 16:01 .
+123434091 drwxr-xr-x@ 29 romankazicka  staff    928 Jun 11 21:22 ..
+123434175 drwxr-xr-x@  4 romankazicka  staff    128 Jun 11 16:01 designs
+123434178 drwxr-xr-x@ 20 romankazicka  staff    640 Jun 11 16:01 images
+123434197 -rw-r--r--@  1 romankazicka  staff  16259 Jun 11 16:01 ondovcikova_skalican.md
+
+./Project_042_Self_watering_planter_STHDF_2023-2024/designs:
+total 136
+123434175 drwxr-xr-x@ 4 romankazicka  staff    128 Jun 11 16:01 .
+123434174 drwxr-xr-x@ 5 romankazicka  staff    160 Jun 11 16:01 ..
+123434177 -rw-r--r--@ 1 romankazicka  staff  41709 Jun 11 16:01 ondovcikova_skalican_box.pdf
+123434176 -rw-r--r--@ 1 romankazicka  staff  21474 Jun 11 16:01 watering_pot_skalican_ondovcikova.3mf
+
+./Project_042_Self_watering_planter_STHDF_2023-2024/images:
+total 12488
+123434178 drwxr-xr-x@ 20 romankazicka  staff      640 Jun 11 16:01 .
+123434174 drwxr-xr-x@  5 romankazicka  staff      160 Jun 11 16:01 ..
+123434186 -rw-r--r--@  1 romankazicka  staff   194306 Jun 11 16:01 ad.png
+123434181 -rw-r--r--@  1 romankazicka  staff   147172 Jun 11 16:01 design.png
+123434193 -rw-r--r--@  1 romankazicka  staff   271833 Jun 11 16:01 esp.jpg
+123434188 -rw-r--r--@  1 romankazicka  staff   466106 Jun 11 16:01 family.jpg
+123434191 -rw-r--r--@  1 romankazicka  staff    90251 Jun 11 16:01 hp.jpg
+123434187 -rw-r--r--@  1 romankazicka  staff   138490 Jun 11 16:01 lemontree2.png
+123434184 -rw-r--r--@  1 romankazicka  staff   131093 Jun 11 16:01 lemontree3.png
+123434182 -rw-r--r--@  1 romankazicka  staff   110443 Jun 11 16:01 microusb.jpg
+123434180 -rw-r--r--@  1 romankazicka  staff   332800 Jun 11 16:01 misko.jpg
+123434189 -rw-r--r--@  1 romankazicka  staff  2066979 Jun 11 16:01 pot.jpg
+123434185 -rw-r--r--@  1 romankazicka  staff   295140 Jun 11 16:01 prototype.jpg
+123434183 -rw-r--r--@  1 romankazicka  staff    19751 Jun 11 16:01 pumpa.jpg
+123434192 -rw-r--r--@  1 romankazicka  staff   340043 Jun 11 16:01 req.png
+123434196 -rw-r--r--@  1 romankazicka  staff   169060 Jun 11 16:01 senzor.jpg
+123434195 -rw-r--r--@  1 romankazicka  staff   231719 Jun 11 16:01 tech.png
+123434179 -rw-r--r--@  1 romankazicka  staff   537500 Jun 11 16:01 uc.png
+123434190 -rw-r--r--@  1 romankazicka  staff   645108 Jun 11 16:01 wiringg.png
+123434194 -rw-r--r--@  1 romankazicka  staff   167556 Jun 11 16:01 wp.jpg
+
+./Project_045_Cajnmik_STHDF_2023-2024:
+total 16
+123434367 drwxr-xr-x@  4 romankazicka  staff   128 Jun 11 19:37 .
+123434091 drwxr-xr-x@ 29 romankazicka  staff   928 Jun 11 21:22 ..
+123434369 -rw-r--r--@  1 romankazicka  staff  2622 Jun 11 19:37 index.md
+123434368 -rw-r--r--@  1 romankazicka  staff  2622 Jun 11 16:01 README.md

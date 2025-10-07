@@ -1,5 +1,6 @@
 # Dog-Fit
 
+![DogFir](./fotky/Banner-dog.png)
 ## Table of contents
 1. [Description](#Description)
 2. [Motivation](#motivation)
