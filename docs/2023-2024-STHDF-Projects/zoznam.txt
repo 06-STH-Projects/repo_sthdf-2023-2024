@@ -144,10 +144,10 @@ total 1128
 total 6032
 123434339 drwxr-xr-x@ 14 romankazicka  staff      448 Jun 11 19:37 .
 123434091 drwxr-xr-x@ 29 romankazicka  staff      928 Jun 11 21:22 ..
-123434342 -rw-r--r--@  1 romankazicka  staff     2623 Jun 11 16:01 01. Project overview (2023-2024-S013-S038).md
-123434357 -rw-r--r--@  1 romankazicka  staff     1297 Jun 11 16:01 02. Business layer (2023-2024-S013-S038).md
+123434342 -rw-r--r--@  1 romankazicka  staff     2623 Jun 11 16:01 01-project-overview-2023-2024-s013-s038.md
+123434357 -rw-r--r--@  1 romankazicka  staff     1297 Jun 11 16:01 02-business-layer-2023-2024-s013-s038.md
 123434356 -rw-r--r--@  1 romankazicka  staff     1441 Jun 11 16:01 03. System Layer (2023-2024-S013-S038).md
-123434359 -rw-r--r--@  1 romankazicka  staff     5460 Jun 11 16:01 04. Technical documentation (2023-2024-S013-S038).md
+123434359 -rw-r--r--@  1 romankazicka  staff     5460 Jun 11 16:01 04-technical-documentation-2023-2024-s013-s038.md
 123434358 -rw-r--r--@  1 romankazicka  staff    36977 Jun 11 16:01 Circuit.png
 123434341 -rw-r--r--@  1 romankazicka  staff     1855 Jun 11 16:01 Custom_watering_bell.scad
 123434363 -rw-r--r--@  1 romankazicka  staff  1432883 Jun 11 16:01 draft.png
@@ -532,7 +532,7 @@ total 56
 123435181 drwxr-xr-x@  7 romankazicka  staff    224 Jun 11 19:37 .
 123434091 drwxr-xr-x@ 29 romankazicka  staff    928 Jun 11 21:22 ..
 123435184 -rw-r--r--@  1 romankazicka  staff   2622 Jun 11 19:37 index.md
-123435186 -rw-r--r--@  1 romankazicka  staff  10332 Jun 11 16:01 Kamerový Systém.md
+123435186 -rw-r--r--@  1 romankazicka  staff  10332 Jun 11 16:01 kamerovy-system.md
 123435183 -rw-r--r--@  1 romankazicka  staff   2622 Jun 11 16:01 README.md
 123435182 -rw-r--r--@  1 romankazicka  staff   2233 Jun 11 16:01 Vida_Pinke_Camera.py
 123435185 -rw-r--r--@  1 romankazicka  staff   2546 Jun 11 16:01 Vida_Pinke_Motion_Detection.py
@@ -2099,7 +2099,7 @@ total 56
 123434169 drwxr-xr-x@  6 romankazicka  staff    192 Jun 11 20:25 .
 123434091 drwxr-xr-x@ 29 romankazicka  staff    928 Jun 11 21:22 ..
 123434173 -rw-r--r--@  1 romankazicka  staff   1598 Jun 11 16:01 alcohol_tester.ino
-123494647 -rw-r--r--@  1 romankazicka  staff    812 Jun 11 19:37 index copy.md
+123494647 -rw-r--r--@  1 romankazicka  staff    812 Jun 11 19:37 index-copy.md
 123434170 -rw-r--r--@  1 romankazicka  staff  13963 Jun 11 16:01 project_outcomes.md
 123434171 -rw-r--r--@  1 romankazicka  staff    812 Jun 11 16:01 readme.md
 
@@ -2199,7 +2199,7 @@ total 32
 total 16
 123435012 drwxr-xr-x@ 4 romankazicka  staff   128 Jun 11 20:52 .
 123435011 drwxr-xr-x@ 9 romankazicka  staff   288 Jun 11 21:06 ..
-123435014 -rw-r--r--@ 1 romankazicka  staff  1738 Jun 11 16:01 About Me S-038-1.md
+123435014 -rw-r--r--@ 1 romankazicka  staff  1738 Jun 11 16:01 about-me-s038-1.md
 123435013 -rw-r--r--@ 1 romankazicka  staff  3350 Jun 11 16:01 About_Me_S-035.md
 
 ./Project_035_HraQuoridor_STHDF_2023-2024/Figures:
@@ -2238,7 +2238,7 @@ total 24
 123435015 drwxr-xr-x@ 5 romankazicka  staff   160 Jun 11 16:01 .
 123435011 drwxr-xr-x@ 9 romankazicka  staff   288 Jun 11 21:06 ..
 123435018 drwxr-xr-x@ 6 romankazicka  staff   192 Jun 11 16:01 Assets
-123435016 -rw-r--r--@ 1 romankazicka  staff  1726 Jun 11 16:01 Knowledge Contribution S-035.md
+123435016 -rw-r--r--@ 1 romankazicka  staff  1726 Jun 11 16:01 knowledge-contribution-s035.md
 123435017 -rw-r--r--@ 1 romankazicka  staff  7105 Jun 11 16:01 Knowledge Contribution S-038-1.md
 
 ./Project_035_HraQuoridor_STHDF_2023-2024/KnowledgeContribution/Assets:

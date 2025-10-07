@@ -1,8 +1,8 @@
 ## Navigation
-**01. [Project overview](01. Project overview (2023-2024-S013-S038).md)** - project overview .<br/>
-**02. [Business layer](02. Business layer (2023-2024-S013-S038).md)** - motivation and requirements.<br/>
-**03. [System Layer](03. System Layer (2023-2024-S013-S038).md)** - component diagram, use case diagram, activity diagram.<br/>
-**04. [Technical documentation](04. Technical documentation (2023-2024-S013-S038).md)** - circuit and 3D models.<br/>
+**01. [Project overview](01-project-overview-2023-2024-s013-s038.md)** - project overview .<br/>
+**02. [Business layer](02-business-layer-2023-2024-s013-s038.md)** - motivation and requirements.<br/>
+**03. [System Layer](03-system-layer-2023-2024-s013-s038.md)** - component diagram, use case diagram, activity diagram.<br/>
+**04. [Technical documentation](04-technical-documentation-2023-2024-s013-s038.md)** - circuit and 3D models.<br/>
 
 ## Folder structure
 #### Folder contains 1 folder with images and 5 files besides READMEs:

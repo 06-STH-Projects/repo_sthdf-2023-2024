@@ -14,7 +14,7 @@ total 16
 123435012 drwxr-xr-x@ 4 romankazicka  staff   128 Jun 11 16:01 .
 123435011 drwxr-xr-x@ 9 romankazicka  staff   288 Jun 11 20:31 ..
 123435013 -rw-r--r--@ 1 romankazicka  staff  3350 Jun 11 16:01 About Me S-035.md
-123435014 -rw-r--r--@ 1 romankazicka  staff  1738 Jun 11 16:01 About Me S-038-1.md
+123435014 -rw-r--r--@ 1 romankazicka  staff  1738 Jun 11 16:01 about-me-s038-1.md
 
 ./Figures:
 total 19440
@@ -52,7 +52,7 @@ total 24
 123435015 drwxr-xr-x@ 5 romankazicka  staff   160 Jun 11 16:01 .
 123435011 drwxr-xr-x@ 9 romankazicka  staff   288 Jun 11 20:31 ..
 123435018 drwxr-xr-x@ 6 romankazicka  staff   192 Jun 11 16:01 Assets
-123435016 -rw-r--r--@ 1 romankazicka  staff  1726 Jun 11 16:01 Knowledge Contribution S-035.md
+123435016 -rw-r--r--@ 1 romankazicka  staff  1726 Jun 11 16:01 knowledge-contribution-s035.md
 123435017 -rw-r--r--@ 1 romankazicka  staff  7105 Jun 11 16:01 Knowledge Contribution S-038-1.md
 
 ./Knowledge Contribution/Assets:
